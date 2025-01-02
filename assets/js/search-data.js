@@ -17,15 +17,15 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-publicaciones",
-          title: "publicaciones",
-          description: "lista de publicaciones indexada cronológicamente. generado by jekyll-scholar.",
+          title: "Publicaciones",
+          description: "lista de publicaciones ordenadas cronológicamente. generado by jekyll-scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-proyectos",
+          title: "Proyectos",
+          description: "Cosas que a uno se le ocurren en luna llena.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
