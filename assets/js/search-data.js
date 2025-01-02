@@ -327,6 +327,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/twitter/";
         
       },
+    },{id: "post-pequeñas-carpetas-de-negativos",
+      
+        title: "Pequeñas carpetas de negativos",
+      
+      description: "Pequeñas carpetas de negativos",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/carpetas-negativos/";
+        
+      },
     },{id: "post-a-post-with-disqus-comments",
       
         title: "a post with disqus comments",
@@ -369,17 +380,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-a-simple-inline-announcement",
