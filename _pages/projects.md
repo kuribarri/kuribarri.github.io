@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Proyectos
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Cosas que a uno se le ocurren en luna llena.
 nav: true
 nav_order: 3
 display_categories: [work, fun]

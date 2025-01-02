@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publicaciones
-description: lista de publicaciones indexada cronológicamente. generado by jekyll-scholar.
+title: Publicaciones
+description: lista de publicaciones ordenadas cronológicamente. generado by jekyll-scholar.
 nav: true
 nav_order: 2
 ---
