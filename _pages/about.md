@@ -24,4 +24,3 @@ Miembro activo del foro Fujistas y del foro de Triumph, comparte su experiencia 
 
 En este blog, invita a acompañarlo en sus travesías y fotografías, creando un relato visual único de sus aventuras como montaraz y viajero incansable.
 
-Link to your social media connections, too. This theme is set up to use [Fujistas](https://fujistas.com/foro/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
