@@ -438,7 +438,7 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/49852270", "_blank");
+          window.open("https://instagram.com/553648129", "_blank");
         },
       },{
         id: 'social-rss',
