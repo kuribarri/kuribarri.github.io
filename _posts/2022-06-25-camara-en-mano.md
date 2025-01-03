@@ -2,8 +2,7 @@
 layout: post
 title: Cámara en mano por la Sierra de la Culebra
 date: 2022-06-25 23:36:10
-description: Cámara en mano por la Sierra
-de la Culebra, publicado en El norte de Castilla
+description: Cámara en mano por la Sierra de la Culebra, publicado en El norte de Castilla
 tags: incendio sierradelaculebra reportaje
 categories: sample-posts
 typograms: true
