@@ -335,7 +335,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2017/diagrams/";
+          window.location.href = "/blog/2017/melancolia/";
         
       },
     },{id: "post-un-día-como-hoy",
