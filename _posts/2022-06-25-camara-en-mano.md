@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Cámara en mano por la Sierra
-de la Culebra
+title: Cámara en mano por la Sierra de la Culebra
 date: 2022-06-25 23:36:10
 description: Cámara en mano por la Sierra
 de la Culebra, publicado en El norte de Castilla
