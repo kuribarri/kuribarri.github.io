@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 Apasionado fotógrafo amateur y motorista que ha encontrado en la combinación de sus dos grandes aficiones una forma única de explorar el mundo. Montado en su clásica café racer, recorre los caminos menos transitados, capturando con su cámara la belleza de la naturaleza y la esencia de la vida urbana.
 Siempre ha sentido una atracción innata por el diseño digital y la programación, habilidades que complementan perfectamente su enfoque creativo en la fotografía. A pesar de su formación como químico, su verdadera pasión siempre ha sido la aventura y el arte de capturar momentos.
 
-Con los años, Uribarri ha desarrollado un estilo fotográfico polifacético e indisciplinado, abrazando diversos géneros y desafiando las convenciones establecidas. En su bagage fotográfico abarca desde paisajes naturales, animales salvajes, hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y su constante búsqueda de nuevas perspectivas metas.
+Con los años ha desarrollado un estilo fotográfico polifacético e indisciplinado, abrazando diversos géneros y desafiando las convenciones establecidas. En su bagage fotográfico abarca desde paisajes naturales, animales salvajes, hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y su constante búsqueda de nuevas perspectivas metas.
 
 Miembro activo del foro Fujistas y del foro de Triumph, comparte su experiencia y conocimientos con otros entusiastas de la fotografía y las motocicletas. Su presencia en estas comunidades es un testimonio de su dedicación y pasión por ambos mundos.
 
