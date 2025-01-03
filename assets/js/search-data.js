@@ -144,17 +144,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/echarts/";
         
       },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/chartjs/";
-        
-      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
@@ -340,6 +329,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2014/videos/";
+        
+      },
+    },{id: "post-litostown",
+      
+        title: "Litostown",
+      
+      description: "Litos and the four seasons",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2013/chartjs/";
         
       },
     },{id: "news-a-simple-inline-announcement",
