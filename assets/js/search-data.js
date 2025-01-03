@@ -10,18 +10,11 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
-          },
-        },{id: "nav-publicaciones",
-          title: "Publicaciones",
-          description: "lista de publicaciones ordenadas cronológicamente. generado by jekyll-scholar.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
           },
         },{id: "nav-proyectos",
           title: "Proyectos",
