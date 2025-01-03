@@ -155,17 +155,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tikzjax/";
-        
-      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
@@ -175,28 +164,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/post-bibliography/";
-        
-      },
-    },{id: "post-a-post-with-jupyter-notebook",
-      
-        title: "a post with jupyter notebook",
-      
-      description: "an example of a blog post with jupyter notebook",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/jupyter-notebook/";
-        
-      },
-    },{id: "post-a-post-with-custom-blockquotes",
-      
-        title: "a post with custom blockquotes",
-      
-      description: "an example of a blog post with custom blockquotes",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/custom-blockquotes/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -219,17 +186,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -373,6 +329,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/images/";
+        
+      },
+    },{id: "post-la-colmena",
+      
+        title: "La Colmena",
+      
+      description: "Un videso sobre la vida en la colmena",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2014/videos/";
         
       },
     },{id: "news-a-simple-inline-announcement",
