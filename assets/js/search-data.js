@@ -78,28 +78,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/post-citation/";
         
       },
-    },{id: "post-a-post-with-pseudo-code",
-      
-        title: "a post with pseudo code",
-      
-      description: "this is what included pseudo code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/pseudocode/";
-        
-      },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code-diff/";
-        
-      },
     },{id: "post-a-post-with-advanced-image-components",
       
         title: "a post with advanced image components",
@@ -109,17 +87,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/advanced-images/";
-        
-      },
-    },{id: "post-a-post-with-vega-lite",
-      
-        title: "a post with vega lite",
-      
-      description: "this is what included vega lite code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/vega-lite/";
         
       },
     },{id: "post-a-post-with-geojson",
@@ -199,17 +166,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/table-of-contents/";
         
       },
-    },{id: "post-a-post-with-giscus-comments",
-      
-        title: "a post with giscus comments",
-      
-      description: "an example of a blog post with giscus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/giscus-comments/";
-        
-      },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
       
         title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -287,17 +243,6 @@ ninja.data = [{
           window.location.href = "/blog/2017/un-dia-como-hoy/";
         
       },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
     },{id: "post-a-post-with-code",
       
         title: "a post with code",
@@ -324,11 +269,11 @@ ninja.data = [{
       
         title: "La Colmena",
       
-      description: "Un videso sobre la vida en la colmena",
+      description: "La vida en La Colmena",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2014/videos/";
+          window.location.href = "/blog/2014/la-colmena/";
         
       },
     },{id: "post-litostown",
@@ -339,7 +284,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2013/chartjs/";
+          window.location.href = "/blog/2013/litostown/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -401,20 +346,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/553648129", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
