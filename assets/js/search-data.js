@@ -294,17 +294,6 @@ ninja.data = [{
           window.location.href = "/assets/pdf/example_pdf.pdf";
         
       },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/diagrams/";
-        
-      },
     },{id: "post-a-distill-style-blog-post",
       
         title: "a distill-style blog post",
@@ -338,6 +327,28 @@ ninja.data = [{
           window.location.href = "/blog/2020/carpetas-negativos/";
         
       },
+    },{id: "post-melancolía",
+      
+        title: "Melancolía",
+      
+      description: "Ensayo y pensamientos",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2017/diagrams/";
+        
+      },
+    },{id: "post-un-día-como-hoy",
+      
+        title: "Un día como hoy",
+      
+      description: "Ensayo y fotografía",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2017/un-dia-como-hoy/";
+        
+      },
     },{id: "post-a-post-with-disqus-comments",
       
         title: "a post with disqus comments",
@@ -347,17 +358,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
         
       },
     },{id: "post-a-post-with-code",
