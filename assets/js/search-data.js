@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2022-06-25-camara-en-mano/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -61,17 +72,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/tabs/";
-        
-      },
-    },{id: "post-a-post-with-typograms",
-      
-        title: "a post with typograms",
-      
-      description: "this is what included typograms code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/typograms/";
         
       },
     },{id: "post-a-post-that-can-be-cited",
