@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publicaciones
 description: lista de publicaciones ordenadas cronológicamente. generado by jekyll-scholar.
-nav: true
+nav: false
 nav_order: 2
 ---
 
