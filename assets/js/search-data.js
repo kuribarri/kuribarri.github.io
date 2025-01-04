@@ -56,17 +56,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/tabs/";
         
       },
-    },{id: "post-a-post-that-can-be-cited",
-      
-        title: "a post that can be cited",
-      
-      description: "this is what a post that can be cited looks like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/post-citation/";
-        
-      },
     },{id: "post-a-post-with-advanced-image-components",
       
         title: "a post with advanced image components",
@@ -87,17 +76,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/geojson-map/";
-        
-      },
-    },{id: "post-a-post-with-bibliography",
-      
-        title: "a post with bibliography",
-      
-      description: "an example of a blog post with bibliography",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -153,28 +131,6 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-        
-      },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-twitter",
