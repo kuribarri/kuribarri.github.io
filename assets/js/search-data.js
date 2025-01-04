@@ -89,17 +89,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/geojson-map/";
         
       },
-    },{id: "post-a-post-with-echarts",
-      
-        title: "a post with echarts",
-      
-      description: "this is what included echarts code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/echarts/";
-        
-      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
