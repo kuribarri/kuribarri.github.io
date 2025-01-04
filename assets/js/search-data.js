@@ -111,9 +111,9 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "post-a-post-with-twitter",
+    },{id: "post-pedro-uribarri-en-x-twitter",
       
-        title: "a post with twitter",
+        title: "Pedro Uribarri en X (Twitter)",
       
       description: "an example of a blog post with twitter",
       section: "Posts",
