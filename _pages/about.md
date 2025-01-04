@@ -6,7 +6,7 @@ subtitle: Photography and Travel Blog
 
 profile:
   align: right
-  image: 241129PUM.webp
+  image: 241129PUM2.webp
   image_circular: true # crops the image to make it circular
 
 
