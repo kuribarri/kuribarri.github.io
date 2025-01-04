@@ -34,17 +34,6 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-audios",
-      
-        title: "a post with audios",
-      
-      description: "this is what included audios could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/audios/";
-        
-      },
     },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
       
         title: "Cámara en mano por la Sierra de la Culebra",
