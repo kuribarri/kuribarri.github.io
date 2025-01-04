@@ -78,17 +78,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/audios/";
         
       },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
-        
-      },
     },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
       
         title: "Cámara en mano por la Sierra de la Culebra",
