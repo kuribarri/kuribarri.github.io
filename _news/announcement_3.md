@@ -2,7 +2,7 @@
 layout: post
 title: Cámara en mano por la Sierra de la Culebra
 date: 2022-06-25 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
