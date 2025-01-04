@@ -89,6 +89,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/carpetas-negativos/";
         
       },
+    },{id: "post-mi-primera-cámara-kodak-instamatic-25",
+      
+        title: "Mi primera cámara Kodak Instamatic 25",
+      
+      description: "Kodak Instamatic 25",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2018/kodak-instamatic-25/";
+        
+      },
     },{id: "post-melancolía",
       
         title: "Melancolía",
