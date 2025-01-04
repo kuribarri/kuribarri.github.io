@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2022-06-25-camara-en-mano/";
-        
-      },
-    },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -164,6 +153,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/table-of-contents/";
+        
+      },
+    },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
+      
+        title: "Cámara en mano por la Sierra de la Culebra",
+      
+      description: "Cámara en mano por la Sierra de la Culebra, publicado en El norte de Castilla",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/camara-en-mano/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
