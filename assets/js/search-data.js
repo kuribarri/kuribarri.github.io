@@ -34,6 +34,17 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
+    },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
+      
+        title: "Objetivo Cosinon-S 50mm f/1.8",
+      
+      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/cosinon-50mm/";
+        
+      },
     },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
       
         title: "Cámara en mano por la Sierra de la Culebra",
