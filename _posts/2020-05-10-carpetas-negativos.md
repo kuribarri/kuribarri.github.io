@@ -9,7 +9,7 @@ categories: vintage
 
 
 <div class="row mt-3">
-    {% include figure.liquid loading="eager" path="assets/img/2020-05-10-blogPUM.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/2020-05-10-blogPUM.webp" class="img-fluid rounded z-depth-1" zoomable=true width="30%" %}
 </div>
 
 De niño siempre me gustaba ver las fotografía que mi padre guarbaba en una vieja caja. Ahí encontraba negativos de 35mm y de formato medio, y las carpetas o sobres donde el dependiente de la tienda de fotos, en Bilbao, le entregaba. Han pasado muchos años y Los negativos los tengo guardados, limpios y a buen recaudo.
