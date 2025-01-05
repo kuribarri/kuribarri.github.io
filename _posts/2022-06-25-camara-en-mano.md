@@ -6,6 +6,7 @@ description: Cámara en mano por la Sierra de la Culebra, publicado en El norte 
 tags: incendio sierradelaculebra reportaje
 categories: publicaciones
 typograms: true
+featured: true
 ---
 
 
