@@ -10,10 +10,10 @@ categories: vintage
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img2020-05-10-blogPUM.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2020-5-10-post-img1.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2020-5-10-post-img2.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 
