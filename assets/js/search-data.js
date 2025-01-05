@@ -34,6 +34,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/cosinon-50mm/";
         
       },
+    },{id: "post-bjetivo-tamron-sp-90mm-f-2-5",
+      
+        title: "bjetivo Tamron SP 90mm f/2.5",
+      
+      description: "Objetivo Tamron SP 90mm f/2.5 Mod. 52BB)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/tamron-sp-90mm-52BB/";
+        
+      },
     },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
       
         title: "Cámara en mano por la Sierra de la Culebra",
