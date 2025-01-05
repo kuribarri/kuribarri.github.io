@@ -5,6 +5,7 @@ date: 2020-05-10 16:40:16
 description: Pequeñas carpetas de negativos
 tags: vintage negativos fotografia
 categories: vintage
+thumbnail: assets/img/2020-5-10-post-img2.webp
 ---
 
 
