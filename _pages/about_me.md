@@ -1,16 +1,3 @@
----
-layout: about_me
-title: Uribarri
-permalink: /about_me/
-subtitle: Pedro Uribarri
-nav: true
-nav_order: 4
-profile:
-  align: right
-  image: 241129PUM2.webp
-  image_circular: true # crops the image to make it circular
----
-
 
 Soy un apasionado fotógrafo amateur y motorista que ha encontrado en la combinación de mis dos grandes aficiones una forma única de explorar el mundo. Montado en mi clásica café racer, recorro los caminos menos transitados, capturando con mi cámara la belleza de la naturaleza y la esencia de la vida urbana. 
 
