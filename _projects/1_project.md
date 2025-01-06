@@ -8,9 +8,32 @@ category: work
 related_publications: true
 ---
 
-El pasado año me propuse la idea de hacer una mesa de juz con una barra donde colocar la Fuji X-T3 con el objetivo macro a 1:1 Tamron 90mm SP. Anteriormente probé con varios escáneres de diversas maneras. Tuve un Agfa profesional que no que llegó a convencer y se quedó obsoleto por su resolución. Luego compré un Rolley que lo escaneaba en una tarjeta SD, parecía más un juguete que un verdadero escaner. Miré la opción de comprar un escaner de negativos pero su relación precio/calidad para el uso que le iba a dar me rarecía muy caro. Miré en el mercado de segunda mano algún Plustek y me pareció un abuso lo que piden por ello. Así que me puse manos a la obra: hacerlo yo mismo.
+## Cómo Construí mi Propio Sistema para Digitalizar Negativos
 
-El resultado que obtengo con ello es bastante bueno, fotografía los negativos en RAW, lo revelo con Capture One y si luego necesita algun ajuste de temparatura u otra cosa, lo modifico. Se trabaja con este sistema de una formá fluída, y sobre todo recomiendo tener limpios los negativos o las diapositivas.
+El año pasado me propuse crear una mesa de trabajo personalizada para digitalizar negativos, equipada con una barra para colocar mi cámara Fuji X-T3 junto con un objetivo macro Tamron 90mm SP a una relación de 1:1. Había probado varios escáneres previamente, pero ninguno cumplió con mis expectativas, lo que me llevó a buscar una solución casera que se ajustara mejor a mis necesidades.
+
+Primero experimenté con un escáner Agfa profesional que, aunque era bueno, quedó obsoleto debido a su resolución limitada. Luego adquirí un Rollei que grababa los negativos escaneados en una tarjeta SD, pero su calidad lo hacía parecer más un juguete que un equipo profesional. También consideré los escáneres de negativos especializados, pero su relación calidad-precio no justificaba la inversión para el uso ocasional que planeaba darle. Incluso exploré opciones de segunda mano, como los Plustek, pero los precios eran desorbitados.
+
+Finalmente, decidí construir mi propio sistema desde cero.
+
+## El Resultado
+
+El sistema que diseñé ofrece resultados sorprendentes. Fotografío los negativos en formato RAW desde la Fuji X-T3, los revelo con Capture One y realizo ajustes adicionales, como la temperatura de color, si es necesario. Este método es rápido y eficiente, aunque la limpieza de los negativos o diapositivas es esencial para obtener resultados óptimos.
+
+## Materiales Necesarios
+
+Si te animas a replicar este proyecto, aquí te dejo la lista de materiales y algunos consejos:
+
+- Tabla para la base: En mi caso, reutilicé una tablilla que tenía en el desván.
+- Barra para el soporte: Compré una barra "Neewer" en Amazon que permite colocar el porta-zapatas.
+- Accesorio de luz: Utilicé un duplicador de negativos con un alargador adaptado para mi cámara. Aunque originalmente tenía otro propósito, me funcionó perfectamente.
+- Ángulo metálico y porta rosca: Este elemento sostiene el dispositivo de luz, permitiendo un anclaje firme.
+- Abrazaderas: Para asegurar la barra en su lugar y garantizar estabilidad.
+
+## Conclusión
+
+Construir este sistema me permitió ahorrar dinero y obtener resultados de alta calidad con una flexibilidad que no logré encontrar en los escáneres tradicionales. Si eres aficionado a la fotografía y tienes negativos que quieres digitalizar, este método casero podría ser una excelente opción para ti.
+
 
 
 <div class="row">
@@ -22,11 +45,5 @@ El resultado que obtengo con ello es bastante bueno, fotografía los negativos e
     </div>
 </div>
 
-Material a comprar:
 
-- Tabla para la base (En este scaso aproveché una tablilla que tenia en el desván).
-- Una barra para colocar el porta-zapatas. Yo compré un New en Amazon.
-- Para la luz de mesa compré un accesorio para duplicar negativos con un alargador a la cámara. El uso que le he dado es otro.
-- Un angulo metálico y un porta rosca anclado e ello para enroscar el pequeño dispositivo de luz.
-- Para el final de la barra unas abrazaderas.
 
