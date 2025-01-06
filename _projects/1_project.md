@@ -2,7 +2,7 @@
 layout: page
 title: Mesa de luz para digitalizar negativos y diapositivas
 description: Mesa de luz para digitalizar negativos
-img: assets/img/12.jpg
+img: assets/img/20241208-copia-negativos.webp
 importance: 1
 category: work
 related_publications: true
