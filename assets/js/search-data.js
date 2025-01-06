@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-sobre-mi",
+          title: "Sobre mi",
+          description: "Sobre el autor",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
       
         title: "Objetivo Cosinon-S 50mm f/1.8",
