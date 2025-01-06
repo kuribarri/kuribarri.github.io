@@ -5,7 +5,7 @@ description: Mesa de luz para digitalizar negativos
 img: assets/img/20241208-copia-negativos.webp
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Cómo Construí mi Propio Sistema para Digitalizar Negativos
