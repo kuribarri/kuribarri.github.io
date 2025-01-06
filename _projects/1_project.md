@@ -16,6 +16,16 @@ Primero experimenté con un escáner Agfa profesional que, aunque era bueno, que
 
 Finalmente, decidí construir mi propio sistema desde cero.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos-3.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ## El Resultado
 
 El sistema que diseñé ofrece resultados sorprendentes. Fotografío los negativos en formato RAW desde la Fuji X-T3, los revelo con Capture One y realizo ajustes adicionales, como la temperatura de color, si es necesario. Este método es rápido y eficiente, aunque la limpieza de los negativos o diapositivas es esencial para obtener resultados óptimos.
