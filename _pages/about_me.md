@@ -4,7 +4,7 @@ title: Uribarri
 permalink: /about_me/
 subtitle: Pedro Uribarri
 nav: true
-nav_order: 3
+nav_order: 4
 profile:
   align: right
   image: 241129PUM2.webp
