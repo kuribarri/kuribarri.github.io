@@ -35,9 +35,9 @@ El sistema que diseñé ofrece resultados sorprendentes. Fotografío los negativ
 Si te animas a replicar este proyecto, aquí te dejo la lista de materiales y algunos consejos:
 
 - Tabla para la base: En mi caso, reutilicé una tablilla que tenía en el desván.
-- Barra para el soporte: Compré una barra "Neewer" en Amazon que permite colocar el porta-zapatas.
-- Accesorio de luz: Utilicé un duplicador de negativos con un alargador adaptado para mi cámara. Aunque originalmente tenía otro propósito, me funcionó perfectamente.
-- Ángulo metálico y porta rosca: Este elemento sostiene el dispositivo de luz, permitiendo un anclaje firme.
+- Barra para el soporte: Compré un brazo de montaje de pared para focos Neewer. Con barra de hasta 60 cm y con adapatador de 1/4 a 3/8 (34€ en Amazon). lo coloqué en modo inverso que permite colocar el porta-zapatas.
+- 1 Zapata rápida Neewer de 1/4-3/8, con nivel burbuja (15€ aprox. en Amazon)
+- Accesorio de luz: Utilicé un adaptador de digitalización led de la marca JJC, con 10 niveles de brillo, alimentado por cable USB (30€ en Amazon)
 - Abrazaderas: Para asegurar la barra en su lugar y garantizar estabilidad.
 
 ## Conclusión
@@ -55,5 +55,9 @@ Construir este sistema me permitió ahorrar dinero y obtener resultados de alta 
     </div>
 </div>
 
+## Reseñas de los accesorios:
 
+- JCC Adaptador de digitalizacion de película, LED con 10 noveles de Brillo alimentador por USB.
+- Brazo de montaje de pared Neewer, con carga másxima de 4 Kg. Longitud ajustable de 38 cm a 60 cm. Equipado con tornillos adaptadores de 1/4 a 3/8. Base con cuatro agujeros.
+- Abrazadera Rápida Neewer de 1/4
 
