@@ -1,6 +1,6 @@
 ---
-layout: profiles
-permalink: /people/
+layout: page
+permalink: /sobre/
 title: Sobre mi
 description: Sobre el autor
 nav: true
