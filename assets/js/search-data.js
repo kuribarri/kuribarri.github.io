@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Sobre el autor",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/sobre/";
           },
         },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
       
