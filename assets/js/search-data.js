@@ -179,9 +179,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-diseño-del-escudo-de-litos-zamora",
+          title: 'Diseño del escudo de Litos (Zamora)',
+          description: "Diseño del escudo de Litos (Zamora)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
