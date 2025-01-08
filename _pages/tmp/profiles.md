@@ -20,5 +20,4 @@ Con los años, he desarrollado un estilo fotográfico polifacético e indiscipli
 
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
 
-(Falta Imagen)
 
