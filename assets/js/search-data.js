@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
+        },{id: "post-ruta-la-chorrera-de-hervás-y-las-charcas-verdes",
       
-        title: "Objetivo Cosinon-S 50mm f/1.8",
+        title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
       
-      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible",
+      description: "La Chorrera de Hervás y Las Charcas Verdes",
       section: "Posts",
       handler: () => {
         
