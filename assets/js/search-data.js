@@ -38,6 +38,17 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/blog/2023/ruta-hervas-la-chorrera-charcas-verdes/";
+        
+      },
+    },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
+      
+        title: "Objetivo Cosinon-S 50mm f/1.8",
+      
+      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/blog/2023/cosinon-50mm/";
         
       },
