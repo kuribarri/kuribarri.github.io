@@ -1,80 +1,59 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Diseño del escudo de Litos (Zamora)
+description: Diseño del escudo de Litos (Zamora)
+img: assets/img/050708EscudoLitos05178.webp
 importance: 3
-category: fun
+category: diseño
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### El Diseño del Escudo del Ayuntamiento de Litos (Zamora)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+En el invierno del 2004, durante una tranquila tarde que quedaría marcada en la memoria de los habitantes de Litos, surgió la idea del nuevo escudo del municipio. El alcalde, Eduardo Alonso, y yo nos reunimos con el propósito de crear un emblema que representara fielmente la esencia de este pueblo de la provincia de Zamora. La idea tomó forma rápidamente y, poco después, el primer boceto del escudo estuvo listo para su presentación oficial.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### El Proceso Creativo: Del Boceto a la Realidad
+
+El diseño del escudo se llevó a cabo de manera digital. Tras varias sesiones de intercambio de ideas y diálogos con el alcalde, emergieron los elementos que lo compondrían: una montaña gris, un lobo sobre fondo rojo, franjas azules y verdes, una encina y algunos detalles adicionales, como una hoja de roble en el centro.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2004EscudoLitos05171.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2004EscudoLitos05171.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Cada símbolo fue cuidadosamente seleccionado para reflejar el profundo vínculo de Litos con su historia, sus paisajes, su fauna y su entorno natural. A continuación, detallo los elementos que conforman el escudo y su simbolismo:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Elementos del Escudo: Significado y simbolismo
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+    1.	La Montaña Gris: La Sierra de la Culebra y el Pilo
 
-{% raw %}
+La montaña gris representa la Sierra de la Culebra, una de las formaciones geográficas más importantes de la región. En el diseño destaca el Pilo, una roca emblemática de la sierra que simboliza la unión y el sentido de identidad de los habitantes de Litos.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+    2.	El lobo sobre fondo rojo: Fuerza y carácter
 
-{% endraw %}
+En la parte superior derecha del escudo, un lobo aparece sobre un fondo rojo vibrante. Este animal, endémico de la Sierra de la Culebra, ha sido durante generaciones un símbolo de fortaleza, valentía y carácter indomable. El rojo intensifica esta representación, evocando pasión y energía, cualidades que los habitantes de Litos sienten como propias.
+
+    3.	Las ondas azules y verdes con el sol en el medio: El arroyo Castrón y las tierras de cultivo
+
+En la base del escudo, en la parte inferior derecha, se encuentran líneas onduladas azules y verdes que simbolizan el arroyo Castrón y las fértiles tierras de cultivo de la planicie conocida como Las Terricas. El arroyo, vital para el pueblo, resalta la conexión ecológica y social de Litos con su entorno. El sol, por su parte, representa la luz y el calor que caracterizan el clima de la región.
+
+    4.  La Encina y la Hoja de Roble: Naturaleza y comunidad
+
+En la zona inferior izquierda, una encina simboliza la abundancia de este árbol en los montes que rodean Litos. Este árbol ha sido un recurso esencial para los habitantes, especialmente durante los inviernos de la sierra. La hoja de roble en el centro rinde homenaje al robledal de La Ribera, un lugar de reunión y esparcimiento muy querido por los habitantes.
+
+### Presentación del Boceto al Ayuntamiento y Certificación Heráldica
+
+Con el boceto finalizado, lo presenté al alcalde, quien aprobó su diseño y lo sometió a un estudio heráldico oficial para su certificación. Este paso garantizó que el escudo cumpliera con las normativas heráldicas necesarias. Aunque en esa oficialización se realizaron algunos ajustes, el diseño que hice mantuvo su esencia y simbolismo original.
+Los cambios principales fueron:
+- Cambiar la montaña gris a verde.
+-	Ajustar la figura del lobo, pero manteniendo el fondo rojo.
+-	Fusionar los elementos inferiores, sustituyendo las franjas azules por dos líneas onduladas que representan el arroyo Castrón.
+- Incorporar tres encinas en la parte superior y eliminar el sol y la hoja de roble.
+
+### Resumiendo: 
+El diseño que realicé del escudo del Ayuntamiento de Litos representó un claro reflejo de la identidad del pueblo. A través de elementos naturales e históricos como la montaña, el lobo, el arroyo Castrón y las encinas, el escudo rinde homenaje a la cultura, las tradiciones y el espíritu de sus habitantes. Aunque se realizaron ajustes heráldicos, la simbología que planteé desde el inicio en el boceto se mantuvo intacta.
+Este escudo, nacido en una reunión entre el alcalde y yo, es ahora un símbolo de orgullo para los habitantes de Litos. Con su certificación oficial, se ha convertido en un emblema perdurable que refleja la estrecha relación del pueblo con su entorno natural, su historia y su gente.
+
