@@ -4,7 +4,7 @@ title: Diseño del escudo de Litos (Zamora)
 description: Diseño del escudo de Litos (Zamora)
 img: assets/img/050708EscudoLitos05178.webp
 importance: 3
-category: diseño
+category: work
 ---
 
 ### El Diseño del Escudo del Ayuntamiento de Litos (Zamora)
