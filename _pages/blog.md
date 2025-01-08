@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>Camera Peregrinatio</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>Camera Peregrinatio</h2>
+    <h3>{{ site.blog_description }}</h3>
     <p>Explorando horizontes, capturando momentos únicos y compartiendo historias que inspiran, conectan y transforman nuestras perspectivas del viaje y la fotografía</p>
   </div>
   {% endif %}
