@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Objetivo Cosinon-S 50mm f/1.8
-date: 2023-07-08 23:36:10-100
-description: Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible
-tags: objetivos fotografia vintage
-categories: objetivos
+title: Ruta La Chorrera de Hervás y Las Charcas Verdes
+date: 2023-08-08 23:36:10-100
+description: La Chorrera de Hervás y Las Charcas Verdes
+tags: rutas fotografia naturaleza
+categories: rutas
 typograms: true
 featured: false
-thumbnail: assets/img/cosina50mm1.webp
+thumbnail: assets/img/20230808-Ruta hervas.webp
 ---
 
 
@@ -19,6 +19,10 @@ Esta ruta es bien conocida, interesante para la fotografía de naturaleza y sobr
 ### Material de fotografía
 
 Recomiendo un gran angular, el tele te sobrará. También puedes llevar un 50mmm o un 90mm. No te cargues en exceso.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/20230808-Ruta hervas.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
 
 ### La ruta
 Partiendo desde la Plaza del Convento, encontrarás un panel informativo y una señal de inicio con los colores blanco y amarillo (líneas paralelas: blanco arriba, amarillo abajo). Este es el indicador de la ruta PRCC-36 hacia La Chorrera. Lo verás durante todo el trayecto, aunque a veces está pintado en piedras, postes o señales verticales. Si ves una "X" en lugar de las líneas paralelas, significa que ese no es el camino correcto.
