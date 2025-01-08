@@ -28,19 +28,19 @@ Cada símbolo fue cuidadosamente seleccionado para reflejar el profundo vínculo
 
 ### Elementos del Escudo: Significado y simbolismo
 
-    1.	La Montaña Gris: La Sierra de la Culebra y el Pilo
+    - La Montaña Gris: La Sierra de la Culebra y el Pilo
 
 La montaña gris representa la Sierra de la Culebra, una de las formaciones geográficas más importantes de la región. En el diseño destaca el Pilo, una roca emblemática de la sierra que simboliza la unión y el sentido de identidad de los habitantes de Litos.
 
-    2.	El lobo sobre fondo rojo: Fuerza y carácter
+    - El lobo sobre fondo rojo: Fuerza y carácter
 
 En la parte superior derecha del escudo, un lobo aparece sobre un fondo rojo vibrante. Este animal, endémico de la Sierra de la Culebra, ha sido durante generaciones un símbolo de fortaleza, valentía y carácter indomable. El rojo intensifica esta representación, evocando pasión y energía, cualidades que los habitantes de Litos sienten como propias.
 
-    3.	Las ondas azules y verdes con el sol en el medio: El arroyo Castrón y las tierras de cultivo
+    - Las ondas azules y verdes con el sol en el medio: El arroyo Castrón y las tierras de cultivo
 
 En la base del escudo, en la parte inferior derecha, se encuentran líneas onduladas azules y verdes que simbolizan el arroyo Castrón y las fértiles tierras de cultivo de la planicie conocida como Las Terricas. El arroyo, vital para el pueblo, resalta la conexión ecológica y social de Litos con su entorno. El sol, por su parte, representa la luz y el calor que caracterizan el clima de la región.
 
-    4.  La Encina y la Hoja de Roble: Naturaleza y comunidad
+    - La Encina y la Hoja de Roble: Naturaleza y comunidad
 
 En la zona inferior izquierda, una encina simboliza la abundancia de este árbol en los montes que rodean Litos. Este árbol ha sido un recurso esencial para los habitantes, especialmente durante los inviernos de la sierra. La hoja de roble en el centro rinde homenaje al robledal de La Ribera, un lugar de reunión y esparcimiento muy querido por los habitantes.
 
