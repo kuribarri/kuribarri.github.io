@@ -190,9 +190,9 @@ ninja.data = [{
           description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-diseño",
-          title: 'Diseño',
-          description: "Diseño",
+            },},{id: "projects-escudo-del-ayuntamiento-de-litos",
+          title: 'Escudo del Ayuntamiento de Litos',
+          description: "El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
