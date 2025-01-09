@@ -180,9 +180,9 @@ ninja.data = [{
           description: "Mesa de luz para digitalizar negativos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "Libro - Por donde vas tu, yo vuelvo",
+            },},{id: "projects-libro-por-donde-vas-tu-yo-vuelvo",
+          title: 'Libro - Por donde vas tu, yo vuelvo',
+          description: "Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
