@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Por donde tú vas, yo vuelvo - Libro
-description: Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos
+description: Un proyecto personal sin terminar que está encaminado a convertirse en un libro. Un cuaderno de campo de montes, rutas de la zona más oriental de la Sierra de la Culebra
 img: assets/img/202110-por-donde-tu-vas.webp
 importance: 2
 category: work
@@ -11,7 +11,7 @@ giscus_comments: true
 ### Por donde tú vas, yo vuelvo
 Montes, rutas, flora y fauna de la comarca de Litos
 
-Es un proyecto personal  que aún no he terminado que está encaminado a convertirse en un libro. Comenzó como un cuaderno de campo en el que, desde hace años, anotaba las rutas que iba descubriendo con tan solo un mapa cartográfico militar de los años setenta. Más tarde, con la ayuda de los GPS de montaña, continué repasando esos caminos por los montes de la Sierra de la Culebra, mientras anotaba en mi pequeña agenda todo aquello que veía o consideraba de interés.
+Es un proyecto personal que aún no he terminado que está encaminado a convertirse en un libro. Comenzó como un cuaderno de campo en el que, desde hace años, anotaba las rutas que iba descubriendo con tan solo un mapa cartográfico militar de los años setenta. Más tarde, con la ayuda de los GPS de montaña, continué repasando esos caminos por los montes de la Sierra de la Culebra, mientras anotaba en mi pequeña agenda todo aquello que veía o consideraba de interés.
 
 <div class="text-center">
 {% include figure.liquid loading="eager" path="assets/img/202110-por-donde-tu-vas.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
