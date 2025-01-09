@@ -17,7 +17,7 @@ Respuestas a preguntas que muchos mortales se hacen y que en la tranquilidad de 
 
 Incluye un breve estudio sobre el agnosticismo donde se sostiene que lo que trasciende es imposible conocer, y en cuestiones del intelecto debemos seguir a la razón tan lejos como nos lleve, sin atender a otras consideraciones y no suponer ciertas las conclusiones que no han sido demostradas o no son demostrables. Dicho de otra forma:
 
->Es erróneo que una persona diga que está segura de la verdad objetiva de una proposición a menos que pueda dar evidencia que justifique lógicamente >esa certeza. Esto es lo que el agnosticismo asevera, y en mi opinión, todo lo que es esencial para el agnosticismo (Thomas H. Huxley)
+>Es erróneo que una persona diga que está segura de la verdad objetiva de una proposición a menos que pueda dar evidencia que justifique lógicamente esa certeza. Esto es lo que el agnosticismo asevera, y en mi opinión, todo lo que es esencial para el agnosticismo (Thomas H. Huxley)
 
 Pedro Uribarri, autodidacta en filosofía, ensayo y teología. Buen conocedor del protestantismo alemán y americano, participó de joven con varias organizaciones ecuménicas, monitor de juventud, etc. Ha participado en multitud de debates en la Red.
 
