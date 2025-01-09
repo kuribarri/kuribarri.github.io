@@ -185,9 +185,9 @@ ninja.data = [{
           description: "Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-memoria-y-motivos",
+          title: 'Memoria y Motivos',
+          description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-diseño",
