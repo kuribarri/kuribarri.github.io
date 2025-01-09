@@ -180,8 +180,8 @@ ninja.data = [{
           description: "Mesa de luz para digitalizar negativos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-libro-por-donde-vas-tu-yo-vuelvo",
-          title: 'Libro - Por donde vas tu, yo vuelvo',
+            },},{id: "projects-libro-por-donde-tú-vas-yo-vuelvo",
+          title: 'Libro - Por donde tú vas, yo vuelvo',
           description: "Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -190,9 +190,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-diseño-del-escudo-de-litos-zamora",
-          title: 'Diseño del escudo de Litos (Zamora)',
-          description: "Diseño del escudo de Litos (Zamora)",
+            },},{id: "projects-diseño",
+          title: 'Diseño',
+          description: "Diseño",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
