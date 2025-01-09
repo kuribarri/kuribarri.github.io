@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoria y Motivos
+title: Memoria y Motivos - Libro
 description: Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer
 img: assets/img/12872280-Memorias-Motivos-P.webp
 importance: 3
