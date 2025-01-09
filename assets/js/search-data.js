@@ -182,7 +182,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-por-donde-tú-vas-yo-vuelvo-libro",
           title: 'Por donde tú vas, yo vuelvo - Libro',
-          description: "Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos",
+          description: "Un proyecto personal sin terminar que está encaminado a convertirse en un libro. Un cuaderno de campo de montes, rutas de la zona más oriental de la Sierra de la Culebra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-memoria-y-motivos-libro",
