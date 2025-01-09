@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Libro - Por donde vas tu, yo vuelvo
+title: Libro - Por donde tú vas, yo vuelvo
 description: Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos
 img: assets/img/202110-por-donde-tu-vas.webp
 importance: 2
