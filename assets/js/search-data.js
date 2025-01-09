@@ -180,13 +180,13 @@ ninja.data = [{
           description: "Mesa de luz para digitalizar negativos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-libro-por-donde-tú-vas-yo-vuelvo",
-          title: 'Libro - Por donde tú vas, yo vuelvo',
+            },},{id: "projects-por-donde-tú-vas-yo-vuelvo-libro",
+          title: 'Por donde tú vas, yo vuelvo - Libro',
           description: "Cuaderno de campo - Montes, rutas, flora y fauna de la comarca de Litos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-memoria-y-motivos",
-          title: 'Memoria y Motivos',
+            },},{id: "projects-memoria-y-motivos-libro",
+          title: 'Memoria y Motivos - Libro',
           description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
