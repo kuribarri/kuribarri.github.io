@@ -1,81 +1,23 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Memoria y Motivos
+description: Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer
+img: assets/img/12872280-Memorias-Motivos-P.webp
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer. Un repaso desde la vida hasta la muerte desde una visión laica, humanística y ética, carente de dogmas y de fe. Cada tema es narrado desde la pasión por la vida y por lo que trasciende. En ello hay una crítica ácida a las religiones, sus abusos y su poder.
+ 
+Respuestas a preguntas que muchos mortales se hacen y que en la tranquilidad de las respuestas genera nuevos horizontes. Interrogantes enfocados a un entorno más real, más actual, no limitados en algunos de los clichés morales que la cultura cristiana ha ido imponiendo tras el paso de los siglos como un bagaje lastrado.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/12872280-Memorias-Motivos.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Incluye un breve estudio sobre el agnosticismo donde se sostiene que lo que trasciende es imposible conocer, y en cuestiones del intelecto debemos seguir a la razón tan lejos como nos lleve, sin atender a otras consideraciones y no suponer ciertas las conclusiones que no han sido demostradas o no son demostrables. Dicho de otra forma:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+>Es erróneo que una persona diga que está segura de la verdad objetiva de una proposición a menos que pueda dar evidencia que justifique lógicamente >esa certeza. Esto es lo que el agnosticismo asevera, y en mi opinión, todo lo que es esencial para el agnosticismo (Thomas H. Huxley)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Pedro Uribarri, autodidacta en filosofía, ensayo y teología. Buen conocedor del protestantismo alemán y americano, participó de joven con varias organizaciones ecuménicas, monitor de juventud, etc. Ha participado en multitud de debates en la Red.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
