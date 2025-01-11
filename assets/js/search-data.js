@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-oporto-una-ciudad-para-descubrir-con-tu-cámara",
+        },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
+      
+        title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
+      
+      description: "En el noroeste de la provincia de Zamora, dentro del término municipal de Robleda-Cervantes y en la comarca de Sanabria, se encuentra Chaguaceda, un pueblo abandonado que guarda los ecos de su historia entre ruinas y vegetación.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/chaguaceda/";
+        
+      },
+    },{id: "post-oporto-una-ciudad-para-descubrir-con-tu-cámara",
       
         title: "Oporto. Una ciudad para descubrir con tu cámara",
       
