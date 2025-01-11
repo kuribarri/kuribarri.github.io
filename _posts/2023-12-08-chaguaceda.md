@@ -7,7 +7,7 @@ tags: rutas fotografia street-photo abandoned
 categories: rutas
 typograms: true
 featured: false
-thumbnail: 
+thumbnail: assets/img/2023-12-08-chaguaceda-1.webp
 ---
 
 ### Chaguaceda, cuando la naturaleza reclamó lo suyo
@@ -21,6 +21,15 @@ Situado estratégicamente en la tradicional Cañada Sanabresa, este pueblo desem
 
 Algunas fuentes apuntan a que la desaparición definitiva de Chaguaceda estuvo ligada a la construcción del embalse de Cernadilla en la década de los sesenta. 
 
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-1.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-3.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
+
 ### La leyenda de la maldición de Chaguaceda
 Chaguaceda no solo está en el olvido y en la serenidad de la naturaleza, sino también en el misterio de una leyenda que ha perdurado a lo largo del tiempo. 
 Según las historias locales, los habitantes de este pueblo eran conocidos por su egoísmo, ya que cobraban a los viajeros unos tributos por cruzar sus tierras. Este comportamiento egoísta habría provocado una maldición, manifestada en forma de una peste que diezmó a la población. Aunque no hay pruebas históricas que confirmen este relato, la leyenda añade un halo de misticismo a las ruinas de Chaguaceda.
@@ -33,6 +42,10 @@ Hoy, Chaguaceda se encuentra completamente abandonado, convertido en un lugar id
 Al llegar al corazón de Chaguaceda, se pueden observar los vestigios de su pasado: casas de piedra y pizarra, interiores de adobe que, aunque son ruinas, dejan entrever parte de su historia. Entre las ruinas, destaca un antiguo horno de pan que conserva, aunque deteriorada, su cúpula original, un testimonio de las labores cotidianas de sus antiguos habitantes. También se pueden encontrar algunas casas que fueron objeto de intentos de restauración hace unos años, aunque hoy parecen haber quedado nuevamente a merced del olvido.
 
 Chaguaceda es un lugar donde la naturaleza, la historia y la leyenda convergen, creando una experiencia única para quienes se aventuran a descubrir sus secretos.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
 
 ### Casas sanabresas: piedra y pizarra
 Una de las primeras cosas que llamará tu atención al fotografiar Chaguaceda es la arquitectura de sus casas, construidas con piedra y pizarra, fiel reflejo de las tradiciones sanabresas. Las escaleras de piedra, firmes a pesar del paso del tiempo, se encuentran cubiertas de musgo, añadiendo un toque melancólico a la escena.
