@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-ruta-la-chorrera-de-hervás-y-las-charcas-verdes",
+        },{id: "post-oporto-una-ciudad-para-descubrir-con-tu-cámara",
+      
+        title: "Oporto. Una ciudad para descubrir con tu cámara",
+      
+      description: "Una ciudad para descubrir con tu cámara",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/oporto-street-photo/";
+        
+      },
+    },{id: "post-ruta-la-chorrera-de-hervás-y-las-charcas-verdes",
       
         title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
       
