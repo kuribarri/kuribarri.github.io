@@ -96,6 +96,17 @@ ninja.data = [{
           window.location.href = "/blog/2022/camara-en-mano/";
         
       },
+    },{id: "post-el-hayedo-de-otzarreta-un-rincón-mágico-en-bizkaia",
+      
+        title: "El Hayedo de Otzarreta. Un rincón mágico en Bizkaia",
+      
+      description: "ubicado en el Parque Natural de Gorbeia, es uno de los bosques más icónicos de Bizkaia. Considerado uno de los bosques más bellos del mundo por National Geographic, Otzarreta destaca por sus hayas centenarias y su atmósfera mágica.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/hayedo-otzarreta/";
+        
+      },
     },{id: "post-pedro-uribarri-en-x-twitter",
       
         title: "Pedro Uribarri en X (Twitter)",
