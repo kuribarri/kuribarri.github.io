@@ -4,7 +4,7 @@ title: Ruta La Chorrera de Hervás y Las Charcas Verdes
 date: 2023-08-08 23:36:10-100
 description: Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás, sin usar vehículo.
 tags: rutas fotografia naturaleza
-categories: rutas
+categories: viajes-rutas
 typograms: true
 featured: false
 thumbnail: assets/img/20230808-Ruta hervas.webp

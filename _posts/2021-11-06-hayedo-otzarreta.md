@@ -4,7 +4,7 @@ title: El Hayedo de Otzarreta. Un rincón mágico en Bizkaia
 date: 2021-11-06 23:36:10-100
 description: Ubicado en el Parque Natural de Gorbeia, es uno de los bosques más icónicos de Bizkaia. Considerado uno de los bosques más bellos del mundo por National Geographic, Otzarreta destaca por sus hayas centenarias y su atmósfera mágica.
 tags: rutas fotografia street-photo abandoned
-categories: rutas naturaleza fotografia 
+categories: viajes-rutas naturaleza fotografia 
 typograms: true
 featured: false
 thumbnail: assets/img/2021-11-06-otzarreta-0.jpg

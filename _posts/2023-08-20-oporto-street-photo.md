@@ -4,7 +4,7 @@ title: Oporto. Una ciudad para descubrir con tu cámara
 date: 2023-08-08 23:36:10-100
 description: Una ciudad para descubrir con una perspectiva diferente, cómo disfrutar de Oporto a través de la fotografía de calle, o street photography
 tags: rutas fotografia street-photo
-categories: rutas
+categories: viajes-rutas
 typograms: true
 featured: true
 thumbnail: assets/img/2023-08-20-oporto-1.jpg
