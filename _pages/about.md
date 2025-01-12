@@ -6,8 +6,8 @@ subtitle: Photography and Travel Blog
 
 profile:
   align: right
-  image: 241129PUM2.webp
-  image_circular: true # crops the image to make it circular
+  image: PUM-portada-blog.webp
+  image_circular: false # crops the image to make it circular
 
 
 news: true # includes a list of news items
