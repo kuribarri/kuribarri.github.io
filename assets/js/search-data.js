@@ -45,7 +45,7 @@ ninja.data = [{
       
         title: "Oporto. Una ciudad para descubrir con tu cámara",
       
-      description: "Una ciudad para descubrir con tu cámara",
+      description: "Una ciudad para descubrir con una perspectiva diferente, cómo disfrutar de Oporto a través de la fotografía de calle, o street photography",
       section: "Posts",
       handler: () => {
         
@@ -56,7 +56,7 @@ ninja.data = [{
       
         title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
       
-      description: "La Chorrera de Hervás y Las Charcas Verdes",
+      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás, sin usar vehículo.",
       section: "Posts",
       handler: () => {
         
@@ -67,7 +67,7 @@ ninja.data = [{
       
         title: "Objetivo Cosinon-S 50mm f/1.8",
       
-      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible",
+      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible. Este objetivo es conocido por su excelente relación calidad-precio",
       section: "Posts",
       handler: () => {
         
@@ -78,7 +78,7 @@ ninja.data = [{
       
         title: "Objetivo Tamron SP 90mm f/2.5",
       
-      description: "Objetivo Tamron SP 90mm f/2.5 Mod. 52BB)",
+      description: "Hablar de objetivos legendarios es hablar del Tamron SP 90mm f/2.5 Macro (modelo 52BB), una joya óptica que combina calidad, robustez y versatilidad.",
       section: "Posts",
       handler: () => {
         
@@ -89,7 +89,7 @@ ninja.data = [{
       
         title: "Cámara en mano por la Sierra de la Culebra",
       
-      description: "Cámara en mano por la Sierra de la Culebra, publicado en El norte de Castilla",
+      description: "Artículo publicado en El norte de Castilla, después del gran incendio que asoló la Sierra de la culebra en Zamora.",
       section: "Posts",
       handler: () => {
         
@@ -122,7 +122,7 @@ ninja.data = [{
       
         title: "Mi primera cámara Kodak Instamatic 25",
       
-      description: "Kodak Instamatic 25",
+      description: "Una cámara compacta popular lanzada en 1966 como parte de la línea Instamatic de Kodak. Fabricada entre 1966 y 1972, con una lente fija.",
       section: "Posts",
       handler: () => {
         
