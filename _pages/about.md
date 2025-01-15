@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Bienvenido al blog personal de Pedro Uribarri
+### Bienvenido al blog personal de Pedro Uribarri
 
 La fotografía es mucho más que capturar un instante; es una forma de ver el mundo, de conectar con la naturaleza, con los paisajes que nos rodean y, sobre todo, con nosotros mismos. 
 
