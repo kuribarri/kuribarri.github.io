@@ -16,6 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Bienvenido al blog personal de Pedro Uribarri
+
 La fotografía es mucho más que capturar un instante; es una forma de ver el mundo, de conectar con la naturaleza, con los paisajes que nos rodean y, sobre todo, con nosotros mismos. 
 
 Este blog es un viaje personal a través de mi pasión por la fotografía, entrelazado con mis viajes en moto por montañas, valles, senderos solitarios y parajes que parecen haber sido esculpidos por el tiempo y la paciencia de la naturaleza.
@@ -26,4 +27,4 @@ Mi intención no es dictar reglas ni imponer verdades absolutas, sino compartir 
 
 Aquí no se trata solo de técnicas, sino también de un espacio para la reflexión. A través de mis ensayos, memorias y pensamientos nacidos en medio del silencio de las montañas o durante mis viajes con la Boneville. 
 
-Si amas la fotografía, si disfrutas perderte en paisajes naturales o si simplemente buscas una perspectiva diferente sobre cómo capturar y vivir el mundo, este blog está hecho para ti. Así que ajusta tu mochila, prepara tu cámara y acompáñame en este viaje donde la luz, las montañas y las carreteras se convierten en nuestros guías.
+Si te apasiona la fotografía, si disfrutas perderte en paisajes naturales o si simplemente buscas una perspectiva diferente sobre cómo capturar y vivir el mundo, este blog está hecho para ti. Así que ajusta tu mochila, prepara tu cámara y acompáñame en este viaje donde la luz, las montañas y las carreteras se convierten en nuestros guías.
