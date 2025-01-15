@@ -15,10 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Soy un apasionado fotógrafo amateur y motorista que ha encontrado en la combinación de mis dos grandes aficiones una forma única de explorar el mundo. Montado en mi clásica café racer, recorro los caminos menos transitados, capturando con mi cámara la belleza de la naturaleza y la esencia de la vida urbana. 
+### Bienvenido al blog personal de Pedro Uribarri
+La fotografía es mucho más que capturar un instante; es una forma de ver el mundo, de conectar con la naturaleza, con los paisajes que nos rodean y, sobre todo, con nosotros mismos. 
 
-Siempre he sentido una atracción por el diseño, retoque digital y la programación, habilidades que complementan perfectamente mi enfoque creativo en la fotografía. A pesar de mi formación como químico técnico perfumista, mi verdadera pasión es la naturaleza y el arte de capturar momentos.
+Este blog es un viaje personal a través de mi pasión por la fotografía, entrelazado con mis viajes en moto por montañas, valles, senderos solitarios y parajes que parecen haber sido esculpidos por el tiempo y la paciencia de la naturaleza.
 
-Con los años, he desarrollado un estilo fotográfico polifacético e indisciplinado, abrazando diversos géneros y desafiando las convenciones establecidas. En mi bagaje fotográfico abarco desde todo lo relacionado con la naturaleza, hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y mi constante búsqueda de nuevas perspectivas y metas.
+Aquí no solo encontrarás relatos de mis viajes y recursos prácticos para amantes de la fotografía: equipo que he probado, software de revelado y técnicas de diseño digital que he perfeccionado con el tiempo.
 
-En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
+Mi intención no es dictar reglas ni imponer verdades absolutas, sino compartir contigo lo que he aprendido empíricamente y de manera autodidacta en el camino de la vida.
+
+Aquí no se trata solo de técnicas, sino también de un espacio para la reflexión. A través de mis ensayos, memorias y pensamientos nacidos en medio del silencio de las montañas o durante mis viajes con la Boneville. 
+
+Si amas la fotografía, si disfrutas perderte en paisajes naturales o si simplemente buscas una perspectiva diferente sobre cómo capturar y vivir el mundo, este blog está hecho para ti. Así que ajusta tu mochila, prepara tu cámara y acompáñame en este viaje donde la luz, las montañas y las carreteras se convierten en nuestros guías.
