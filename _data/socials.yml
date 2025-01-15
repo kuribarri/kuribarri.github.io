@@ -47,5 +47,5 @@ rss_icon: true # set to true to show the RSS icon
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 logo: /assets/img/favico-u.png # can be png, svg, jpg
-title: Pedro Uribarri
-url: https://www.pedrouribarri.com/
+ #title: Pedro Uribarri
+# url: https://www.pedrouribarri.com/
