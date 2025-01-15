@@ -236,11 +236,39 @@ ninja.data = [{
           window.open("https://instagram.com/kuribarri", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/barripedrouribarri", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-logo',
+        title: 'Logo',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-title',
+        title: 'Title',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-url',
+        title: 'Url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
