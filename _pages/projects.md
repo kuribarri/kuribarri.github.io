@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proyectos
+title: Portafolios
 permalink: /projects/
 description: Cosas que a uno se le ocurren en luna llena.
 nav: true

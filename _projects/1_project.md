@@ -2,7 +2,7 @@
 layout: page
 title: Mesa de luz para digitalizar negativos y diapositivas
 description: Mesa de luz para digitalizar negativos
-img: assets/img/20241208-copia-negativos.webp
+img: assets/img/2024/2024-12-08-copia-negativos.webp
 importance: 1
 category: work
 related_publications: false
@@ -18,10 +18,10 @@ Finalmente, decidí construir mi propio sistema desde cero.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024/2024-12-08-copia-negativos.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos-3.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024/2024-12-08-copia-negativos-3.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -48,10 +48,10 @@ Construir este sistema me permitió ahorrar dinero y obtener resultados de alta 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos-2.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024/2024-12-08-copia-negativos-2.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20241208-copia-negativos-4.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024/2024-12-08-copia-negativos-4.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

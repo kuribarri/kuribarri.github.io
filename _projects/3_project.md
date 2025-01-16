@@ -2,7 +2,7 @@
 layout: page
 title: Memoria y Motivos - Libro
 description: Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer
-img: assets/img/12872280-Memorias-Motivos-P.webp
+img: assets/img/0000/12872280-Memorias-Motivos-P.webp
 importance: 3
 category: work
 ---
@@ -12,7 +12,7 @@ Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser huma
 Respuestas a preguntas que muchos mortales se hacen y que en la tranquilidad de las respuestas genera nuevos horizontes. Interrogantes enfocados a un entorno más real, más actual, no limitados en algunos de los clichés morales que la cultura cristiana ha ido imponiendo tras el paso de los siglos como un bagaje lastrado.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/12872280-Memorias-Motivos.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/0000/12872280-Memorias-Motivos.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
 Incluye un breve estudio sobre el agnosticismo donde se sostiene que lo que trasciende es imposible conocer, y en cuestiones del intelecto debemos seguir a la razón tan lejos como nos lleve, sin atender a otras consideraciones y no suponer ciertas las conclusiones que no han sido demostradas o no son demostrables. Dicho de otra forma:
