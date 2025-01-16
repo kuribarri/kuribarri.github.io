@@ -118,6 +118,17 @@ ninja.data = [{
           window.location.href = "/blog/2021/santa-cruz-cuerragos/";
         
       },
+    },{id: "post-objetivo-zeiss-touit-12mm-el-quot-patito-feo-quot",
+      
+        title: "Objetivo Zeiss Touit 12mm el &quot;Patito feo&quot;",
+      
+      description: "El Zeiss Touit 12mm f/2.8 es un objetivo gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. En mi caso, lo utilizo con mi cámara Fuji X-T3",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/zeiss-touit-12mm/";
+        
+      },
     },{id: "post-pedro-uribarri-en-x-twitter",
       
         title: "Pedro Uribarri en X (Twitter)",
