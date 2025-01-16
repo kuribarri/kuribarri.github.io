@@ -7,7 +7,7 @@ tags: rutas fotografia street-photo abandoned
 categories: viajes-rutas
 typograms: true
 featured: false
-thumbnail: assets/img/2023-12-08-chaguaceda-1.webp
+thumbnail: assets/img/2023/2023-12-08-chaguaceda-1.webp
 ---
 
 ### Chaguaceda, cuando la naturaleza reclamó lo suyo
@@ -23,10 +23,10 @@ Algunas fuentes apuntan a que la desaparición definitiva de Chaguaceda estuvo l
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-1.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-12-08-chaguaceda-1.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-3.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-12-08-chaguaceda-3.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 

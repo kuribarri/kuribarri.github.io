@@ -7,7 +7,7 @@ tags: rutas fotografia naturaleza
 categories: viajes-rutas
 typograms: true
 featured: false
-thumbnail: assets/img/20230808-Ruta hervas.webp
+thumbnail: assets/img/2023/2023-08-08-Ruta hervas.webp
 ---
 
 
