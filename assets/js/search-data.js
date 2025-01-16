@@ -107,6 +107,17 @@ ninja.data = [{
           window.location.href = "/blog/2021/hayedo-otzarreta/";
         
       },
+    },{id: "post-santa-cruz-de-cuerragos-desafío-al-tiempo",
+      
+        title: "Santa Cruz de Cuerragos. Desafío al tiempo",
+      
+      description: "Santa Cruz de los Cuérragos es un pequeño pueblo enclavado entre Sanabria y Carballeda, en pleno corazón de la Sierra de la Culebra (Zamora), en la ladera de Peña Castillo y muy cerca de la frontera con Portugal.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/santa-cruz-cuerragos/";
+        
+      },
     },{id: "post-pedro-uribarri-en-x-twitter",
       
         title: "Pedro Uribarri en X (Twitter)",
