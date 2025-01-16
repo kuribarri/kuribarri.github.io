@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-proyectos",
-          title: "Proyectos",
+        },{id: "nav-portafolios",
+          title: "Portafolios",
           description: "Cosas que a uno se le ocurren en luna llena.",
           section: "Navigation",
           handler: () => {
