@@ -249,7 +249,7 @@ ninja.data = [{
           title: 'Escudo del Ayuntamiento de Litos',
           description: "El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-instagram',
         title: 'Instagram',
