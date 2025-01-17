@@ -26,12 +26,12 @@ Con la Werlisa en mis manos, exploré tanto la fotografía en blanco y negro, co
 
 ### Especificaciones técnicas 
 
-    Tipo: Cámara compacta
-    Objetivo: Laotar 45mm f:2.8 Anastigmático
-    Obturador: Velocidades de 1/30, 1/60, 1/125 y Bulb
-    Diafragma: Tipo iris, con aperturas de f/2.8 a f/16
-    Película: 35mm (formato 135 Universal)
-    Enfoque: Manual, desde 1 metro hasta infinito
+- Tipo: Cámara compacta
+- Objetivo: Laotar 45mm f:2.8 Anastigmático
+- Obturador: Velocidades de 1/30, 1/60, 1/125 y Bulb
+- Diafragma: Tipo iris, con aperturas de f/2.8 a f/16
+- Película: 35mm (formato 135 Universal)
+- Enfoque: Manual, desde 1 metro hasta infinito
 
 ### Un tesoro del pasado en mi vitrina
 
