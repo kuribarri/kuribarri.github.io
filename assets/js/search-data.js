@@ -245,8 +245,8 @@ ninja.data = [{
           description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-exposición-de-fotos-antiguas-pedro-uribarri-2015",
-          title: 'Exposición de fotos antiguas. Pedro Uribarri 2015',
+            },},{id: "projects-exposición-fotográfica-fotos-antiguas-pedro-uribarri-2015",
+          title: 'Exposición Fotográfica - Fotos antiguas. Pedro Uribarri 2015',
           description: "Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
