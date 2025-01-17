@@ -44,7 +44,7 @@ Al llegar al corazón de Chaguaceda, se pueden observar los vestigios de su pasa
 Chaguaceda es un lugar donde la naturaleza, la historia y la leyenda convergen, creando una experiencia única para quienes se aventuran a descubrir sus secretos.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2023-12-08-chaguaceda-2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-12-08-chaguaceda-2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
 ### Casas sanabresas: piedra y pizarra
