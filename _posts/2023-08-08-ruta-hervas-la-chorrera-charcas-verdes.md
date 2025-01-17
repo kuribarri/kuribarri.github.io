@@ -7,7 +7,7 @@ tags: rutas fotografia naturaleza
 categories: viajes-rutas
 typograms: true
 featured: false
-thumbnail: assets/img/2023/2023-08-08-Ruta hervas.webp
+thumbnail: assets/img/2023/2023-08-08-ruta-hervas.webp
 ---
 
 
@@ -21,7 +21,7 @@ Esta ruta es bien conocida, interesante para la fotografía de naturaleza y sobr
 Recomiendo un gran angular, el tele te sobrará. También puedes llevar un 50mmm o un 90mm. No te cargues en exceso.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2023/2023-08-08-Ruta hervas.webp" class="rounded z-depth-0 w-55" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-08-08-ruta-hervas.webp" class="rounded z-depth-0 w-55" style="display: block; margin: 0 auto;" %}   
 </div>
 
 ### La ruta
