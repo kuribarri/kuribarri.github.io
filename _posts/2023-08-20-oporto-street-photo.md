@@ -48,7 +48,7 @@ Si continúas explorando, las callejuelas te llevarán en dos direcciones: hacia
 Pero si sales de la catedral por la fachada principal y bajas las empinadas escaleras hacia la Ribeira, llegarás al icónico puente de Don Luis I. Esta zona es especialmente atractiva para la fotografía urbana, con calles estrechas y empedradas que parecen sacadas de otro tiempo. Según bajas enrédate entre esas callejuelas, descubrirás rincones únicos. Si según bajas esas escaleras deseas volver a subir y no deseas hacerlo andando, que sepas que justo a la izquierda según has bajado hay un ascensor.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2023/2023-08-20-oporto-3.jpg" class="rounded z-depth-0 w-60" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-08-20-oporto-3.jpg" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
 Cuando llegues al puente, no pierdas la oportunidad de fotografiarlo al atardecer. La luz del sol desde el oeste, crea contrastes y sombras que son un regalo para cualquier fotógrafo. Desde el mirador del Jardim do Morro, situado al otro lado del puente, podrás capturar perspectivas únicas con un teleobjetivo.
@@ -58,7 +58,7 @@ Cuando llegues al puente, no pierdas la oportunidad de fotografiarlo al atardece
 Cuando llegues al puente, no pierdas la oportunidad de fotografiarlo al atardecer. Destacaría el juego que da el paso de infinidad de turistas a diario. Te recomiendo las horas del atardecer, cuando el sol incide en el desde el oeste generando fuertes contrastes y sombras. Puedes fotografiar desde el mismo puente, o bien si lo deseas una zona ideal es desde el mirador que hay en el otro extremo del mismo, el Jardim do Morro. Desde ahí con un teleobjetivo puedes hacer buenas fotos.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2023-08-20-oporto-4.jpg" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2023/2023-08-20-oporto-4.jpg" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
 ### Oporto, sin límites para la fotografía
