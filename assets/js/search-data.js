@@ -151,6 +151,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/carpetas-negativos/";
         
       },
+    },{id: "post-la-werlisa-color-la-cámara-que-marcó-una-época-en-mi-adolescencia",
+      
+        title: "La Werlisa Color. La cámara que marcó una época en mi adolescencia",
+      
+      description: "La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/werlisa-color/";
+        
+      },
     },{id: "post-mi-primera-cámara-kodak-instamatic-25",
       
         title: "Mi primera cámara Kodak Instamatic 25",
