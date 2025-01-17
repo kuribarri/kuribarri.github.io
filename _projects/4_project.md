@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Exposición de fotos antiguas. Pedro Uribarri 2015 
+title: Exposición Fotográfica - Fotos antiguas. Pedro Uribarri 2015 
 description: Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015. 
-img: assets/img/2015/15-08-16-exposición-fotos-litos-0.webp
+img: assets/img/2015/15-08-16-exposicion-fotos-litos-0.webp
 importance: 4
 category: work
 ---
@@ -18,10 +18,10 @@ O sus descendientes. Otros volvieron. Y para todos, este encuentro con la exposi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposición-fotos-litos-3.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos-3.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposición-fotos-litos-1.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos-1.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -32,7 +32,11 @@ La matanza, las labores del campo, las procesiones, los encuentros familiares...
 Lo bonito, sin embargo, no es solo ver las fotos en blanco y negro o en colores desvaídos por el tiempo y elucubrar sobre quién es cada cual. Lo entrañable de la exposición es que cada imagen esconde una historia. Una de esas que hablan de tiempos diferentes. Uribarri, ese tipo de la cámara que aparece allá donde ocurra algo en las fiestas de Litos, las ha escuchado casi todas.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposición-fotos-litos-0.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 Y segun parece se ha quedado con ganas de más. "La exposición se montó en quince días", explica, y eso le ha obligado a correr un poco más de la cuenta para tenerlo todo a punto. No solo es escanear las fotos. Hay que retocarlas un poco, recuadrarlas para que todas se puedan positivar en 13x18... Trabajar, en suma, para que los recuerdos luzcan con el brillo que merecen.
@@ -43,5 +47,5 @@ Son retratos de recuerdos. Retazos de momentos que, unidos, forman la historia d
 Antonio Encinas - Periodista de El Norte de Castilla.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposición-fotos-litos-2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos-2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
