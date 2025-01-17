@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Uribarri
+title: Home
 permalink: /
 subtitle: Photography and Travel Blog
 
