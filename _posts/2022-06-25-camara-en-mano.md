@@ -7,6 +7,7 @@ tags: incendio sierradelaculebra reportaje
 categories: publicaciones
 typograms: true
 featured: true
+thumbnail: assets/img/2022/2022-06-25-camara-en-mano-01.webp
 ---
 
 
