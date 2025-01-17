@@ -245,6 +245,11 @@ ninja.data = [{
           description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-exposición-de-fotos-antiguas-pedro-uribarri-2015",
+          title: 'Exposición de fotos antiguas. Pedro Uribarri 2015',
+          description: "Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-escudo-del-ayuntamiento-de-litos",
           title: 'Escudo del Ayuntamiento de Litos',
           description: "El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario",
