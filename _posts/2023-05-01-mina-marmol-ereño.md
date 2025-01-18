@@ -7,7 +7,7 @@ tags: rutas fotografia street-photo abandoned
 categories: viajes-rutas
 typograms: true
 featured: false
-thumbnail: assets/img/2023/23-03-30-ereño-cantera-00801.webp
+thumbnail: assets/img/2023/23-03-30-ereno-kantegorria-00801.webp
 ---
 
 
@@ -23,10 +23,10 @@ Declarada Patrimonio Histórico de Bizkaia y de Interés Geológico del País Va
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2023/23-03-30-ereño-cantera-00807.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2023/23-03-30-ereno-kantegorria-00807.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2023/23-03-30-ereño-cantera-00812.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2023/23-03-30-ereno-kantegorria-00812.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 
@@ -41,7 +41,7 @@ Fotografía de paisaje: Para destacar la cantera y su entorno, un objetivo está
 Fotografía de lugares abandonados: Si eres como yo, que te gusta "ratonear" por los lugares abandonados, las estructuras en ruinas ofrecen oportunidades únicas. Es ideal contar con un gran angular y un objetivo luminoso. Además, no estaría de mas llevar un complemento de iluminación, te ayudará a destacar detalles curiosos que el polvo de mármol ha impregnado en esos espacios oscuros.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="30%" path="assets/img/2023/23-03-30-ereño-cantera-00793.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="30%" path="assets/img/2023/23-03-30-ereno-kantegorria-00793.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Escalada y Aventura
@@ -49,7 +49,7 @@ Fotografía de lugares abandonados: Si eres como yo, que te gusta "ratonear" por
 Según la normativa vigente en Bizkaia, la Cantera de Ereño está clasificada como una zona apta para la escalada durante todo el año. Por ello, muchos aficionados aprovechan los fines de semana para practicar en sus imponentes paredes. Es común ver a escaladores literalmente colgados de las grandes superficies verticales, formadas durante la actividad minera de la cantera.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="30%" path="assets/img/2023/23-03-30-ereño-cantera-00800.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="30%" path="assets/img/2023/23-03-30-ereno-kantegorria-00800.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Coordenadas geográficas:
