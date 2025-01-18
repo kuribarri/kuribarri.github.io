@@ -32,7 +32,7 @@ La matanza, las labores del campo, las procesiones, los encuentros familiares...
 Lo bonito, sin embargo, no es solo ver las fotos en blanco y negro o en colores desvaídos por el tiempo y elucubrar sobre quién es cada cual. Lo entrañable de la exposición es que cada imagen esconde una historia. Una de esas que hablan de tiempos diferentes. Uribarri, ese tipo de la cámara que aparece allá donde ocurra algo en las fiestas de Litos, las ha escuchado casi todas.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" path="assets/img/2015/15-08-16-exposicion-fotos-litos.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto; width: 30%;" zoomable=true %}   
 </div>
 
 Y segun parece se ha quedado con ganas de más. "La exposición se montó en quince días", explica, y eso le ha obligado a correr un poco más de la cuenta para tenerlo todo a punto. No solo es escanear las fotos. Hay que retocarlas un poco, recuadrarlas para que todas se puedan positivar en 13x18... Trabajar, en suma, para que los recuerdos luzcan con el brillo que merecen.
