@@ -118,6 +118,17 @@ ninja.data = [{
           window.location.href = "/blog/2021/hayedo-otzarreta/";
         
       },
+    },{id: "post-fotografiando-la-triumph-bonneville",
+      
+        title: "Fotografiando la Triumph Bonneville",
+      
+      description: "A simple vista, fotografiar una moto podría parecer una tarea sencilla. Sin embargo, cuando te enfrentas a los reflejos del metal, y los detalles que desafían la nitidez, descubres que hay todo un trabajo detrás.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/fotografiando-triumph-bonneville/";
+        
+      },
     },{id: "post-santa-cruz-de-cuerragos-desafío-al-tiempo",
       
         title: "Santa Cruz de Cuerragos. Desafío al tiempo",
