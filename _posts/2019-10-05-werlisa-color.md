@@ -6,6 +6,7 @@ description: La Werlisa Color fue mi segunda cámara, y su impacto en mi vida ad
 tags: camaras fotografia vintage
 categories: camaras
 typograms: true
+thumbnail: assets/img/2019-10-05-werlisa-color-model-d.webp
 ---
 
 ### La Werlisa Color. La cámara que marcó una época en mi vida fotográfica
