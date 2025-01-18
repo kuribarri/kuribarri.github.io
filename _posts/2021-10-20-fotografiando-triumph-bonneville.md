@@ -15,7 +15,7 @@ A simple vista, fotografiar una moto podría parecer una tarea sencilla. Es un o
 Las motos han sido una parte esencial de mi vida desde los veinte años. A lo largo de las décadas, muchos modelos me han acompañado en innumerables aventuras y momentos inolvidables. Ahora, con más de sesenta primaveras a mis espaldas, sé que mi actual moto, una Triumph Bonneville, probablemente será la última. Una clásica café racer para un clásico como yo. Y, sin duda, es la moto que más he fotografiado.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2021/2021-10-28-triumph-2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2021/2021-10-28-triumph-3.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 Con buen tiempo, mi moto y mi cámara forman un tandem perfecto. Mi compañera de aventuras fotográficas es la Fuji X100S, una cámara compacta y versátil, ideal para la fotografía callejera y para capturar esos momentos especiales en mis rutas moteras. Ligera, pequeña y polivalente, se ha ganado un lugar fijo en mi mochila.
@@ -27,7 +27,7 @@ Cada vez que encuentro un lugar curioso o abandonado, no puedo resistirme a dete
 {% include figure.liquid loading="eager" path="assets/img/2021/2021-10-28-triumph-1.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2021/2021-10-28-triumph-3.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2021/2021-10-28-triumph-2.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 
