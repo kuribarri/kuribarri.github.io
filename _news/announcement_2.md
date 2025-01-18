@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oporto: Una ciudad para descubrir con tu cámara
+title: Oporto. Una ciudad para descubrir con tu cámara
 date: 2023-08-20 16:11:00-0400
 inline: false
 related_posts: false
