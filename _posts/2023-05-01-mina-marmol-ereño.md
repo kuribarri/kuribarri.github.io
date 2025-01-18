@@ -4,7 +4,7 @@ title: Kanteragorria de Ereño. Fotografíando en rojo
 date: 2023-12-08 23:36:10-100
 description: La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en el corazón de Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae a fotógrafos y curiosos por igual. 
 tags: rutas fotografia street-photo abandoned
-categories: viajes-rutas
+categories: lugares
 typograms: true
 featured: false
 thumbnail: assets/img/2023/23-03-30-ereno-kantegorria-00801.webp
