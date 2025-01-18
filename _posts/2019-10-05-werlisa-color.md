@@ -12,6 +12,10 @@ typograms: true
 
 La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica. Con la Werlisa Color, entré de lleno en el mundo de la fotografía manual, donde debía enfocar, ajustar el diafragma y seleccionar la velocidad de obturación. Este nivel de control transformó mi perspectiva: la fotografía dejó de ser solo un pasatiempo para convertirse en una forma de creaatividad. 
 
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/2019-10-05-werlisa-color-model-d.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
+
 ### Una mirada a la historia de Werlisa
 
 Hablar de Werlisa es hablar de una parte de la historia fotográfica española. Esta marca fue fabricada por la empresa Certex SA, ubicada en Vic (Barcelona), y se convirtió en un referente para los aficionados a la fotografía durante las décadas de 1960 y 1970. En 1959, Certex adoptó oficialmente el nombre Werlisa para sus cámaras, consolidándose como un símbolo de la fotografía en España. Las cámaras Werlisa, especialmente las compactas de película de 35 mm, estaban diseñadas para el mercado de consumo masivo, ofreciendo una experiencia accesible y económica a los fotógrafos amateur. En una época en la que las cámaras más avanzadas eran inaccesibles para muchos, modelos como este acercaron la posibilidad de capturar el mundo en color a un público amplio. Certex SA, cesó su actividad en 1988 al entrar en suspensión de pagos, y osteriormente, en 1992, su fábrica sufrió un trágico incendio.
