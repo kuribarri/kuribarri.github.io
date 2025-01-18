@@ -239,19 +239,21 @@ ninja.data = [{
           window.location.href = "/blog/2013/litostown/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
+    },{id: "news-el-hayedo-de-otzarreta-un-rincón-mágico-en-bizkaia",
+          title: 'El Hayedo de Otzarreta. Un rincón mágico en Bizkaia',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "news-cámara-en-mano-por-la-sierra-de-la-culebra",
           title: 'Cámara en mano por la Sierra de la Culebra',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-oporto-una-ciudad-para-descubrir-con-tu-cámara",
+          title: 'Oporto. Una ciudad para descubrir con tu cámara',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
