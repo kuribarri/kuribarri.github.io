@@ -6,10 +6,16 @@ description: Una cámara compacta popular lanzada en 1966 como parte de la líne
 tags: camaras fotografia vintage
 categories: camaras
 typograms: true
+thumbnail: assets/img/2018/2018-12-05-kodak-instamatic-25.webp
+
 ---
 
 La Kodak Instamatic 25 fue una cámara compacta popular lanzada en 1966 como parte de la línea Instamatic de Kodak. Fabricada entre 1966 y 1972. Con una lente fija de 43mm y con apertura f/11. El enfoque es fijo a infinito, con distancia mínima de enfoque de 1,2 metros. Kodak tenía un lema "Tú dispara, nosotros nos encargamos del resto".
 Para un niño de seis años, fue todo un descubrimiento. Puedo decir que si bien no saqué una foto buena con ella, sí sirvio para lanzarme al maravillos mundo de la fotografía.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/2018/2018-12-05-kodak-instamatic-25.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
 
 Tiene dos modos de obturación:
 1/90s (Símbolo de sol)

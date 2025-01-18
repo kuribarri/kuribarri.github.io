@@ -6,7 +6,7 @@ description: La Werlisa Color fue mi segunda cámara, y su impacto en mi vida ad
 tags: camaras fotografia vintage
 categories: camaras
 typograms: true
-thumbnail: assets/img/2019-10-05-werlisa-color-model-d.webp
+thumbnail: assets/img/2019/2019-10-05-werlisa-color-model-d.webp
 ---
 
 ### La Werlisa Color. La cámara que marcó una época en mi vida fotográfica
@@ -14,7 +14,7 @@ thumbnail: assets/img/2019-10-05-werlisa-color-model-d.webp
 La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica. Con la Werlisa Color, entré de lleno en el mundo de la fotografía manual, donde debía enfocar, ajustar el diafragma y seleccionar la velocidad de obturación. Este nivel de control transformó mi perspectiva: la fotografía dejó de ser solo un pasatiempo para convertirse en una forma de creaatividad. 
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/2019-10-05-werlisa-color-model-d.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/2019/2019-10-05-werlisa-color-model-d.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
 ### Una mirada a la historia de Werlisa
