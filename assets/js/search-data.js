@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/chaguaceda/";
         
       },
+    },{id: "post-kanteragorria-de-ereño-fotografíando-en-rojo",
+      
+        title: "Kanteragorria de Ereño. Fotografíando en rojo",
+      
+      description: "La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en el corazón de Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae a fotógrafos y curiosos por igual.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/mina-marmol-ere%C3%B1o/";
+        
+      },
     },{id: "post-oporto-una-ciudad-para-descubrir-con-tu-cámara",
       
         title: "Oporto. Una ciudad para descubrir con tu cámara",
