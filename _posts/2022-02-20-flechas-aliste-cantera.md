@@ -39,5 +39,5 @@ Lo primero que llama la atención es el lago de aguas azul turquesa que se form�
 Para acceder a esta cantera, lo deberás de hacer por la misma carretera que te lleva al pueblo ZA-P-2437, pero antes de llegar al pueblo, más o menos un par de kilómetros, es necesario desviarse a la derecha por un camino carretero de tierra bastante estrecho y en mal estado. Aunque se puede llegar en coche, es imprescindible extremar la precaución: el camino no permite el paso simultáneo de vehículos en sentidos opuestos, y las ramas de los arbustos pueden arañar la carrocería.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2022/2022-02-20-flechas-aliste-p.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2022/2022-02-20-flechas-aliste-p.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
