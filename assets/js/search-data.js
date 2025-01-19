@@ -56,7 +56,7 @@ ninja.data = [{
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
       
-      description: "En el noroeste de la provincia de Zamora, dentro del término municipal de Robleda-Cervantes y en la comarca de Sanabria, se encuentra Chaguaceda, un pueblo abandonado que guarda los ecos de su historia entre ruinas y vegetación.",
+      description: "En el noroeste de la provincia de Zamora, en el término municipal de Robleda-Cervantes, se encuentra Chaguaceda, un pueblo abandonado que guarda los ecos de su historia entre ruinas y vegetación.",
       section: "Posts",
       handler: () => {
         
@@ -67,7 +67,7 @@ ninja.data = [{
       
         title: "Kanteragorria de Ereño. Fotografíando en rojo",
       
-      description: "La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en el corazón de Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae a fotógrafos y curiosos por igual.",
+      description: "La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae.",
       section: "Posts",
       handler: () => {
         
@@ -78,7 +78,7 @@ ninja.data = [{
       
         title: "Oporto. Una ciudad para descubrir con tu cámara",
       
-      description: "Una ciudad para descubrir con una perspectiva diferente, cómo disfrutar de Oporto a través de la fotografía de calle, o street photography",
+      description: "Una ciudad para descubrir con una perspectiva diferente, cómo disfrutar de Oporto a través de la fotografía de calle, o street photography.",
       section: "Posts",
       handler: () => {
         
@@ -89,7 +89,7 @@ ninja.data = [{
       
         title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
       
-      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás, sin usar vehículo.",
+      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás.",
       section: "Posts",
       handler: () => {
         
@@ -100,7 +100,7 @@ ninja.data = [{
       
         title: "Objetivo Cosinon-S 50mm f/1.8",
       
-      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible. Este objetivo es conocido por su excelente relación calidad-precio",
+      description: "Objetivo Cosinon-S 50mm f/1.8 Un clásico versátil y asequible. Este objetivo es conocido por su excelente relación calidad-precio.",
       section: "Posts",
       handler: () => {
         
@@ -155,7 +155,7 @@ ninja.data = [{
       
         title: "Santa Cruz de Cuerragos. Desafío al tiempo",
       
-      description: "Santa Cruz de los Cuérragos es un pequeño pueblo enclavado entre Sanabria y Carballeda, en pleno corazón de la Sierra de la Culebra (Zamora), en la ladera de Peña Castillo y muy cerca de la frontera con Portugal.",
+      description: "Santa Cruz de los Cuérragos es un pequeño pueblo enclavado entre Sanabria y Carballeda, en la Sierra de la Culebra (Zamora), y muy cerca de la frontera con Portugal.",
       section: "Posts",
       handler: () => {
         
@@ -166,7 +166,7 @@ ninja.data = [{
       
         title: "Objetivo Zeiss Touit 12mm el &quot;Patito feo&quot;",
       
-      description: "El Zeiss Touit 12mm f/2.8 es un objetivo gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. En mi caso, lo utilizo con mi cámara Fuji X-T3",
+      description: "El Zeiss Touit 12mm f/2.8  Uno de mis objetivos, un gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E.",
       section: "Posts",
       handler: () => {
         
@@ -199,7 +199,7 @@ ninja.data = [{
       
         title: "La Werlisa Color. La cámara que marcó una época en mi adolescencia",
       
-      description: "La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica.",
+      description: "La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Esto marcó nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica.",
       section: "Posts",
       handler: () => {
         
@@ -210,7 +210,7 @@ ninja.data = [{
       
         title: "Mi primera cámara Kodak Instamatic 25",
       
-      description: "Una cámara compacta popular lanzada en 1966 como parte de la línea Instamatic de Kodak. Fabricada entre 1966 y 1972, con una lente fija.",
+      description: "Mi primera cámara. Una cámara compacta popular lanzada en 1966 como parte de la línea Instamatic de Kodak. Fabricada entre 1966 y 1972, con una lente fija.",
       section: "Posts",
       handler: () => {
         
