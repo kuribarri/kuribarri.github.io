@@ -255,16 +255,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-cámara-en-mano-por-la-sierra-de-la-culebra",
-          title: 'Cámara en mano por la Sierra de la Culebra',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-oporto-una-ciudad-para-descubrir-con-tu-cámara",
           title: 'Oporto. Una ciudad para descubrir con tu cámara',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
+          title: 'Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
