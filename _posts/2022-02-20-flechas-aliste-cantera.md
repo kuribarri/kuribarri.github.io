@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flechas de Aliste. Un puebo y su cantera
+title: Flechas de Aliste. Un pueblo y su cantera
 date: 2023-12-08 23:36:10-100
 description: La cantera de Flechas de Aliste es una cantera de extracción de pizarra en la comarca de Aliste. 
 tags: lugares fotografia street-photo abandoned
