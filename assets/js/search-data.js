@@ -271,17 +271,17 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-por-donde-tú-vas-yo-vuelvo-libro",
-          title: 'Por donde tú vas, yo vuelvo - Libro',
+          title: 'Por donde tú vas, yo vuelvo (Libro)',
           description: "Un proyecto personal sin terminar que está encaminado a convertirse en un libro. Un cuaderno de campo de montes, rutas de la zona más oriental de la Sierra de la Culebra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-memoria-y-motivos-libro",
-          title: 'Memoria y Motivos - Libro',
+          title: 'Memoria y Motivos (Libro)',
           description: "Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-exposición-fotográfica-fotos-antiguas-pedro-uribarri-2015",
-          title: 'Exposición Fotográfica - Fotos antiguas. Pedro Uribarri 2015',
+            },},{id: "projects-exposición-fotográfica-fotos-antiguas-2015",
+          title: 'Exposición Fotográfica - Fotos antiguas 2015',
           description: "Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
