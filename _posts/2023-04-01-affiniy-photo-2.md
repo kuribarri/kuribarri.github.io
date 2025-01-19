@@ -7,7 +7,7 @@ tags: software fotografia
 categories: software fotografia
 typograms: true
 featured: true
-thumbnail: assets/img/2023/2023-04-01-affinity-photo-2.webp
+thumbnail: assets/img/2023/2023-04-01-affinity-photo2.webp
 ---
 
 Affinity Photo es una aplicación que adquirí y comencé a usar desde sus primeros días, y hoy me siento muy cómodo trabajando con ella en la edición de imágenes. A lo largo del tiempo, desde su lanzamiento inicial, ha evolucionado considerablemente, y debo decir que la transición de Photoshop a Affinity fue mucho menos traumática de lo que esperaba. Ahora, con la actualización a Affinity Photo 2, me gustaría compartir mis impresiones sobre esta nueva versión.
@@ -33,7 +33,7 @@ Affinity Photo ofrece una amplia gama de herramientas avanzadas para la edición
 - Algoritmo de unión de panoramas**: Permite crear panoramas perfectos con alineación automática y correcciones de perspectiva.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2023/2023-04-01-affinity-photo-2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2023/2023-04-01-affinity-photo2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Comparativa con Photoshop
