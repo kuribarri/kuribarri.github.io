@@ -74,9 +74,9 @@ ninja.data = [{
           window.location.href = "/blog/2023/mina-marmol-ere%C3%B1o/";
         
       },
-    },{id: "post-flechas-de-aliste-un-puebo-y-su-cantera",
+    },{id: "post-flechas-de-aliste-un-pueblo-y-su-cantera",
       
-        title: "Flechas de Aliste. Un puebo y su cantera",
+        title: "Flechas de Aliste. Un pueblo y su cantera",
       
       description: "La cantera de Flechas de Aliste es una cantera de extracción de pizarra en la comarca de Aliste.",
       section: "Posts",
