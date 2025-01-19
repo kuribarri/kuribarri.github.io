@@ -274,8 +274,8 @@ display_categories: ["fotografia", "lugares", "cafe-racer", "rutas", "ensayo", "
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pedro]
+  first_name: [Uribarri]
 
   style: apa
   locale: en
