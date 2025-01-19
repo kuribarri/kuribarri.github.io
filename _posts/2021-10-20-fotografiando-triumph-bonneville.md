@@ -3,7 +3,7 @@ layout: post
 title: Fotografiando la Triumph Bonneville
 date: 2021-10-20 16:40:16
 description: A simple vista, fotografiar una moto podría parecer una tarea sencilla. Sin embargo, cuando te enfrentas a los reflejos del metal, y los detalles que desafían la nitidez, descubres que hay todo un trabajo detrás.
-tags:  fotografia cafe-racer
+tags:  fotografia cafe-racer motos motocicletas
 categories: cafe-racer fotografia
 thumbnail: assets/img/2021/2021-10-28-triumph-2.webp
 ---

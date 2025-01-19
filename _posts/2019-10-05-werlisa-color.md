@@ -2,7 +2,7 @@
 layout: post
 title: La Werlisa Color. La cámara que marcó una época en mi adolescencia
 date: 2019-10-05 23:36:10-100
-description: La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica.
+description: La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Esto marcó nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica.
 tags: camaras fotografia vintage
 categories: camaras
 typograms: true
