@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/darktable-5/";
         
       },
+    },{id: "post-affinity-photo-2-una-suit-gráfica-que-uso-y-recomiendo",
+      
+        title: "Affinity Photo 2. Una suit gráfica que uso y recomiendo.",
+      
+      description: "Affinity Photo 2 es una potente alternativa a Adobe Photoshop que ofrece una amplia gama de funciones de edición de imágenes a un precio más accesible.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/affiniy-photo-2/";
+        
+      },
     },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
