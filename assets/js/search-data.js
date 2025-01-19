@@ -74,6 +74,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/mina-marmol-ere%C3%B1o/";
         
       },
+    },{id: "post-flechas-de-aliste-un-puebo-y-su-cantera",
+      
+        title: "Flechas de Aliste. Un puebo y su cantera",
+      
+      description: "La cantera de Flechas de Aliste es una cantera de extracción de pizarra en la comarca de Aliste.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/flechas-aliste-cantera/";
+        
+      },
     },{id: "post-oporto-una-ciudad-para-descubrir-con-tu-cámara",
       
         title: "Oporto. Una ciudad para descubrir con tu cámara",
