@@ -267,7 +267,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["fotografia", "objetivos", "rutas", "software", "vintage", "lugares", "redes-sociales","cafe-racer"] # these tags will be displayed on the front page of your blog
-display_categories: ["fotografia", "lugares", "cafe-racer", "rutas", "ensayo", "software"] # these categories will be displayed on the front page of your blog
+display_categories: ["fotografia", "lugares", "equipo", "rutas", "software", "cafe-racer", "ensayo"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
