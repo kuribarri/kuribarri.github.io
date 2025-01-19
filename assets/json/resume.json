@@ -1,14 +1,13 @@
-
 {
   "basics": {
     "name": "Pedro Uribarri",
     "label": "Químico Técnico Perfumista",
     "image": "",
     "url": "https://www.pedrouribarri.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Texto",
     "location": {
       "city": "Bilbao",
-      "countryCode": "ES",
+      "countryCode": "US",
       "region": "Basque Country"
     },
     "profiles": [
@@ -30,20 +29,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-
-
   "publications": [
     {
       "name": "Memorias y Motivos",
@@ -52,8 +37,7 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
    
-  ],
-  
+  ],  
   "languages": [
     {
       "language": "Español",
@@ -65,8 +49,7 @@
       "fluency": "Básico",
       "icon": ""
     }
-  ],
-  
+  ],  
   "projects": [
     {
       "name": "Proyecto",
