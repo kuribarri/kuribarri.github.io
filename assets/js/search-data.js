@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
+        },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
+      
+        title: "Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source",
+      
+      description: "¡Ya está aquí Darktable 5.0! Esta nueva versión del popular software de procesamiento RAW Open Source llega con una gran cantidad de características nuevas y mejoras.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/darktable-5/";
+        
+      },
+    },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
       
