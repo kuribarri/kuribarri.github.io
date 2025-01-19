@@ -69,5 +69,9 @@ Si deseas combinar tu pasión por la fotografía de pueblos abandonados con la e
 
 Chaguaceda, con su oscura leyenda y su atmósfera mágica, es un destino imprescindible si viajas por el norte de Zamora, en la comarca sanabresa. Muy cerca tienes Puebla de Sanabria, un pintoresco pueblo con encanto medieval, y su famoso lago. Sin embargo, si buscas algo más singular, te recomendaría visitar la Laguna de los Peces. Este lago de alta montaña conserva su esencia natural, rodeado por cumbres imponentes como el Teleno, y ofrece grandes paisajes.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2023/2023-12-08-chaguaceda-p.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
 Si tienes alguna duda o quieres más consejos, no dudes en enviarme un mensaje por Instagram: [@kuribarri](https://instagram.com/kuribarri). Estaré encantado de ayudarte en tu visita por esta zona.
 
