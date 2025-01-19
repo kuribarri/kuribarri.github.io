@@ -7,7 +7,7 @@ tags: rutas fotografia street-photo abandoned
 categories: lugares naturaleza
 typograms: true
 featured: false
-thumbnail: assets/img/2023/2023-12-08-chaguaceda-1.webp
+thumbnail: assets/img/2021/2021-07-10-sta-cruz-cuerragos-02.webp
 ---
 
 ### Desafío al tiempo. Santa Cruz de Cuerragos
@@ -21,6 +21,10 @@ Declarado Bien de Interés Cultural en la categoría de Conjunto Etnológico des
 El cementerio es curioso, es un lugar al que accedes nada más salir del pueblo por un camino estrecho rodeado de castaños. 
 En el trayecto, se puede admirar un impresionante castaño centenario, ideal para fotografías (te recomiendo un gran angular). El cementerio en sí resulta fascinante: con tumbas antiguas en tierra y un ambiente que evoca un pasado detenido en el tiempo. Todas sus tumbas son antiguas y en tierra. Si te gustan estos sitios, ya solo por verlo merece la pena.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2021/2021-07-10-sta-cruz-cuerragos-01.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
 Puente de los Infiernos. Este puente atraviesa el río Manzanas y da acceso a la ruta conocida como Valle de los Infiernos, un camino de tierra de aproximadamente tres kilómetros (ida y vuelta). Es una ruta sencilla, con poco desnivel, perfecta para todas las edades.
 
 En el valle, a orillas del río Manzanas, se encuentra este molino invadido por la naturaleza. Su estado semioculto entre la vegetación le confiere un aire bucólico y nostálgico, perfecto para los amantes de los lugares abandonados. Aunque el acceso es algo complicado, te aconsejo que te acerques.
@@ -28,6 +32,10 @@ En el valle, a orillas del río Manzanas, se encuentra este molino invadido por 
 ### Naturaleza y bosques
     
 El pueblo está rodeado de una exuberante naturaleza con bosques de castaños, robles y una rica vegetación que incluye jaras, brezos, helechos y musgos. Es un destino perfecto para los aficionados a la fotografía, y especialmente en otoño te ofrece un espectáculo de colores con tonos ocres, amarillos y naranjas.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/2021/2021-07-10-sta-cruz-cuerragos-03.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
 
 En los últimos años, Santa Cruz de los Cuérragos ha experimentado un resurgimiento gracias al turismo rural. Es una zona ideal para practicar senderismo y disfrutar de vistas panorámicas.
    
