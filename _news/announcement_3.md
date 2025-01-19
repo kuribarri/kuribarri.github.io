@@ -1,62 +1,70 @@
 ---
 layout: post
-title: Cámara en mano por la Sierra de la Culebra
-date: 2022-06-25 16:11:00-0400
+title: Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source
+date: 2025-01-05 23:36:10-100
 inline: false
 related_posts: false
 ---
 
-Cámara en mano por la Sierra de la Culebra | El Norte de Castilla 
 
-Durante el transcurso de los años no ha sido una, sino muchas, las veces  que me he adentrado en el corazón de la Sierra de la Culebra cámara en mano. Habitualmente por su parte más oriental. En ocasiones solo, en otras
-acompañado, para enseñar a otros el paraíso que aparece dentro de la sierra. No hablo de esa sierra que nos muestran en las noticias, ni la que se atisba desde la carretera o las vías del Ave. Hablo del corazón de la Sierra de la Culebra, ese corazón ahora calcinado.
+### ¡Darktable 5.0! Nuevo lanzamiento del procesador RAW Open Source
 
-A lo largo de mi vida he recorrido con el equipo de fotografía diferentes montañas por varios puntos del país, sobre todo por el norte, pero la naturaleza salvaje de la Sierra de la Culebra es única. Hay poca documentación cartográfica actualmente en comparación a otras zonas y eso le otorga, además, cierto misterio.
+¡Ya está aquí Darktable 5.0! Esta nueva versión del popular software de procesamiento RAW Open Source llega con una gran cantidad de características nuevas y mejoras, consolidándose como una herramienta aún más potente y accesible tanto para principiantes como para usuarios avanzados.  
 
-Adentrarse en ella, bien por el norte, desde Litos o desde Ferreras de Abajo, o bien desde el sur, desde Aliste, supone trasladarse a otra dimensión. Una vez en ella sientes que has sido desplazado en el tiempo y el espacio. El reloj se detiene ante la magnitud de sus enormes bosques. La mayoría, de pino resinero. Pinos que plantaron nuestros mayores cuando eran jóvenes, o casi niños, como mi madre, que iba a embarrar las raíces allá por los años cincuenta. Aquellos pequeños pinos son ahora los gigantes que marcan alineados extensas zonas arbóreas en las que se esconden otras especies como encinas y robles. Cuando ves esto desde la cámara con cualquier focal, ya sea un gran angular o un teleobjetivo, te das cuenta que esos guardianes son una gran parte del pulmón de Zamora.
+Aunque uso mayoriatariamente Capture One con mis negativos RAW de Fujifil y para la clasificación de mis catálogos fotográficos, uso Darktable para la edición, revelado de mis otros RAWs (Olympus y Nikkon), y francamente he de decir que ha mejorado mucho.
+Darktable sigue sin competir directamente con gigantes como Capture One o Lightroom, es un revelador RAW gratuito y Open Source que puede ofrecer resultados comparables en la mayoría de los casos. Personalmente, utilizo Capture One para mis archivos RAW de Fujifilm, mientras que Darktable es mi opción preferida para las imágenes de mis cámaras Olympus y Nikon. Este combo me permite mantener un flujo de trabajo eficiente y flexible.  
 
-<
-Sacas una foto de un pino desgastado por los ciervos
-cuando se frotan en el tronco. El árbol conserva la gran
-cicatriz rojiza año tras año. En este santuario natural los
-animales viven tranquilamente el curso de la vida
-<
+Aunque utilizo principalmente Capture One para trabajar con mis archivos RAW de Fujifilm y para gestionar la clasificación de mis catálogos fotográficos, recurro a Darktable para la edición y revelado de mis otros archivos RAW, provenientes de mis anteriores cámaras Olympus y Nikon. Y debo decir que Darktable ha mejorado considerablemente en sus últimas versiones.
 
-Según penetras en la Sierra, a pasos por entre sus peñas, notas que allí donde te envuelve el entorno el lugar es muy diferente a la meseta castigada por el sol que asoma solo unos kilómetros más al este, en esa Tierra de Campos compartida por Zamora, León, Palencia y Valladolid. Cuando sigo caminos en busca de sitios para fotografiar, contemplo los enormes cortafuegos junto a senderos creados por los animales o bien los espacios que hay entre los pinos. La magnificencia del paisaje y la paz que se respira te dejan encuadrar esas vistas hasta el punto que no solo fotografías el entorno, sino que disfrutas sin pensar en el tiempo, simplemente con contemplar la vida en esta reserva natural.
+Si bien Darktable no compite directamente con "gigantes" como Capture One o Lightroom, su naturaleza gratuita y Open Source lo convierte en una alternativa muy sólida, capaz de ofrecer resultados comparables y profesionales en la mayoría de los casos. Este enfoque híbrido que uso, combinando Capture One para Fujifilm y Darktable para los RAWs de mis anteriores cámaras, me permite mantener un flujo de trabajo eficiente, versátil y adaptado a mis necesidades.
 
-Cargado con el equipo fotográfico, con tan solo el ruido de tus botas al pisar, notas el silencio, roto en ocasiones por algún ave o por las pisadas de los cérvidos moviéndose entre las sombras del bosque. El aire te roza la piel ofreciéndote el frescor en el verano y llevando consigo aromas únicos, una exquisita armonía de olores provenientes del pino resinero, de la encina y del roble melojo. Todo ello envuelto por las plantas de porte bajo como el brezo y la jara, tan presente en nuestra tierra junto con otras plantas aromáticas silvestres.
+A continuación, te presento un resumen de las principales novedades de esta versión y cómo pueden mejorar tu experiencia con Darktable.  
 
-Cuando recorres las peñas interiores, desde El Bufo hacia la Peña el Águila cruzando todos sus caminos, este paraíso zamorano te regala momentos inolvidables. En cada estación del año encuentras experiencias únicas, con una completa armonía con la naturaleza salvaje que allí te espera. Cambian los colores, los matices, según el clima de la estación en la que vayas, ya sea primavera, verano u otoño. Con las primeras lluvias se oye la berrea incluso desde los mismos pueblos que están dentro del área de la Sierra de la Culebra. En verano, muchos de los ciervos que he encontrado se quedan observándote sin ningún temor. Se respira paz. Solo a veces el sonido del obturador de la cámara rompe la magia de ese momento.
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-01-15-Darktable-5.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
 
-Entre los bosques notas que la presencia de la vida te observa, al igual que tú sabes que están ahí, ellos te observan. Sacas una foto de un pino desgastado por los ciervos cuando se frotan en el tronco. Tiene una gran cicatriz rojiza sin corteza que el árbol conserva año tras año. Pasas al año siguiente y ahí está, pulido y desgastado, nada cambia. En ese santuario natural los ciervos viven tranquilamente el curso de la vida.
+## Novedades y Mejoras de Darktable 5.0
 
-Recuerdo en una ocasión que por la zona de Peñaquebrada, mientras sacaba unas fotografías de pequeñas plantas, por un breve lapso de tiempo el sonido de las aves se detuvo. Dejé la cámara y me quedé contemplando el horizonte desde la mitad del camino. Este silencio fue roto por un pequeño ciervo que cruzó corriendo de un lado hacia el otro.
-Cuando me vio, el animal se detuvo un instante antes de adentrarse de nuevo hacia el bosque. Sin tiempo para poder coger la cámara, apareció un lobo que iba detrás de él siguiendo su rastro. Aquella estampa fue cuestión de segundos. No pude hacer la fotografía, pero el momento quedó inmortalizado para siempre en mi memoria y en mi corazón. Esa experiencia no la olvidaré nunca. Eso solo se vive en la Sierra de la Culebra, un tesoro natural que Zamora no puede perder.
+### Estilos específicos para cámaras
+Darktable ahora incluye estilos automáticos al cargar archivos RAW, diseñados para emular el procesamiento básico que ofrecen programas comerciales. Estos estilos ajustan exposición, balance de color, contraste local y más, acercándose al aspecto de los JPEG generados por la cámara.  
 
-En zonas como El Casal o Peña Raposo hacia El Carbajalico, o en la vertiente más occidental, como la Peña de la Campana, el entorno se transforma en un auténtico paraíso forestal. Descubres cientos de especies de plantas que nada envidian a cualquier bosque del norte de la península. Una auténtica isla en medio de la meseta. En cada estación encuentro estampas diferentes, entre el contraste del duro invierno de la sierra con el cálido verano suavizado por sus grandes superficies de árboles.
+Además, para usuarios más avanzados, estos estilos pueden aplicarse desde el módulo de exportación o directamente en la vista de **Mesa de Luz** y el **Cuarto Oscuro**, proporcionando un control adicional sobre el flujo de trabajo.  
 
-Durante el otoño el corazón de la sierra es un contraste de colores, donde los verdes se pierden entre los ocres con las rojizas hojas. Las neblinas que allí se posan crean una atmósfera que no solo maravilla en las fotos que puedas sacar, sino que junto a ese abanico de colores de la vegetación te enseña a respetar, cuidar y amar el entorno de la Sierra.
+### Máscaras de trazado mejoradas  
+Una de las actualizaciones más solicitadas ha llegado: las máscaras de trazado ahora incluyen nodos de control Bézier. Esto permite una manipulación mucho más precisa de las máscaras, facilitando ajustes localizados con un nivel de detalle superior.  
 
-En el interior, entre cortafuegos y caminos, subiendo las pequeñas cimas de las muchas peñas que forman el interior de la sierra, verás que su mayoría están coronadas por crestas rocosas que te regalan unas maravillosas vistas y un refugio para descansar. Muchas de estas peñas, sobre todo por la parte exterior de la sierra, están acompañadas por coluviones, lo que provoca un paisaje que sorprende por su contraste con los bosques.
+### Reorganización de módulos y personalización mejorada
+Darktable 5.0 da un paso adelante en personalización:  
 
-Una de mis mayores satisfacciones fue cuando llevé a un pequeño grupo de jóvenes de Litos por el interior de la Sierra. Ver sus caras de sorpresa y satisfacción cuando se toparon con esos parajes, con los grandes pinares y la niebla baja colándose entre los árboles cuando partimos al amanecer...
-Tuvimos de compañía una cierva que nos observaba con curiosidad. Mirando ahora mi cuaderno de campo recuerdo como si fuera hoy cuando hicimos aquellos treinta y cinco kilómetros por el corazón de la Sierra. Y estoy seguro que hoy en día, como adultos, lo recordarán.
+- Ahora puedes reorganizar los módulos de procesamiento y utilitarios simplemente arrastrándolos y soltándolos, sin necesidad de usar combinaciones de teclas.  
+- Es posible añadir o quitar elementos del panel izquierdo con un clic derecho en un área vacía de la lista de módulos.  
+- Una nueva funcionalidad muestra descripciones detalladas de los módulos al pasar el cursor sobre ellos, eliminando la necesidad de consultar la documentación para comprender su propósito.  
 
->
-La Sierra no te defrauda, te da más de lo que tú le
-puedas dar, es más, siento que me llama
->
+Por último, puedes intercambiar las posiciones de los paneles izquierdo y derecho en el Cuarto Oscuro, una opción que podría ser especialmente útil para fotógrafos de retratos.  
 
-Entrando a la Sierra de la Culebra por la zona norte más alta está Ferreras de Arriba. Desde allí se puede comprobar que la vida de nuestros antepasados no fue fácil. Ya al mismo pie de la Sierra o dentro de ella se ven
-algunos castros rodeados de fantásticos bosques de castaños, muchos de ellos centenarios.
-Fue maravilloso el día que, mientras estaba allí con la cámara camino al interior de la sierra, oí el sonido de la gaita. Una gaita en armonía con aquel paisaje. Un hombre estaba ensayando dentro de uno de aquellos castros. Aquel momento de charla con él y aquel sonido de la gaita emergiendo del castro en medio del bosque de castaños fue una de las cosas más gratificantes dentro de mis rutas por el interior de la Sierra.
+### Ecualizador de color más rápido
+El ecualizador de color ahora aprovecha la implementación OpenCL, lo que puede mejorar su rendimiento en equipos compatibles. Esta mejora beneficiará especialmente a quienes trabajan con ajustes de color avanzados en imágenes de alta resolución.  
 
-Siempre que me adentrado en la Sierra de la Culebra me he sorprendido. La Sierra no te defrauda, te da más de lo que tú le puedas dar, es más, siento que me llama. Siento que, con la edad, tarde o temprano no podré regresar.
-Y eso me apena.
+### Mejoras en la interfaz de usuario (IU)
+Darktable 5.0 trae varias actualizaciones visuales:  
 
-Nota sobre el autor:
-Pedro Uribarri, perfumista, está afincado en Bilbao, 
-pero pasa largas temporadas en esta pedanía de
-Ferreras de Abajo situada en las estribaciones de la Sierra de la
-Culebra, que ha recorrido a pie y a caballo, siempre con la cámara de
-fotos a mano, en innumerables ocasiones
+- Nuevo tema de alto contraste, disponible con o sin iconos, para quienes prefieran esta estética.  
+- Indicadores visuales como un signo de interrogación para archivos no compatibles y un icono de calavera para imágenes que han sido eliminadas o que están en discos desconectados.  
+
+### Diálogo de importación mejorado
+El cuadro de diálogo de importación ahora incluye botones de **+** y **-** que simplifican la adición o eliminación de sitios de origen personalizados. Esto hace que el flujo de trabajo sea más intuitivo para usuarios nuevos.  
+
+### Ajustes numéricos rápidos de exposición
+En esta versión, puedes hacer clic derecho en el histograma o en la forma de onda para realizar ajustes numéricos precisos de exposición. También es posible corregir niveles negros con esta misma funcionalidad, agilizando el proceso de ajuste.  
+
+### Tabla de búsqueda de color mejorada 
+La tabla de búsqueda de color (color lookup table), considerada por muchos como una de las herramientas más potentes de Darktable, ahora incluye un preajuste expandido de **color checker**. Esto permite realizar ajustes de color aún más específicos, ideal para quienes buscan resultados de máxima precisión.  
+
+### Vista previa en la exportación 
+En el módulo de exportación, ahora puedes ver una vista previa de cómo se verá la imagen con un estilo aplicado al pasar el cursor sobre él. Esto añade un nivel de comodidad y rapidez al decidir qué ajustes aplicar.  
+
+### Conclusión: Darktable 5.0, un salto cualitativo  
+Darktable 5.0 es una actualización interesante que combina nuevas herramientas, mejoras de rendimiento y una interfaz más accesible. En mi experiencia, el programa funciona de manera fluida en mi Mac, ofreciendo una sensación de control y confianza durante el procesamiento.  
+
+Si eres fotógrafo y buscas un programa de revelado RAW Open Source, esta versión de Darktable es una oportunidad ideal para explorar todo lo que el programa puede ofrecer. Es de agradecer a los desarrolladores de Darktable el trabajo y esfuerzo que realizan mejorando este increíble software. Si ya tienes una licencia, como en mi caso, de Capture One o Ligthroom y deseas probar nuevas herramientas, estoy seguro que no solo Darktable te sorprenderá, sino también de expandir tus horizontes y abrir nuevas posibilidades en tu flujo de trabajo fotográfico.
