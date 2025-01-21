@@ -208,7 +208,7 @@ ninja.data = [{
       },
     },{id: "post-las-bardenas-reales-más-allá-de-las-tipicas-imágenes",
       
-        title: "las Bardenas Reales, más allá de las tipicas imágenes",
+        title: "Las Bardenas Reales, más allá de las tipicas imágenes",
       
       description: "Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Navarra, España, es una maravilla natural que ha inspirado a fotógrafos, cineastas y viajeros.",
       section: "Posts",
