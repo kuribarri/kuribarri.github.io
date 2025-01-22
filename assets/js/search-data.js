@@ -217,11 +217,11 @@ ninja.data = [{
           window.location.href = "/blog/2020/bardenas-reales-navarra/";
         
       },
-    },{id: "post-las-bardenas-reales-más-allá-de-las-tipicas-imágenes",
+    },{id: "post-la-vida-y-el-tiempo",
       
-        title: "Las Bardenas Reales, más allá de las tipicas imágenes",
+        title: "La Vida y el Tiempo",
       
-      description: "Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Navarra, España, es una maravilla natural que ha inspirado a fotógrafos, cineastas y viajeros.",
+      description: "Meros pensamientos sobre la vida y el tiempo, acompañado de una foto enternecedora de una arrantzale jubilado viendo pasar un barco hacia el puerto.",
       section: "Posts",
       handler: () => {
         
