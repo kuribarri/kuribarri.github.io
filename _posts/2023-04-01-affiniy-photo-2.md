@@ -6,7 +6,7 @@ description: Affinity Photo 2 es una potente alternativa a Adobe Photoshop que o
 tags: software fotografia
 categories: software fotografia
 typograms: true
-featured: true
+featured: false
 thumbnail: assets/img/2023/2023-04-01-affinity-photo2.webp
 ---
 

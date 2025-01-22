@@ -6,7 +6,7 @@ description: Artículo publicado en El norte de Castilla, después del gran ince
 tags: incendio sierradelaculebra reportaje zamora
 categories: publicaciones
 typograms: true
-featured: true
+featured: false
 thumbnail: assets/img/2022/2022-06-25-camara-en-mano-01.webp
 ---
 
