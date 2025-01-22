@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Las Bardenas Reales, más allá de las tipicas imágenes
+title: La Vida y el Tiempo
 date: 2020-05-01 23:36:10-100
-description: Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Navarra, España, es una maravilla natural que ha inspirado a fotógrafos, cineastas y viajeros.
-tags: rutas fotografia naturaleza montaña
-categories: rutas
+description: Meros pensamientos sobre la vida y el tiempo, acompañado de una foto enternecedora de una arrantzale jubilado viendo pasar un barco hacia el puerto.
+tags: ensayo pensamiento
+categories: ensayo
 typograms: true
 featured: false
 thumbnail: assets/img/2020/2020-3-28-te-debilitas.webp
