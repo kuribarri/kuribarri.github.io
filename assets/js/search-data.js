@@ -217,6 +217,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/bardenas-reales-navarra/";
         
       },
+    },{id: "post-las-bardenas-reales-más-allá-de-las-tipicas-imágenes",
+      
+        title: "Las Bardenas Reales, más allá de las tipicas imágenes",
+      
+      description: "Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Navarra, España, es una maravilla natural que ha inspirado a fotógrafos, cineastas y viajeros.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/el-tiempo-te-debilita/";
+        
+      },
     },{id: "post-la-werlisa-color-la-cámara-que-marcó-una-época-en-mi-adolescencia",
       
         title: "La Werlisa Color. La cámara que marcó una época en mi adolescencia",
