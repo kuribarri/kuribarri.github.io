@@ -7,7 +7,7 @@ tags: rutas fotografia naturaleza montaña
 categories: rutas
 typograms: true
 featured: false
-thumbnail: assets/img/2020/2020-5-01-bardenas-reales -1.webp
+thumbnail: assets/img/2020/2020-5-01-bardenas-reales-1.webp
 ---
 
 
@@ -21,7 +21,7 @@ Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Na
 El Cabezo de Castildetierra es, sin duda, la imagen más representativa de las Bardenas. Su peculiar forma de "chimenea de hadas", esculpida por la erosión, lo convierte en un lugar imprescindible para cualquier visitante. Sin embargo, en los últimos años se ha vallado el acceso para protegerlo, limitando las fotografías cercanas que antes eran posibles. A pesar de esta restricción, su silueta sigue siendo un imán para las cámaras.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2020/2020-5-01-bardenas-reales -1.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2020/2020-5-01-bardenas-reales-1.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Dos imprescindibles para visitar, cámara en mano
@@ -38,7 +38,7 @@ Una de las mejores formas de explorar las Bardenas es caminar. Deja tu vehículo
 El atardecer es el momento ideal para disfrutar del parque, cuando la luz suave acentúa las formaciones rocosas y los colores del terreno. Lleva un trípode para capturar fotografías espectaculares en las horas doradas. Y si te gusta madrugar, ve al alba, ver el sol salir entre las rocas es algo impresionante.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2020/2020-5-01-bardenas-reales -1.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2020/2020-5-01-bardenas-reales-2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Arguedas: La puerta de entrada a las Bardenas
