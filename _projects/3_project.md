@@ -4,7 +4,7 @@ title: Memoria y Motivos (Libro)
 description: Memoria y Motivos es el resumen de algunos de los pensamientos que todo ser humano antes o después en su vida se suele hacer
 img: assets/img/0000/3_p-memorias-motivos-portada.webp
 importance: 3
-category: work
+category: libros
 ---
 
 Memoria y Motivos es un compendio de reflexiones que todo ser humano, tarde o temprano, se plantea a lo largo de su vida. Este ensayo recorre temas universales como la vida y la muerte desde una perspectiva laica, humanista y ética, libre de dogmas y creencias religiosas. Cada reflexión está impregnada de una profunda pasión por la vida y por aquello que trasciende, al tiempo que ofrece una crítica contundente a las religiones, denunciando sus abusos y la influencia desmesurada que han ejercido a lo largo de la historia.

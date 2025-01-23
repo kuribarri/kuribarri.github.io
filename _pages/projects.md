@@ -5,7 +5,7 @@ permalink: /projects/
 description: Cosas que a uno se le ocurren en luna llena.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [trabajos, libros, proyectos]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title: Exposición Fotográfica - Fotos antiguas 2015
 description: Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015. 
 img: assets/img/2015/15-08-16-exposicion-fotos-litos-0.webp
 importance: 4
-category: work
+category: trabajos
 ---
 
 Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015.

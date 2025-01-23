@@ -4,7 +4,7 @@ title: Escudo del Ayuntamiento de Litos
 description: El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario 
 img: assets/img/0000/050708EscudoLitos05178.webp
 importance: 3
-category: work
+category: trabajos
 ---
 
 ### El diseño del Escudo del Ayuntamiento de Litos (Zamora)
