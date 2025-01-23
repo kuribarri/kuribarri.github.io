@@ -239,6 +239,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/el-tiempo-te-debilita/";
         
       },
+    },{id: "post-la-historia-de-mi-zenit-e-una-cámara-acorazada",
+      
+        title: "La Historia de mi Zenit E. Una cámara acorazada",
+      
+      description: "Esta es la historia de una cámara curiosa, robusta y pesada, que marcó el comienzo de mi experiencia con las cámaras réflex, la Zenit E.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/zenit-e/";
+        
+      },
     },{id: "post-la-werlisa-color-la-cámara-que-marcó-una-época-en-mi-adolescencia",
       
         title: "La Werlisa Color. La cámara que marcó una época en mi adolescencia",
