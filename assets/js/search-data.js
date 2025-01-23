@@ -195,6 +195,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/twitter/";
         
       },
+    },{id: "post-prioro-latido-ancestral-de-la-montaña-leonesa",
+      
+        title: "Prioro. Latido ancestral de la montaña leonesa",
+      
+      description: "Prioro es un pueblo que está a 1.120 metros de altitud, en los Picos de Europa. Ideal para hacer senderismo, como para hacer fotografías.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/prioro/";
+        
+      },
     },{id: "post-pequeñas-carpetas-de-negativos",
       
         title: "Pequeñas carpetas de negativos",
