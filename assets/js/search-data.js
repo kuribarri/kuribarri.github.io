@@ -250,6 +250,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/el-tiempo-te-debilita/";
         
       },
+    },{id: "post-pentax-p30t",
+      
+        title: "Pentax P30t",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/pentax-p30t/";
+        
+      },
     },{id: "post-cosina-ct-20-una-japonesa-que-compré-en-alemania",
       
         title: "Cosina CT-20, una japonesa que compré en Alemania",
