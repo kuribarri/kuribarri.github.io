@@ -5,6 +5,8 @@
       value: Pedro Uribarri
     - name: Languages
       value: Español, English
+    - name: Foto
+      value:/assets/img/241129PUM2.webp
 
 - title: Education
   type: time_table
