@@ -195,17 +195,6 @@ ninja.data = [{
           window.location.href = "/blog/2020/zeiss-touit-12mm/";
         
       },
-    },{id: "post-pedro-uribarri-en-x-twitter",
-      
-        title: "Pedro Uribarri en X (Twitter)",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
-        
-      },
     },{id: "post-prioro-latido-ancestral-de-la-montaña-leonesa",
       
         title: "Prioro. Latido ancestral de la montaña leonesa",
@@ -250,11 +239,11 @@ ninja.data = [{
           window.location.href = "/blog/2020/el-tiempo-te-debilita/";
         
       },
-    },{id: "post-pentax-p30t",
+    },{id: "post-la-pentax-p30t-mi-quinta-cámara",
       
-        title: "Pentax P30t",
+        title: "La Pentax P30t, mi quinta cámara",
       
-      description: "",
+      description: "La Pentax P30t es una cámara réflex de 35mm lanzada en 1990, con el Pentax-A SMC 28-80mm f/3.5-4.5",
       section: "Posts",
       handler: () => {
         
