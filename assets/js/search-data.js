@@ -25,23 +25,19 @@ ninja.data = [{
           },
         },{id: "nav-sobre-mi",
           title: "Sobre mi",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-sobre-mi",
+          title: "Sobre mi",
           description: "Sobre el autor",
           section: "Navigation",
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2017-07-04-melancolia/";
-        
-      },
-    },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
+        },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
       
         title: "Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source",
       
@@ -303,6 +299,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2018/kodak-instamatic-25/";
+        
+      },
+    },{id: "post-melancolía-sombra-infame-que-se-posa-en-el-alma",
+      
+        title: "Melancolía, sombra infame que se posa en el alma",
+      
+      description: "Pensamientos &amp; Fotografía. Melancolía, enfermedad que marchita en vida, que enreda la soledad en los hilos del alma.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2017/melancolia/";
         
       },
     },{id: "post-un-día-como-hoy",
