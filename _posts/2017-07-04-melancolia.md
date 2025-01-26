@@ -6,10 +6,8 @@ description: Pensamientos & Fotografía. Melancolía, enfermedad que marchita en
 que enreda la soledad en los hilos del alma.
 tags: ensayo pensamientos 
 categories: ensayo
-typograms: true
 thumbnail: assets/img/2017/2017-07-04-melancolia.webp
 ---
-
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2017/2017-07-04-melancolia.webp
