@@ -1,46 +1,67 @@
 ---
 layout: post
-title: Melancolía
+title: Melancolía, sombra infame que se posa en el alma
 date: 2017-07-05 17:39:00
-tags: ensayo pensamientos
-description: Ensayo y pensamientos
-mermaid:
-  enabled: true
-  zoomable: true
+description: Pensamientos & Fotografía. Melancolía, enfermedad que marchita en vida,
+que enreda la soledad en los hilos del alma.
+tags: ensayo pensamientos 
+categories: ensayo
+typograms: true
+thumbnail: assets/img/2017/2017-07-04-melancolia.webp
 ---
 
 
-Qué infame enfermedad es la melancolía,
-ingrata soledad que mata el alma y olvida la razón.
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2017/2017-07-04-melancolia.webp
+" class="rounded z-depth-0 w-40" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
 
-Sentirse solo, invisible a los ojos de aquellos 
-a quienes deseas una leve caricia, unas pocas palabras.
+Oh, melancolía, sombra infame que se posa en el alma,
+cuchillo invisible que no mata, pero desangra.
+Eres la ingrata soledad que acaricia con garras,
+que enmudece la razón mientras el alma llora.
 
-Melancolía, ese regreso al pasado,
-cuyo tamiz de placebo engaña al cerebro y atormenta al alma,
-el alma pura, inocente e incapaz de recordar nada.
+Ser invisible, un eco perdido en el vacío de otros ojos,
+anhelando apenas una caricia efímera, unas palabras leves.
+Pero solo el silencio responde, ese silencio pesado
+que se cuela entre las grietas del corazón herido.
 
-En la soledad de la noche, piensas en la juventud pasada,
-no perdida, sino simplemente pasada.
+Melancolía, viajera incansable al pasado,
+cobijas recuerdos con un tamiz engañoso,
+un placebo que consuela y atormenta a partes iguales.
+El alma, inocente y pura, se pierde en el espejismo,
+incapaz de recordar sin dolerse.
 
-El río en cuyas aguas nadaste. No, insensato, no, esas aguas no volverán.
+Y en la soledad de la noche, el pensamiento vaga,
+reconstruye la juventud que no está perdida,
+sino simplemente ida, como el río cuyas aguas abrazaste.
+¡Ah, insensato!, esas aguas no volverán,
+pues nunca el mismo río te acariciará dos veces.
 
-No, alma perdida y herida, es el triste destino cuya mochila que cargas,
-el que, al final, te liberará del dolor.
+Alma cansada, mochila de pesares a cuestas,
+¿es el destino quien te redime, o el peso quien te libera?
+La respuesta se oculta en el susurro de la noche,
+en el eco del dolor que se hace oración.
 
-Melancolía, triste enfermedad del alma, soledad en vida.
-Tiempos de comunicación vacíos de contenido.
+Melancolía, enfermedad que marchita en vida,
+que enreda la soledad en los hilos del alma.
+Vivimos en tiempos de palabras huecas,
+de una comunicación que suena y no resuena.
 
-¿De qué habla la sociedad? ¿Qué hablas con tu familia?
-Acaso esa fachada carnal, regida por estúpidos patrones sociales,
-te permite dejar libre al alma.
+¿Qué conversaciones sostienen nuestras almas?
+¿De qué hablamos con aquellos que amamos?
+Bajo la máscara de la vida, dictada por patrones absurdos,
+¿dónde escondemos al alma, esa esencia que grita,
+que desde el abismo inmoral clama por ser oída?
 
-Grita ésta desde el abismo inmoral en que vivimos.
-Grita por la libertad de expresar su tristeza, su pesar.
-Suplica un poco de cariño, que sea oída.
-Anhela lo que el ser humano puede dar y no da: amor.
+Clama desde el abismo inmoral que nos envuelve,
+alza su voz buscando la libertad de expresar su tristeza,
+de mostrar sin máscaras su pesar más profundo.
+Implora un gesto de ternura, un roce de humanidad que la escuche.
+Ansía aquello que el ser humano tiene en sus manos pero niega entregar, amor.
 
-Ya que esto último, es lo que realmente te llevarás
-cuando cruces el río de la vida para ir y no volver.
-Qué infame enfermedad es la melancolía,
-que, en vida, mata la tristeza y agoniza el alma.
+Al final, amor, solo amor será la ofrenda que cruce con nosotros
+el río de la vida hacia ese eterno no retorno.
+Qué enfermedad tan cruel es la melancolía,
+que en vida convierte la tristeza en sombra,
+y al alma en un suspiro que agoniza sin descanso.
