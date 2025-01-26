@@ -5,7 +5,6 @@ title: Sobre mi
 description: Sobre el autor
 nav: true
 nav_order: 7
-
 profile:
   align: right
   image: 241129PUM2.webp
@@ -19,5 +18,7 @@ Siempre he sentido una atracción por el diseño, retoque digital y la programac
 Con los años, he desarrollado un estilo fotográfico polifacético e indisciplinado, abrazando diversos géneros y desafiando las convenciones establecidas. En mi bagaje fotográfico abarco desde todo lo relacionado con la naturaleza, hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y mi constante búsqueda de nuevas perspectivas y metas.
 
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
+
+### mas cosas
 
 
