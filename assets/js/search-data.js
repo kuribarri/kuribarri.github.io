@@ -52,6 +52,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/affiniy-photo-2/";
         
       },
+    },{id: "post-huion-inspiroy-h950p-la-tableta",
+      
+        title: "Huion Inspiroy H950P, la tableta",
+      
+      description: "La Huion Inspiroy H950P es una tableta gráfica de tamaño mediano que actualmente uso con mis aplicaciones, con una excelente relación calidad-precio.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/inspiroy-h950p/";
+        
+      },
     },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
