@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2017-07-04-melancolia/";
+        
+      },
+    },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
       
         title: "Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source",
       
@@ -292,17 +303,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2018/kodak-instamatic-25/";
-        
-      },
-    },{id: "post-melancolía",
-      
-        title: "Melancolía",
-      
-      description: "Ensayo y pensamientos",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2017/melancolia/";
         
       },
     },{id: "post-un-día-como-hoy",
