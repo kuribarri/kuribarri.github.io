@@ -1,43 +1,32 @@
 {
-  "basics": {
+  "basics": [
+   {
     "name": "Pedro Uribarri",
     "label": "Químico Técnico Perfumista",
     "image": "",
     "url": "https://www.pedrouribarri.com",
-    "summary": "Texto",
-    "location": {
-      "city": "Bilbao",
-      "countryCode": "US",
-      "region": "Basque Country"
-    },
-    "profiles": [
+"summary": "Soy un apasionado fotógrafo amateur y motorista",
+  }
+  ]
+
+  "profiles": [
       {
-        "network": "X (Twitter)",
+        "network": "Twitter",
         "username": "uribarri_p",
-        "url": "https://x.com/uribarri_p"
+        "url": "https://twitter.com/uribarri_p"
       }
     ]
-  },
-  "work": [
-    {
-      "name": "BARRI Perfumes",
-      "position": "Perfumer Chemical Technician",
-      "url": "https://barriperfumes.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
+
+  
   "publications": [
     {
       "name": "Memorias y Motivos",
-      "publisher": "Lulu Editorial",
+      "publisher": "Lulu Edit",
       "releaseDate": "2005-06-30",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-   
-  ],  
+    }
+  ],
+
+
   "languages": [
     {
       "language": "Español",
@@ -45,19 +34,21 @@
       "icon": ""
     },
     {
-      "language": "Inglés",
-      "fluency": "Básico",
+      "language": "English",
+      "fluency": "Basic",
       "icon": ""
     }
-  ],  
+  ],
+ 
   "projects": [
     {
-      "name": "Proyecto",
-      "summary": "Proyecto resumen",
-      "highlights": ["Palabra", "Segunda"],
+      "name": "Proyecto 1 ",
+      "summary": "Texto para un proyecto.",
+      "highlights": ["Resaltado 1", "Resaltado 2"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://kuribarri.github.io/projects/5_project/"
+      "url": "https://example.com"
     }
   ]
 }
+
