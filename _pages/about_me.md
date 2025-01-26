@@ -7,15 +7,6 @@ Con los años, he desarrollado un estilo fotográfico polifacético e indiscipli
 
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
 
-### Profile
 
-Technician Chemical Perfumist
-
-
-
-### El último tweet en X (antes Twitter)
-
-Mis tiempos de los ordenadores MSX, Sinclair y Amstrad:
-{% twitter https://x.com/uribarri_p/status/1751560748935885126 %}
 
 
