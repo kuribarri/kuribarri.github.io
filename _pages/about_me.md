@@ -1,3 +1,17 @@
+---
+layout: about
+title: Home
+permalink: /
+subtitle: Photography and Travel Blog
+
+profile:
+  align: right
+  image: PUM-portada-blog.webp
+  image_circular: false # crops the image to make it circular
+
+
+social: true # includes social icons at the bottom of the page
+---
 
 Soy un apasionado fotógrafo amateur y motorista que ha encontrado en la combinación de mis dos grandes aficiones una forma única de explorar el mundo. Montado en mi clásica café racer, recorro los caminos menos transitados, capturando con mi cámara la belleza de la naturaleza y la esencia de la vida urbana. 
 
