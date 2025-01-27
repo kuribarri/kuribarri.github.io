@@ -28,13 +28,12 @@ Altruista, fotografías del lobo ibérico para revistas sobre cuidado de esta es
 
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
 
-### Instagram
-Instagram: [@kuribarri](https://instagram.com/kuribarri)
-
-### Uribarri en X (antes Twitter)
+### Mi presencia en Redes Sociales
 
 [![Instagram](/assets/img/0000/pum-insta.png "Instagram")](https://www.instagram.com/kuribarri/)
 
 [![X Twitter](/assets/img/0000/pum-eqix.png "X")](https://x.com/uribarri_p)
 
 [![Linkedin](/assets/img/0000/pum-link.png "Instagram")](https://www.ejemplo.com)
+
+[![Wikiloc](/assets/img/0000/pum-wloc.png "Wikiloc")](https://www.ejemplo.com)
