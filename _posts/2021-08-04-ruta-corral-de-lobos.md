@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Ruta La Chorrera de Hervás y Las Charcas Verdes
-date: 2023-08-08 23:36:10-100
-description: Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás.
+title: Ruta Corral de los Lobos - Prioro (León)
+date: 2021-08-04 23:36:10-100
+description: Esta ruta es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre. 
 tags: rutas fotografia naturaleza montaña
 categories: rutas
 typograms: true
 featured: false
-thumbnail: assets/img/2023/2023-08-08-ruta-hervas.webp
+thumbnail: assets/img/2021/2021-08-04-ruta-corral-lobos.webp
 ---
 
 ### RUTA PR-LE 35: Un paseo por los bosques y paisajes de Prioro
 
 La ruta PR-LE 35 es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre. Este recorrido se realiza sobre pista de tierra y es ideal para quienes buscan disfrutar de un entorno natural sin complicaciones.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2021/2021-08-04-ruta-corral-lobos.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
 
 ### Inicio de la ruta:
 
