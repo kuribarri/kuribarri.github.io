@@ -418,6 +418,20 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
+        id: 'social-title',
+        title: 'Title',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-url',
+        title: 'Url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
