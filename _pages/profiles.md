@@ -30,15 +30,11 @@ En este blog, te invito a acompañarme en mis travesías y fotografías, creando
 
 ### Instagram
 Instagram: [@kuribarri](https://instagram.com/kuribarri)
-### Uribarri en X (antes Twitter)
 
-Mis tiempos de los ordenadores MSX, Sinclair y Amstrad:
-{% twitter https://x.com/uribarri_p/status/1751560748935885126 %}
+### Uribarri en X (antes Twitter)
 
 [![Instagram](/assets/img/0000/pum-insta.png "Instagram")](https://www.instagram.com/kuribarri/)
 
 [![X Twitter](/assets/img/0000/pum-eqix.png "X")](https://x.com/uribarri_p)
 
 [![Linkedin](/assets/img/0000/pum-link.png "Instagram")](https://www.ejemplo.com)
-
-
