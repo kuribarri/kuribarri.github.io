@@ -118,6 +118,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/ruta-hervas-la-chorrera-charcas-verdes/";
         
       },
+    },{id: "post-ruta-la-chorrera-de-hervás-y-las-charcas-verdes",
+      
+        title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
+      
+      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/ruta-corral-de-lobos/";
+        
+      },
     },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
       
         title: "Objetivo Cosinon-S 50mm f/1.8",
