@@ -30,10 +30,12 @@ En este blog, te invito a acompañarme en mis travesías y fotografías, creando
 
 ### Mi presencia en Redes Sociales
 
-[![Instagram](/assets/img/0000/pum-insta.png "Instagram")](https://www.instagram.com/kuribarri/)
+[![Instagram](/assets/img/0000/pum-insta.png "Instagram") Instagram](https://www.instagram.com/kuribarri/) 
 
-[![X Twitter](/assets/img/0000/pum-eqix.png "X")](https://x.com/uribarri_p)
 
-[![Linkedin](/assets/img/0000/pum-link.png "Instagram")](https://www.ejemplo.com)
+[![X Twitter](/assets/img/0000/pum-eqix.png "X") Twitter](https://x.com/uribarri_p) 
 
-[![Wikiloc](/assets/img/0000/pum-wloc.png "Wikiloc")](https://www.ejemplo.com)
+[![Linkedin](/assets/img/0000/pum-link.png "Instagram") Linkedin](https://www.ejemplo.com) 
+
+[![Wikiloc](/assets/img/0000/pum-wloc.png "Wikiloc") Wikiloc](https://www.ejemplo.com) 
+
