@@ -4,7 +4,7 @@ permalink: /sobre/
 title: Sobre mi
 description: Sobre el autor
 nav: true
-pretty_table: true
+pretty_table: false
 nav_order: 7
 profile:
   align: right
@@ -30,7 +30,7 @@ Altruista, fotografías del lobo ibérico para revistas sobre cuidado de esta es
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
 
 <br>
-
+ 
 ### Mi presencia en Redes Sociales
 
 |Instagram|X (Twitter)|Linkedin|Wikiloc|  
