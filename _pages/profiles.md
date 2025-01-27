@@ -29,10 +29,12 @@ Altruista, fotografías del lobo ibérico para revistas sobre cuidado de esta es
 
 En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
 
+<br>
+
 ### Mi presencia en Redes Sociales
 
+|Instagram|X (Twitter)|Linkedin|Wikiloc|  
+| :-----------: | :------------: | :------------: | :------------: |
+|[![Instagram](/assets/img/0000/pum-insta.png "Instagram")](https://www.instagram.com/kuribarri/)|[![X Twitter](/assets/img/0000/pum-eqix.png "X")](https://x.com/uribarri_p)|[![Linkedin](/assets/img/0000/pum-link.png "Instagram")](https://www.linkedin.com/in/barripedrouribarri)|[![Wikiloc](/assets/img/0000/pum-wloc.png "Wikiloc")](https://es.wikiloc.com/wikiloc/user.do?id=4230607)|
 
-| Instagram | X (Twitter) | Linkedin | Wikiloc |  
-| :-----------: | :------------: | :------------: |:------------: |
-| [![Instagram](/assets/img/0000/pum-insta.png "Instagram")](https://www.instagram.com/kuribarri/)        | [![X Twitter](/assets/img/0000/pum-eqix.png "X")](https://x.com/uribarri_p)    | [![Linkedin](/assets/img/0000/pum-link.png "Instagram")](https://www.linkedin.com/in/barripedrouribarri)  | [![Wikiloc](/assets/img/0000/pum-wloc.png "Wikiloc")](https://es.wikiloc.com/wikiloc/user.do?id=4230607) |
-
+<br>
