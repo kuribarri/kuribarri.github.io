@@ -111,22 +111,11 @@ ninja.data = [{
       
         title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
       
-      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás.",
+      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final.",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2023/ruta-hervas-la-chorrera-charcas-verdes/";
-        
-      },
-    },{id: "post-ruta-la-chorrera-de-hervás-y-las-charcas-verdes",
-      
-        title: "Ruta La Chorrera de Hervás y Las Charcas Verdes",
-      
-      description: "Una ruta bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Hazla a pie con tu cámara desde el mismo Hervás.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/ruta-corral-de-lobos/";
         
       },
     },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
@@ -182,6 +171,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/fotografiando-triumph-bonneville/";
+        
+      },
+    },{id: "post-ruta-corral-de-los-lobos-prioro-león",
+      
+        title: "Ruta Corral de los Lobos - Prioro (León)",
+      
+      description: "Esta ruta es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/ruta-corral-de-lobos/";
         
       },
     },{id: "post-santa-cruz-de-cuerragos-desafío-al-tiempo",
