@@ -250,6 +250,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/el-tiempo-te-debilita/";
         
       },
+    },{id: "post-olympus-c-5050-mis-paso-del-carrete-al-pixel",
+      
+        title: "Olympus C-5050, mis paso del carrete al pixel",
+      
+      description: "La Olympus C-5050 Zoom, marcó un momento crucial en 2002 en mi transición hacia la fotografía digital de nivel más pro con una cámara compacta.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/olympus-c5050z/";
+        
+      },
     },{id: "post-la-pentax-p30t-mi-quinta-cámara",
       
         title: "La Pentax P30t, mi quinta cámara",
