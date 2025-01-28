@@ -375,11 +375,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-grupo-radar",
-          title: 'Grupo Radar',
-          description: "Agosto de 2013",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_grupomusical/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
@@ -405,6 +400,11 @@ ninja.data = [{
           description: "El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-grupo-radar",
+          title: 'Grupo Radar',
+          description: "Agosto de 2013",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-instagram',
         title: 'Instagram',
