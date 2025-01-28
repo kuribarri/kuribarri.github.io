@@ -7,7 +7,7 @@ tags: objetivos fotografia
 categories: objetivos
 typograms: true
 featured: false
-thumbnail: assets/img/2023/2023-01-01-cosina50mm1.webp
+thumbnail: assets/img/2020/2020-11-10-Touit-12mm-1.webp
 ---
 
 
@@ -18,6 +18,15 @@ El Zeiss Touit 12mm f/2.8 es un objetivo gran angular diseñado específicamente
 
 Aunque la calidad de construcción del Zeiss Touit 12mm f/2.8 es sólida, con un cuerpo metálico robusto, estéticamente no es de mi agrado. Particularmente, el anillo de enfoque de goma atrae polvo con facilidad y carece de textura, lo que podría mejorar su ergonomía. Además, la ausencia de una escala de profundidad de campo es una omisión notable en un objetivo de esta categoría. 
 
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2020/2020-11-10-Touit-12mm-1.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2020/2020-11-10-Touit-12mm-2.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
+
 ### Opinión sobre el objetivo y el rendimiento óptico
 
 Desde que compré este objetivo, siendo honesto, debo de decir que nunca me ha defraudado. Si alguna fotografía no me ha gustado, ha sido por mis errores, no por el objetivo. Es uno de los incondicionales que por su calidad y su pequeño tamaño, va siempre conmigo.
@@ -27,6 +36,15 @@ Opticamente, el Zeiss Touit 12mm f/2.8 ofrece una calidad excepcional. La nitide
 La distorsión es mínima, lo cual es notable para un objetivo de 12mm, y el viñeteo es prácticamente inexistente, incluso en aperturas amplias. 
 
 Aunque su precio de lanzamiento fue elevado, actualmente se pueden encontrar unidades de segunda mano a precios más accesibles, lo que mejora su relación calidad-precio. Yo lo compré hará varios años a un compañero fotógrafo y hasta la fecha, el objetivo va de cine, impecable.
+
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2020/2020-11-10-Touit-12mm-4.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/2020/2020-11-10-Touit-12mm-3.webp" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
 
 A pesar de que su diseño estético no es de mi gusto, el Zeiss Touit 12mm f/2.8 se ha convertido en una pieza fundamental de mi equipo fotográfico. Su rendimiento óptico excepcional, combinado con su tamaño compacto, lo hace ideal para llevarlo siempre en mi mochila. Es especialmente útil en fotografía de paisajes y espacios reducidos, donde su amplio ángulo de visión y mínima distorsión permiten capturar imágenes impresionantes.
 
