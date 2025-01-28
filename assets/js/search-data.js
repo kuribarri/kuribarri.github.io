@@ -375,6 +375,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "projects-grupo-radar",
+          title: 'Grupo Radar',
+          description: "Agosto de 2013",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_grupomusical/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
