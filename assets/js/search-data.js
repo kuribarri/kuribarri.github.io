@@ -425,8 +425,8 @@ ninja.data = [{
           description: "Agosto de 2015",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-cantante",
-          title: 'Cantante',
+            },},{id: "projects-nuria-martinez",
+          title: 'Nuria Martinez',
           description: "Agosto de 2013",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
