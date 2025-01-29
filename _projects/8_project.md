@@ -2,7 +2,7 @@
 layout: page
 title: Con Mora
 description: Agosto de 2015
-img: assets/img/0000/unaideapum.webp
+img: /assets/img/000M/15-08-16 Con Mora 03441.webp
 importance: 4
 category: grupos musicales
 ---
@@ -10,3 +10,12 @@ category: grupos musicales
 ## Con Mora
 ### Agosto de 2015
 ### Fotografías en escenario
+Sesión de 10 fotografías
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="70%" path="assets/img/000M/15-08-16 Con Mora 03441.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/15-08-16 Con Mora 03442.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
