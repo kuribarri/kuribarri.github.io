@@ -13,7 +13,7 @@ category: grupos musicales
 Sesión de 10 fotografías
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="70%" path="assets/img/000M/15-08-16 Con Mora 03441.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/15-08-16 Con Mora 03441.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 <div class="text-center">
