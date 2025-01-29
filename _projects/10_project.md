@@ -25,6 +25,7 @@ Sesión de 10 fotografías
 </div>
 
 <br>
-|Nota|  
+
+|Nota:|
 | :----------- | 
-|Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa. |
+| Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa.|

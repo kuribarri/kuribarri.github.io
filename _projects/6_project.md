@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grupo Radar
-description: Agosto de 2013
+description: Agosto de 2013 - Sesión de 12 fotografías 
 img: assets/img/000M/13-08-15 Radar Grupo 03546.webp
 importance: 2
 category: grupos musicales
@@ -21,6 +21,7 @@ Sesión de 12 fotografías
 </div>
 
 <br>
-|Nota|  
+
+|Nota:|
 | :----------- | 
-|Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa. |
+| Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa.|

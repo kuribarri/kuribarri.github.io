@@ -16,6 +16,7 @@ Sesión de 6 fotografías
 {% include figure.liquid loading="eager" width="50%" path="assets/img/000M/14-08-08 Saray Muerciego 03141.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 <br>
-|Nota|  
+
+|Nota:|
 | :----------- | 
-|Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa. |
+| Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa.|
