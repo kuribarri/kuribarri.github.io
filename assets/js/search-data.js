@@ -377,12 +377,12 @@ ninja.data = [{
               window.location.href = "/news/announcement_3/";
             },},{id: "projects-pig-noise",
           title: 'Pig Noise',
-          description: "Agosto de 2015",
+          description: "Agosto de 2015 - Sesión de 10 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-saray-muerciego",
           title: 'Saray Muerciego',
-          description: "Agosto de 2013",
+          description: "Agosto de 2013 - Sesión de 6 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
@@ -417,17 +417,17 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-soraya-arnelas",
           title: 'Soraya Arnelas',
-          description: "Agosto de 2015",
+          description: "Agosto de 2015 - Sesión de 12 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-con-mora",
           title: 'Con Mora',
-          description: "Agosto de 2015",
+          description: "Agosto de 2015 - Sesión de 10 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-nuria-martinez",
           title: 'Nuria Martinez',
-          description: "Agosto de 2013",
+          description: "Agosto de 2013 -Sesión de 10 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
