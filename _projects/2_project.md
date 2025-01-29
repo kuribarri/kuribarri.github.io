@@ -5,7 +5,6 @@ description: Un proyecto personal sin terminar que está encaminado a convertirs
 img: assets/img/0000/unaideapum.webp
 importance: 2
 category: libros
-giscus_comments: true
 ---
 
 ### Por donde tú vas, yo vuelvo
