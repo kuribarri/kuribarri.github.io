@@ -412,7 +412,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-grupo-radar",
           title: 'Grupo Radar',
-          description: "Agosto de 2013",
+          description: "Agosto de 2013 - Sesión de 12 fotografías",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-soraya-arnelas",
