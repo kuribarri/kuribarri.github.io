@@ -51,7 +51,7 @@ Con poco tráfico de visitantes, es ideal para una exploración tranquila. Un ga
 
 ### Huguenot Cemetery, San Agustín, Florida - Minimalista
 
-Durante mi visita a Florida, visité San Agustín, y una de las cosas que me impactaron fue el pequeño cementerio cementerio protestante más antiguo de Florida, Huguenot Cemetery. Este pequeño cementerio protestante, construido en 1821, está situado casi dentro del centro histórico de San Agustín. Con su aspecto de parque y lápidas antiguas, algunas sin inscripción, ofrece una atmósfera única para capturar imágenes. Usé una ligera Fuji X100S con lente fija de 35mm, ideal para los detalles íntimos de este lugar.
+Durante mi visita a Florida, visité San Agustín, y una de las cosas que me impactaron fue el pequeño cementerio más antiguo de Florida, Huguenot Cemetery. Este pequeño cementerio protestante, construido en 1821, está situado casi dentro del centro histórico de San Agustín. Con su aspecto de parque y lápidas antiguas, algunas sin inscripción, ofrece una atmósfera única para capturar imágenes. Usé una ligera Fuji X100S con lente fija de 35mm, ideal para los detalles íntimos de este lugar.
 
 Curiosamente, algunas lápidas fueron deliberadamente borradas, reflejando una creencia de la época de no perpetuar los recuerdos de quienes murieron fuera de la iglesia o la ley.
 
