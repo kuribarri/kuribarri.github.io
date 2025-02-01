@@ -261,6 +261,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/olympus-c5050z/";
         
       },
+    },{id: "post-fotografiando-cementerios-arte-silencio-y-pasión-por-la-imagen",
+      
+        title: "Fotografiando Cementerios. Arte, silencio y pasión por la imagen",
+      
+      description: "Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/fotografiando-cementerios/";
+        
+      },
     },{id: "post-la-pentax-p30t-mi-quinta-cámara",
       
         title: "La Pentax P30t, mi quinta cámara",
