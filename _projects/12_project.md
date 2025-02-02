@@ -24,19 +24,26 @@ Sesión de 6 fotografías
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/000M/14-08-17 Apache Grupo 03396.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+2017 - Grupo Apache
+</div>
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/17-08-15 Horus Grupo 03496.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 2017 - Grupo Horus
 </div>
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/assets/img/000M/17-08-15 Horus Grupo 03496.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
-2017 - Grupo Horus
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/14-08-15 Horus Grupo 03485.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+2014 - Unknown Rock Guitarist
 </div>
 
-
-
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/14-08-15 Horus Grupo 03482.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+2014 - Grupo Horus
+</div>
 
 <br>
 
 |Nota:|
 | :----------- | 
-| Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa.|
+| Fotografías © Pedro Uribarri 2024 - Presentadas en baja resolución como muestra representativa de la serie completa.|
