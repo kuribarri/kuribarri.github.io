@@ -272,17 +272,6 @@ ninja.data = [{
           window.location.href = "/blog/2019/fotografiando-cementerios/";
         
       },
-    },{id: "post-la-passacaglia-della-vita",
-      
-        title: "La Passacaglia della vita...",
-      
-      description: "También conocida como &quot;Chi vuol esser lieto sia&quot;, es una obra atribuida a Stefano Landi (1587-1639), un compositor y cantante italiano del período barroco. Esta pieza probablemente fue compuesta a principios del siglo XVII",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2019/passacaglia-della-vita/";
-        
-      },
     },{id: "post-la-pentax-p30t-mi-quinta-cámara",
       
         title: "La Pentax P30t, mi quinta cámara",
@@ -336,6 +325,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2019/werlisa-color/";
+        
+      },
+    },{id: "post-la-passacaglia-della-vita",
+      
+        title: "La Passacaglia della vita...",
+      
+      description: "También conocida como &quot;Chi vuol esser lieto sia&quot;, es una obra atribuida a Stefano Landi (1587-1639), un compositor y cantante italiano del período barroco. Esta pieza probablemente fue compuesta a principios del siglo XVII",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/passacaglia-della-vita/";
         
       },
     },{id: "post-mi-primera-cámara-kodak-instamatic-25",
