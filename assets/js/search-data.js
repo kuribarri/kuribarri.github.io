@@ -316,6 +316,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/zenit-e/";
         
       },
+    },{id: "post-la-fotografía-del-lobo-ibérico-un-encuentro-con-el-rey-de-la-península-ibérica",
+      
+        title: "La fotografía del lobo ibérico, un encuentro con el rey de la Península...",
+      
+      description: "El lobo es, por naturaleza, un animal esquivo y muy inteligente. Las fotos que comparto hoy son el resultado de esos momentos vividos en la Sierra de la Culebra",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/fotografiando-el-lobo/";
+        
+      },
     },{id: "post-la-werlisa-color-la-cámara-que-marcó-una-época-en-mi-adolescencia",
       
         title: "La Werlisa Color. La cámara que marcó una época en mi adolescencia",
