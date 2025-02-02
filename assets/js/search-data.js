@@ -418,6 +418,11 @@ ninja.data = [{
           description: "Agosto de 2013 - Sesión de 6 fotografías, en escenario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-varios-artistas",
+          title: 'Varios Artistas',
+          description: "Otros artistas y grupos fotografiados entre los años 2013-2017",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
