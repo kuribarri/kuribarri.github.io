@@ -7,8 +7,8 @@ importance: 8
 category: grupos musicales
 ---
 
-## Saray Muerciego 
-### Agosto de 2013
+## Varios Artistas
+### Etapa del 2013 al 2017
 ### Fotografías en escenario
 Sesión de 6 fotografías
 
