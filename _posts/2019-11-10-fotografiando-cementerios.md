@@ -5,12 +5,16 @@ date: 2019-11-10 23:36:10-100
 description: Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte
 tags:  lugares cementerios fotografía
 categories: lugares fotografia
-thumbnail: assets/img/2017/2017-07-04-melancolia.webp
+thumbnail: assets/img/2019/2019-11-23-cementerio-derio-1.webp
 ---
 
 ### Fotografiando Cementerios: Arte, silencio y pasión por la imagen
 
 Entre mis pasiones fotográficas, además de la naturaleza, se encuentra un tema peculiar y lleno de matices: los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte, la arquitectura y el simbolismo que los caracteriza. Monumentales, antiguos, minimalistas o diseñados como parques, cada cementerio tiene su propia esencia que merece ser explorada a través del objetivo.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2019/2019-11-23-cementerio-derio-1.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
 
 ### Elegir el momento y la luz
 
@@ -35,6 +39,10 @@ Este cementerio monumental cerca de Bilbao abarca 208566 m² y cuenta con panteo
 
 En mi experiencia, una tarde otoñal con llovizna ligera fue perfecta para capturar imágenes memorables. Algunas de las obras más impactantes que recomiendo fotografiar.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2019/2019-11-23-cementerio-derio-2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
 Alguna de las fotografías más impactantes que he realizado ahí y que recomendaría, es en Panteón de Martín de Aldama realizada en 1918 el escultor Valentín Dueñas. El Panteón Maiz Nordhausen, en mármol blanco sobre una base de caliza y realizado por Higinio Basterra hacia 1925.El mausoleo de las Víctimas de la tragedia del Teatro Circo del Ensanche, da bastante juego si lo fotografías en partes y no en un todo, como recomiendan verlo.
 
 No obstante si lo tuyo no es ir solo hacia la aventura, aquí tienes más información:
@@ -45,6 +53,10 @@ No obstante si lo tuyo no es ir solo hacia la aventura, aquí tienes más inform
 
 Creado en 1833, este es el cementerio romántico más antiguo de Portugal. Aunque pequeño, su historia y peculiaridades lo hacen fascinante para los fotógrafos. Durante mi visita, descubrí que muchas tumbas conservan los ataúdes a la vista en mausoleos, una tradición portuguesa que puede sorprender a los menos acostumbrados. Hay que tener cuidado porque es un cementerio que cierra muy pronto, y abre también pronto. Yo fui a primera hora de la mañana, después de haber intentado visitarlo en día anterior a media tarde, y encontrármelo cerrado.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2019/2019-11-23-cementerio-lapa.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
 Con poco tráfico de visitantes, es ideal para una exploración tranquila. Un gato negro me acompañó durante mi recorrido, añadiendo un toque curioso a la experiencia. Puedes conocer más en la página oficial.
 
 [Página oficial](https://irmandadedalapa.pt/)
@@ -52,6 +64,12 @@ Con poco tráfico de visitantes, es ideal para una exploración tranquila. Un ga
 ### Huguenot Cemetery, San Agustín, Florida - Minimalista
 
 Durante mi visita a Florida, visité San Agustín, y una de las cosas que me impactaron fue el pequeño cementerio más antiguo de Florida, Huguenot Cemetery. Este pequeño cementerio protestante, construido en 1821, está situado casi dentro del centro histórico de San Agustín. Con su aspecto de parque y lápidas antiguas, algunas sin inscripción, ofrece una atmósfera única para capturar imágenes. Usé una ligera Fuji X100S con lente fija de 35mm, ideal para los detalles íntimos de este lugar.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2019/2019-11-23-cementerio-st-agustin.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
+
 
 Curiosamente, algunas lápidas fueron deliberadamente borradas, reflejando una creencia de la época de no perpetuar los recuerdos de quienes murieron fuera de la iglesia o la ley.
 
