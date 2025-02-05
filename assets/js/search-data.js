@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
+        },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
+      
+        title: "Cómo Incluir una Firma o Marca de Agua en Darktable 5.0",
+      
+      description: "Siguiendo estos sencillos pasos, puedes crear  firmas o marcas de agua personalizadas disponibles para usar en cualquier imagen que desees en Darktable.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/firmas-marca-agua-darktable/";
+        
+      },
+    },{id: "post-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
       
         title: "Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source",
       
