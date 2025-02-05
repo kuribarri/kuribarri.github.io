@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
       
-        title: "Cómo Incluir una Firma o Marca de Agua en Darktable 5.0",
+        title: "Cómo incluir una firma o marca de agua en Darktable 5.0",
       
       description: "Siguiendo estos sencillos pasos, puedes crear  firmas o marcas de agua personalizadas disponibles para usar en cualquier imagen que desees en Darktable.",
       section: "Posts",
