@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://kuribarri.github.io/sobre/", "_blank");
+          window.open("https://pedrouribarri.com/sobre/", "_blank");
         },
       },{
       id: 'light-theme',
