@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo Incluir una Firma o Marca de Agua en Darktable 5.0
+title: Cómo incluir una firma o marca de agua en Darktable 5.0
 date: 2025-01-28 23:36:10-100
 description: Siguiendo estos sencillos pasos, puedes crear  firmas o marcas de agua personalizadas disponibles para usar en cualquier imagen que desees en Darktable.
 tags: fotografia software

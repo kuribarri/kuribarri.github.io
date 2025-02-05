@@ -17,7 +17,7 @@ profile:
 Químico Perfumista en BARRI Perfumes\
 Autor de Fragancia Digital
 
-Soy un apasionado fotógrafo amateur y motorista que ha encontrado en la combinación de mis dos grandes aficiones una forma única de explorar el mundo. Montado en mi clásica café racer, recorro los caminos menos transitados, capturando con mi cámara la belleza de la naturaleza y la esencia de la vida urbana. 
+Soy químico y fotógrafo amateur, y he encontrado en mis aficiones una forma única de explorar el mundo. Recorro los caminos menos transitados, otras veces hago senderismo y trekking por la montaña y la naturaleza. Voy capturando con mis cámaras la belleza de los rincones más asombrosos y la esencia de la vida urbana.
 
 Siempre he sentido una atracción por el diseño, retoque digital y la programación, habilidades que complementan perfectamente mi enfoque creativo en la fotografía. A pesar de mi formación como químico técnico perfumista, mi verdadera pasión es la naturaleza y el arte de capturar momentos.
 
