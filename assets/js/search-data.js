@@ -272,6 +272,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/olympus-c5050z/";
         
       },
+    },{id: "post-tarjetas-de-memoria-sd-una-pieza-pequeña-pero-importante",
+      
+        title: "Tarjetas de memoria SD, una pieza pequeña, pero importante",
+      
+      description: "Siempre he procurado adquirir las mejores tarjetas de memoria las cámaras que he tenido. Actualmente uso el formato SD y sobre las que uso voy a comentar SanDisk y Lexar.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/SD-tarjeta/";
+        
+      },
     },{id: "post-fotografiando-cementerios-arte-silencio-y-pasión-por-la-imagen",
       
         title: "Fotografiando Cementerios. Arte, silencio y pasión por la imagen",
