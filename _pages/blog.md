@@ -67,7 +67,7 @@ pagination:
 <div class="float-right">
 <i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<h4 class="card-title text-capitalize">{{ post.title }}</h4>
+<h4 class="card-title text-uppercase">{{ post.title }}</h4>
 <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
