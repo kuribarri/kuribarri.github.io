@@ -32,7 +32,7 @@ La primera versión de Christina Pulhar me la descubrió una compañera fotógra
 
 <div class="row mt-1">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=qdj8FvcXywU" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid width="600" path="https://www.youtube.com/watch?v=qdj8FvcXywU" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>   
 <div class="row mt-3">
