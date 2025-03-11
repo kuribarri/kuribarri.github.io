@@ -33,10 +33,10 @@ La primera versión de Christina Pulhar me la descubrió una compañera fotógra
 </div>   
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/watch?v=n-p9fLEHckI" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid width="600" path="https://www.youtube.com/embed/watch?v=n-p9fLEHckI" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path=" https://www.youtube.com/embed/watch?v=MMfiyT8v1ME" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid width="600" path=" https://www.youtube.com/embed/watch?v=MMfiyT8v1ME" class="img-fluid rounded z-depth-1" %}
 </div>
 
