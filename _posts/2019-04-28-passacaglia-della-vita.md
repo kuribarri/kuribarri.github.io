@@ -29,14 +29,14 @@ La primera versión de Christina Pulhar me la descubrió una compañera fotógra
 
 
 <div>
-        {% include video.liquid width="600" path="https://www.youtube.com/embed/watch?v=qdj8FvcXywU" class="img-fluid rounded z-depth-1" %}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qdj8FvcXywU?si=BCJ8j1w8mn0uxSUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>   
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid width="600" path="https://www.youtube.com/embed/watch?v=n-p9fLEHckI" class="img-fluid rounded z-depth-1" %}
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/n-p9fLEHckI?si=qYzu-1kubar1Tr_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid width="600" path=" https://www.youtube.com/embed/watch?v=MMfiyT8v1ME" class="img-fluid rounded z-depth-1" %}
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/MMfiyT8v1ME?si=djuPboQBJFRm2ADy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
