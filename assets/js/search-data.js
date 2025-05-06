@@ -250,17 +250,6 @@ ninja.data = [{
           window.location.href = "/blog/2020/bardenas-reales-navarra/";
         
       },
-    },{id: "post-la-vida-y-el-tiempo",
-      
-        title: "La Vida y el Tiempo",
-      
-      description: "Meros pensamientos sobre la vida y el tiempo, acompañado de una foto enternecedora de una arrantzale jubilado viendo pasar un barco hacia el puerto.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/el-tiempo-te-debilita/";
-        
-      },
     },{id: "post-nikon-d7000-un-pequeño-paso-hacia-un-equipo-semiprofesional",
       
         title: "Nikon D7000, un pequeño paso hacia un equipo semiprofesional",
@@ -276,11 +265,22 @@ ninja.data = [{
       
         title: "Olympus E-520, una Olympus una cámara muy completa para su coste",
       
-      description: "La Olympus E-520, una ámara réflex ligera y ergonómica, con excelente calidad de imagen para su época, y estabilizador de imagen efectivo con buena relación calidad-precio.",
+      description: "La Olympus E-520, una cámara réflex ligera y ergonómica, con excelente calidad de imagen para su época, y estabilizador de imagen efectivo con buena relación calidad-precio.",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2019/olympus-E520/";
+        
+      },
+    },{id: "post-la-vida-y-el-tiempo",
+      
+        title: "La Vida y el Tiempo",
+      
+      description: "Meros pensamientos sobre la vida y el tiempo, acompañado de una foto enternecedora de una arrantzale jubilado viendo pasar un barco hacia el puerto.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/el-tiempo-te-debilita/";
         
       },
     },{id: "post-olympus-c-5050-mis-paso-del-carrete-al-pixel",
@@ -305,17 +305,6 @@ ninja.data = [{
           window.location.href = "/blog/2019/SD-tarjeta/";
         
       },
-    },{id: "post-fotografiando-cementerios-arte-silencio-y-pasión-por-la-imagen",
-      
-        title: "Fotografiando Cementerios. Arte, silencio y pasión por la imagen",
-      
-      description: "Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2019/fotografiando-cementerios/";
-        
-      },
     },{id: "post-la-pentax-p30t-mi-quinta-cámara",
       
         title: "La Pentax P30t, mi quinta cámara",
@@ -338,6 +327,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/cosina-ct-20/";
         
       },
+    },{id: "post-fotografiando-cementerios-arte-silencio-y-pasión-por-la-imagen",
+      
+        title: "Fotografiando Cementerios. Arte, silencio y pasión por la imagen",
+      
+      description: "Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2018/fotografiando-cementerios/";
+        
+      },
     },{id: "post-la-historia-de-mi-zenit-e-una-cámara-acorazada",
       
         title: "La Historia de mi Zenit E. Una cámara acorazada",
@@ -346,7 +346,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2019/zenit-e/";
+          window.location.href = "/blog/2018/zenit-e/";
         
       },
     },{id: "post-la-fotografía-del-lobo-ibérico-un-encuentro-con-el-rey-de-la-península-ibérica",
@@ -357,7 +357,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2019/fotografiando-el-lobo/";
+          window.location.href = "/blog/2018/fotografiando-el-lobo/";
         
       },
     },{id: "post-la-werlisa-color-la-cámara-que-marcó-una-época-en-mi-adolescencia",
@@ -368,7 +368,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2019/werlisa-color/";
+          window.location.href = "/blog/2018/werlisa-color/";
         
       },
     },{id: "post-la-passacaglia-della-vita",
@@ -379,7 +379,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2019/passacaglia-della-vita/";
+          window.location.href = "/blog/2018/passacaglia-della-vita/";
         
       },
     },{id: "post-mi-primera-cámara-kodak-instamatic-25",
