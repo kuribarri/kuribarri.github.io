@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi primera cámara Kodak Instamatic 25
-date: 2018-12-05 23:36:10-100
+date: 2018-02-05 23:36:10-100
 description: Mi primera cámara. Una cámara compacta popular lanzada en 1966 como parte de la línea Instamatic de Kodak. Fabricada entre 1966 y 1972, con una lente fija.
 tags: camaras fotografia vintage
 categories: camaras

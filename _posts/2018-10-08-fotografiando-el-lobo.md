@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La fotografía del lobo ibérico, un encuentro con el rey de la Península Ibérica
-date: 2019-10-08 23:36:10-100
+date: 2018-10-08 23:36:10-100
 description: El lobo es, por naturaleza, un animal esquivo y muy inteligente. Las fotos que comparto hoy son el resultado de esos momentos vividos en la Sierra de la Culebra
 tags:  animales fauna fotografía lobo
 categories: lugares fotografia
