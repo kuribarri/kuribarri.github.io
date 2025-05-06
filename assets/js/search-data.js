@@ -272,6 +272,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/nikon-d7000/";
         
       },
+    },{id: "post-olympus-e-520-una-olympus-una-cámara-muy-completa-para-su-coste",
+      
+        title: "Olympus E-520, una Olympus una cámara muy completa para su coste",
+      
+      description: "La Olympus E-520, una ámara réflex ligera y ergonómica, con excelente calidad de imagen para su época, y estabilizador de imagen efectivo con buena relación calidad-precio.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/olympus-E520/";
+        
+      },
     },{id: "post-olympus-c-5050-mis-paso-del-carrete-al-pixel",
       
         title: "Olympus C-5050, mis paso del carrete al pixel",
