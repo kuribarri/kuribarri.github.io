@@ -261,6 +261,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/el-tiempo-te-debilita/";
         
       },
+    },{id: "post-nikon-d7000-un-pequeño-paso-hacia-un-equipo-semiprofesional",
+      
+        title: "Nikon D7000, un pequeño paso hacia un equipo semiprofesional",
+      
+      description: "Después de unos gratos años con Olympus, en 2013 salto a las SLR de Nikon, un sensor APS-C y nuevas experiencias.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/nikon-d7000/";
+        
+      },
     },{id: "post-olympus-c-5050-mis-paso-del-carrete-al-pixel",
       
         title: "Olympus C-5050, mis paso del carrete al pixel",
