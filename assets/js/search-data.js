@@ -250,9 +250,9 @@ ninja.data = [{
           window.location.href = "/blog/2020/bardenas-reales-navarra/";
         
       },
-    },{id: "post-nikon-d7000-un-pequeño-paso-hacia-un-equipo-semiprofesional",
+    },{id: "post-nikon-d7000-cuando-pasé-hacia-un-equipo-semiprofesional",
       
-        title: "Nikon D7000, un pequeño paso hacia un equipo semiprofesional",
+        title: "Nikon D7000, cuando pasé hacia un equipo semiprofesional",
       
       description: "Después de unos gratos años con Olympus, en 2013 salto a las SLR de Nikon, un sensor APS-C y nuevas experiencias.",
       section: "Posts",
@@ -261,11 +261,11 @@ ninja.data = [{
           window.location.href = "/blog/2019/nikon-d7000/";
         
       },
-    },{id: "post-olympus-e-520-una-olympus-una-cámara-muy-completa-para-su-coste",
+    },{id: "post-mi-cambio-a-la-olympus-e-520-una-cámara-muy-completa-para-su-coste",
       
-        title: "Olympus E-520, una Olympus una cámara muy completa para su coste",
+        title: "Mi cambio a la Olympus E-520, una cámara muy completa para su coste...",
       
-      description: "La Olympus E-520, una cámara réflex ligera y ergonómica, con excelente calidad de imagen para su época, y estabilizador de imagen efectivo con buena relación calidad-precio.",
+      description: "La Olympus E-520, fue para mi una cámara réflex ligera y ergonómica, con excelente calidad de imagen para su época, y estabilizador de imagen efectivo con buena relación calidad-precio.",
       section: "Posts",
       handler: () => {
         
