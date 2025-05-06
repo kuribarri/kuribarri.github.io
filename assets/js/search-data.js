@@ -272,6 +272,17 @@ ninja.data = [{
           window.location.href = "/blog/2019/olympus-E520/";
         
       },
+    },{id: "post-olympus-e-300-mi-primera-rareza-como-cámara-fotográfica",
+      
+        title: "Olympus E-300, mi primera rareza como cámara fotográfica",
+      
+      description: "La Olympus E-300, una cámara pionera en el segmento amateur que fue valorada en su día por su robustez y diseño innovador.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2019/olympus-e300/";
+        
+      },
     },{id: "post-la-vida-y-el-tiempo",
       
         title: "La Vida y el Tiempo",
