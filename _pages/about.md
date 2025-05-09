@@ -6,7 +6,7 @@ subtitle: Photography and Travel Blog
 
 profile:
   align: right
-  image: PUM-portada-blog.webp
+  image: PUM-portada-blog-photo.webp
   image_circular: false # crops the image to make it circular
 
 
