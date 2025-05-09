@@ -228,9 +228,9 @@ ninja.data = [{
           window.location.href = "/blog/2020/prioro/";
         
       },
-    },{id: "post-mi-salto-a-fujifilm-mi-callejera-fuji-x100s",
+    },{id: "post-mi-salto-a-fujifilm-la-callejera-fuji-x100s",
       
-        title: "Mi salto a Fujifilm, mi callejera Fuji X100S",
+        title: "Mi salto a Fujifilm, la callejera Fuji X100S",
       
       description: "Si algo destaca en esta cámara es su aspecto retro, su calidad de imagen y lo ideal que es para street photo.",
       section: "Posts",
