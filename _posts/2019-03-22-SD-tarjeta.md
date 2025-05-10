@@ -29,9 +29,26 @@ En mi experiencia personal con cámaras Fujifilm, la diferencia es notable: mien
 {% include figure.liquid loading="eager" path="/assets/img/2019/2019-SD-Cards-Conectores.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
 </div>
 
+### Consideraciones sobre las velocidades de transferencia en las SD
+
+| Bus Interface    | Card Type          | Marca Visual Bus   | Velocidad Bus          |
+|------------------|--------------------|--------------------|------------------------|
+| Velocidad estandar | SD, SDHC y SDXC    | -                  | 12.5 MB/s              |
+| Alta velocidad   | SD, SDHC y SDXC    | -                  | 25 MB/s                |
+| UHS-I            | SDHC y SDXC        | SDHC-I SDXC-I      | 50 MB/s - 104 MB/s     |
+| UHS-II           | SDHC y SDXC        | SDHC-II SDXC-II    | 156 MB/s - 312 MB/s    |
+| UHS-III          | SDHC y SDXC        | SDHC-III SDXC-III  | 312 MB/s - 624 MB/s    |
+
+
+A estos datos están las indicaciones de velocidad mínimas que podemos ver en la etiqueta cuando compramos una tarjeta:
+- Velocidad estandar van indicadas en un semicírculo con un número en el centro: 2=2MB/s, 4=4MB/s, 6=6MB/s, 10=10MB/s
+- UHS-I van indicadas en un número dentro de una U: U1 (UHS Speed Class 1), U3 (UHS Speed Class 3)
+- UHS-II van indicadas en un número seguido de una V: V6=6MB/s, V10=10MB/s, V30=30MB/s, V60=60MB/s, V90=90MB/s
+
+
 ### Consideraciones sobre tarjetas SD para video
 
-Para la grabación de video, utilizo una tarjeta Lexar Professional de 64 GB. A priori, no necesito más capacidad, ya que, como mencioné antes, traslado los datos al SSD en cuanto tengo la oportunidad. En cuanto a la velocidad de transferencia, la elección de la clase de la tarjeta es crucial. Opto por una tarjeta con clasificación V60, ya que ofrece un equilibrio perfecto entre coste y rendimiento. Subir a una velocidad superior implica pagar más sin una necesidad real, y bajar de V60 puede perder calidad.
+Para la grabación de video, utilizo una tarjeta Lexar Professional de 64 GB . A priori, no necesito más capacidad, ya que, como mencioné antes, traslado los datos al SSD en cuanto tengo la oportunidad. En cuanto a la velocidad de transferencia, la elección de la clase de la tarjeta es crucial. Opto por una tarjeta con clasificación V60, ya que ofrece un equilibrio perfecto entre coste y rendimiento. Subir a una velocidad superior implica pagar más sin una necesidad real, y bajar de V60 puede perder calidad.
 
 Una tarjeta SD V60 es más que suficiente para grabar videos en 4K, ofreciendo un excelente rendimiento por un precio relativamente bajo.
 
