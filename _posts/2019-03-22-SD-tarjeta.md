@@ -15,9 +15,39 @@ Desde que comencé a utilizar cámaras digitales, siempre he procurado adquirir 
 
 En cuanto a la capacidad, suelo utilizar tarjetas de 64 GB, duplicadas en la X-T3 como copia de seguridad. Además, suelo llevar más tarjetas en un estuche, lo que me permite prevenir cualquier imprevisto, fallo o borrado accidental. Aunque nunca me ha ocurrido un problema de este tipo, siempre es bueno estar preparado. Si tu cámara no tiene doble ranura para tarjetas, te recomiendo usar un SSD externo y realizar copias de seguridad después de cada sesión.
 
-### Mi SSD externo para la fotografía y vídeo 
+### UHS-I vs. UHS-II: Las diferencias clave
 
-Para realizar mis copias de seguridad, decidí crear un sistema con el que me sintiera seguro. Así que confeccioné de la siguiente manera:
+- UHS-I es el estándar básico de alta velocidad, con tasas de transferencia hasta 104 MB/s (megabytes por segundo).
+
+- UHS-II eleva el rendimiento con velocidades hasta 312 MB/s, gracias a una segunda fila de contactos físicos en la tarjeta. Esta mejora es especialmente útil para fotografía profesional en ráfaga, video 4K/8K y trabajo con archivos RAW de gran tamaño.
+
+Sin embargo, es crucial verificar la compatibilidad de tu equipo antes de invertir en tarjetas UHS-II. Hay que tener en cuenta que no todas las cámaras soportan los estándares UHS-II. Otro caso que se puede dar son los adaptadores de microSD a SD, donde la mayoría no soportan el estándar UHS-II, limitando su potencial incluso cuando se usan tarjetas compatibles.
+
+En mi experiencia personal con cámaras Fujifilm, la diferencia es notable: mientras que mi X-T3 aprovecha las UHS-II, la X100S solo es compatible con UHS-I. Opto por usar tarjetas UHS-II en la X-T3 no por velocidad, sino por practicidad. Este ejemplo ilustra por qué es esencial conocer las capacidades de tu equipo antes de adquirir tarjetas de alto rendimiento que podrían no ser compatibles. La elección debe basarse siempre en las necesidades reales de tu flujo de trabajo y las limitaciones técnicas del equipo.
+
+<div class="text-center">
+{% include figure.liquid loading="eager" path="/assets/img/2019/2019-SD-Cards-Conectores.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
+
+### Consideraciones sobre tarjetas SD para video
+
+Para la grabación de video, utilizo una tarjeta Lexar Professional de 64 GB. A priori, no necesito más capacidad, ya que, como mencioné antes, traslado los datos al SSD en cuanto tengo la oportunidad. En cuanto a la velocidad de transferencia, la elección de la clase de la tarjeta es crucial. Opto por una tarjeta con clasificación V60, ya que ofrece un equilibrio perfecto entre coste y rendimiento. Subir a una velocidad superior implica pagar más sin una necesidad real, y bajar de V60 puede perder calidad.
+
+Una tarjeta SD V60 es más que suficiente para grabar videos en 4K, ofreciendo un excelente rendimiento por un precio relativamente bajo.
+
+
+### Mi recomendación y elección de tarjeta SD para fotografía
+
+Aunque mi estilo fotográfico es más relajado y tranquilo, también utilizo tarjetas SD de clase V60 para situaciones en las que pueda necesitar disparar ráfagas. Para la captura de fotos en formato RAW, que es lo que suelo usar, una tarjeta de 64 GB es suficiente, especialmente cuando utilizo la doble ranura como seguridad. En mi Fuji X100S, suelo utilizar una tarjeta de 32 GB Sandisk Extremm Pro UHS-I, más otras dos en el bolso, quizás porque es un estilo de fotografía más urbana y me fio de la calidad de la misma y del poco tiempo que tardo en vaciar la tarjeta..
+
+Estas son las tarjetas que uso habitualmente:
+
+- SanDisk Extreme PRO 280MB/s SDXC II V60 U3
+- Lexar PROFESSIONAL 280MB/s SDXC II V60 U3
+
+### Mi SSD como "refuerzo" externo para la fotografía y vídeo 
+
+Para realizar mis copias de seguridad en viajes de varios días, decidí crear un sistema con el que me sintiera seguro. Así que confeccioné un SSD externo de la siguiente manera:
 
 - SSD Western Digital WD-Black SN770 500GB M.2 2280 PCIe Gen4 NVMe con velocidades de lectura de 5000MB/s.
 - Caja externa Ugreen M.2 NVMe, de alta calidad.
@@ -27,25 +57,6 @@ Para realizar mis copias de seguridad, decidí crear un sistema con el que me si
 </div>
 
 Con esta combinación, consigo un SSD externo compacto y de alto rendimiento, ideal para descargar mis datos de las tarjetas SD después de cada jornada fotográfica. Esta solución me ofrece velocidad y fiabilidad, asegurando que mis fotos y videos siempre estén a salvo.
-
-### Consideraciones sobre tarjetas SD para video
-
-Para la grabación de video, utilizo una tarjeta Lexar de 128 GB. A priori, no necesito más capacidad, ya que, como mencioné antes, traslado los datos al SSD en cuanto tengo la oportunidad. En cuanto a la velocidad de transferencia, la elección de la clase de la tarjeta es crucial. Opto por una tarjeta con clasificación V60, ya que ofrece un equilibrio perfecto entre coste y rendimiento. Subir a una velocidad superior implica pagar más sin una necesidad real, y bajar de V60 puede perder calidad.
-
-Una tarjeta SD V60 es más que suficiente para grabar videos en 4K, ofreciendo un excelente rendimiento por un precio relativamente bajo.
-
-<div class="text-center">
-{% include figure.liquid loading="eager" path="/assets/img/2019/2019-SD-Cards-Conectores.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
-</div>
-
-### Mi recomendación y  elección de tarjeta SD para fotografía
-
-Aunque mi estilo fotográfico es más relajado y tranquilo, también utilizo tarjetas SD de clase V60 para situaciones en las que pueda necesitar disparar ráfagas. Para la captura de fotos en formato RAW, que es lo que suelo usar, una tarjeta de 64 GB es suficiente, especialmente cuando utilizo la doble ranura como seguridad. En mi Fuji X100S, suelo utilizar una tarjeta de 128 GB, quizás porque es un estilo de fotografía más urbana y me fio de la calidad de la misma y del poco tiempo que tardo en vaciar la tarjeta..
-
-Estas son las tarjetas que uso habitualmente:
-
-- SanDisk Extreme PRO 280MB/s SDXC II V60 U3
-- Lexar PROFESSIONAL 280MB/s SDXC II V60 U3
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
@@ -59,9 +70,7 @@ Estas son las tarjetas que uso habitualmente:
 
 ### Las MicroSD: ¿qué opino?
 
-Aunque en otros dispositivos utilizo tarjetas microSD, personalmente no las recomiendo para las cámaras fotográficas. No están diseñadas específicamente para este tipo de uso y, generalmente, son más lentas. Además, al necesitar usar un adaptador para convertirlas a formato de ranura tipo SD, la transferencia de datos "puede" volverse aún más lenta, digo puede.
-
-Si la tarjeta microSD tuviera las mismas características que una tarjeta SD estándar, aún creo que el adaptador puede ser un punto débil. Cada conexión adicional aumenta el riesgo de error: el adaptador puede ensuciarse, el conector puede dañarse, y la fiabilidad general puede verse comprometida. Aunque el riesgo es pequeño, es un factor que puedes evitar optando por una tarjeta SD de buena calidad.
+Aunque en otros dispositivos utilizo tarjetas microSD, personalmente no las recomiendo para las cámaras fotográficas. No están diseñadas específicamente para este tipo de uso y, generalmente, son más lentas. Además, al necesitar usar un adaptador para convertirlas a formato de ranura tipo SD, la transferencia de datos "puede" volverse aún más lenta, a fecha de este artículo, quizás cuando lo estés leyendo ya se puedan tener adaptadores con la transferencia real. Si la tarjeta microSD tuviera las mismas características que una tarjeta SD estándar, aún creo que el adaptador puede ser un punto débil. Cada conexión adicional aumenta el riesgo de error: el adaptador puede ensuciarse, el conector puede dañarse, y la fiabilidad general puede verse comprometida. Aunque el riesgo es pequeño, es un factor que puedes evitar optando por una tarjeta SD de buena calidad.
 
 
 
