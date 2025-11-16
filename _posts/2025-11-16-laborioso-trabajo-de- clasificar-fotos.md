@@ -20,20 +20,16 @@ Volviendo al tema del artículo, catalogando y editando imágenes uno acaba por 
 
 Una vez elaborados los directorios, de cada directorio creo un árbol de trabajo (subdirectorios), y para ello uso un programa de mapa mental, por ejemplo **Freeplan**, para organizarme bien. Por ejemplo, puedes crear un catálogo (llámalo como quieras) y, a partir de ahí, creas la primera estructura: familia, viajes, trabajos, estudio, books, etc. Y una vez desde esa estructura, lo fragmento en subdirectorios por años y, dentro de los años, por tema. Esto sería sobre la estructura del catálogo; es mi ejemplo y estoy seguro de que los habrá mejores.
 
-<div class="row mt-3">
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2025/2025-01-Freeplane-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
-</div>
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-01-Freeplane-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 Ahora, sobre los ficheros (RAW, JPG, etc.), una vez que los sitúo en la carpeta asignada, los renombro en lotes de la siguiente forma: AÑO-MES-DÍA-TÍTULO-NUMERADOR. Capture One te permite configurar esto a la hora de renombrar, automatizando algunas funciones.
 
 Ahora tan solo queda comprobar los metadatos EXIF, etc. Para ello uso **ExifTools** desde consola; lo tenéis para Mac, Linux y creo que para Windows. Aunque para algunos trabajar desde consola les puede parecer un poco lioso, es muy sencillo. Te aprendes varios comandos y puedes revisar, corregir, cambiar, añadir copyright, etc. Pero lo fundamental, y lo que te aconsejo, es que elimines los datos de GPS y geolocalización que tu cámara (o móvil) implementa, a no ser que lo tengas deshabilitado. Privacidad y seguridad. De todos los programas mencionados GNU, os pongo al final el enlace por si os interesa trabajar con ellos.
 
-<div class="row mt-3">
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/2025/2025-01-Exiftool-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
-</div>
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="aassets/img/2025/2025-01-Exiftool-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 El último paso que realizo es añadir las palabras clave para realizar búsquedas eficientes y rápidas, sobre todo cuando tu catálogo es enorme, de miles de fotografías. Cada revelador tiene su sistema de añadirlas; lo que no te recomiendo es añadirlas a los metadatos.
