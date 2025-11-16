@@ -39,7 +39,7 @@ Ahora viene el paso un poco más técnico: hacer que Darktable "vea" tu firma o 
 5. Una vez dentro de la carpeta **watermarks**, coloca tu archivo de firma o marca de agua .SVG de la firma.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img//2025/2025-darktable-marta-file-manager.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-darktable-marta-file-manager.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 ### Paso 3: Configurar la marca de agua en Darktable
