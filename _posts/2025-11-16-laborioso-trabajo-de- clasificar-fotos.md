@@ -22,7 +22,7 @@ Una vez elaborados los directorios, de cada directorio creo un árbol de trabajo
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img//2025-01-Freeplane-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
+{% include figure.liquid loading="eager" path="assets/img/2025-01-Freeplane-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
 </div>
 </div>
 
@@ -32,7 +32,7 @@ Ahora tan solo queda comprobar los metadatos EXIF, etc. Para ello uso ExifTools 
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img//2025-01-Exiftool-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
+{% include figure.liquid loading="eager" path="assets/img/2025-01-Exiftool-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}  
 </div>
 </div>
 
