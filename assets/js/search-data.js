@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
+        },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
+      
+        title: "El laborioso trabajo de editar y clasificar fotografías",
+      
+      description: "Os enseño mi flujo de trabajo cuando tengo que catalogar y editar imágenes sin acabar por saturarse o colapsar cuando son de miles de fotografías",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/laborioso-trabajo-de-clasificar-fotos/";
+        
+      },
+    },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
       
         title: "Cómo incluir una firma o marca de agua en Darktable 5.0",
       
