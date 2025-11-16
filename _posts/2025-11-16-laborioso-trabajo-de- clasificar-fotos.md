@@ -1,8 +1,8 @@
 ---
 layout: post
 title: El laborioso trabajo de editar y clasificar fotografías
-date: 2025-11-16 23:36:10-100
-description: Os enseño el flujo de trabajo que optp cuando tengo que catalogar y editar imágenes sin acabar por saturarse o colapsar cuando son de miles de imágenes.
+date: 2025-11-15 20:36:10-100
+description: Os enseño mi flujo de trabajo cuando tengo que catalogar y editar imágenes sin acabar por saturarse o colapsar cuando son de miles de fotografías
 tags: fotografia software
 categories: software fotografia
 typograms: true
