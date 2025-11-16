@@ -7,7 +7,7 @@ tags: fotografia software
 categories: software fotografia
 typograms: true
 featured: true
-thumbnail: assets/img/2025/2025-11-clasificando-fotos.png
+thumbnail: assets/img/2025/2025-11-clasificando-fotos_result.webp
 ---
 
 ### El laborioso trabajo de editar y clasificar fotografías digitalmente.
@@ -29,7 +29,7 @@ Ahora, sobre los ficheros (RAW, JPG, etc.), una vez que los sitúo en la carpeta
 Ahora tan solo queda comprobar los metadatos EXIF, etc. Para ello uso **ExifTools** desde consola; lo tenéis para Mac, Linux y creo que para Windows. Aunque para algunos trabajar desde consola les puede parecer un poco lioso, es muy sencillo. Te aprendes varios comandos y puedes revisar, corregir, cambiar, añadir copyright, etc. Pero lo fundamental, y lo que te aconsejo, es que elimines los datos de GPS y geolocalización que tu cámara (o móvil) implementa, a no ser que lo tengas deshabilitado. Privacidad y seguridad. De todos los programas mencionados GNU, os pongo al final el enlace por si os interesa trabajar con ellos.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="aassets/img/2025/2025-01-Exiftool-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="aassets/img/2025/2025-01-Exiftool-pantalla_result.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
 El último paso que realizo es añadir las palabras clave para realizar búsquedas eficientes y rápidas, sobre todo cuando tu catálogo es enorme, de miles de fotografías. Cada revelador tiene su sistema de añadirlas; lo que no te recomiendo es añadirlas a los metadatos.
@@ -43,11 +43,11 @@ Este es, a grandes rasgos, mi flujo de trabajo en la laboriosa tarea de editar y
 
 Enlaces interesantes:
 
-**ExifTool** es un software libre que permite la lectura, edición de las meta informaciones en una gran variedad e formatos: EXIF, GPS, IPTC, XMP, JFIF, GeoTIFF, ICC Profile, Photoshop IRB, FlashPix, AFCP, ID3, y Lyrics3. 
+**ExifTool** es un software libre que se usa para leer, escribir y manipular metadatos en archivos multimedia como imágenes, vídeos y audios. Es una herramienta de línea de comandos muy potente y versátil que puede trabajar con más de 23.000 tipos de etiquetas de metadatos diferentes y diversos formatos, entre ellos EXIF, IPTC, XMP.
 - [ExifTool](https://exiftool.org/) 
 
-**Freeplane** es una aplicación de software gratuita y de código abierto que proporciona unas herramientas para el mapeo mental (también conocido como mapeo de conceptos o mapeo de información) y la presentacion de los mismos de formagráfica y fluida para una mejor organización y flujo de trabajo.
+**Freeplane** es una aplicación de software gratuita que sirve para crear, editar y gestionar mapas mentales y diagramas conceptuales. Permite organizar visualmente ideas, conceptos e información de forma jerárquica, facilitando la estructuración y visualización de pensamientos y proyectos.
 - [Freeplane](https://docs.freeplane.org/)
 
-**Darktable**, a fecha de este artículo **v.5.2.1** es una aplicación de flujo de trabajo de fotografía de código abierto para revelar y catalogar RAWs y otros formatos gráficos. Es la opción gratuíta GNU de Capture One o Lightroom, en plataformas como Mac, Linux, o Windows.
+**Darktable**, a fecha de este artículo **v.5.2.1**, es un programa gratuito y de código abierto especializado en el procesamiento y edición de fotografías en formato RAW, que se utiliza principalmente para revelar y mejorar imágenes digitales sin modificar el archivo original. Es la opción gratuíta GNU de Capture One o Lightroom, disponible en plataformas como Mac, Linux, o Windows.
 - [Darktable](https://www.darktable.org/)

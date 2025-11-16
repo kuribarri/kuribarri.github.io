@@ -6,7 +6,7 @@ description: Siguiendo estos sencillos pasos, puedes crear  firmas o marcas de a
 tags: fotografia software
 categories: software fotografia
 typograms: true
-featured: true
+featured: false
 thumbnail: assets/img/2025/2025-01-darktable-marcas-agua.webp
 ---
 
