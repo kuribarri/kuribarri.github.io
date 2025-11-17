@@ -480,8 +480,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-darktable-5-0-nuevo-lanzamiento-del-procesador-raw-open-source",
-          title: 'Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source',
+            },},{id: "news-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
+          title: 'El laborioso trabajo de editar y clasificar fotografías.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
