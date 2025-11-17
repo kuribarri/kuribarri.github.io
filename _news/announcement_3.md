@@ -1,70 +1,50 @@
 ---
 layout: post
-title: Darktable 5.0 Nuevo lanzamiento del procesador RAW Open Source
-date: 2025-01-05 23:36:10-100
+title: El laborioso trabajo de editar y clasificar fotografías.
+date: 2025-11-15 20:36:10-100
 inline: false
 related_posts: false
 ---
 
 
-### ¡Darktable 5.0! Nuevo lanzamiento del procesador RAW Open Source
+### El laborioso trabajo de editar y clasificar fotografías digitalmente.
 
-¡Ya está aquí Darktable 5.0! Esta nueva versión del popular software de procesamiento RAW Open Source llega con una gran cantidad de características nuevas y mejoras, consolidándose como una herramienta aún más potente y accesible tanto para principiantes como para usuarios avanzados.  
+Como sabéis, si habéis leído algún artículo anterior, uso dos reveladores: Capture One (con licencia) para RAWs de Fuji  (RAF) y Darktable (GNU) para antiguos ficheros RAW de Olympus (ORF) y Nikon (NEF) que Capture One, por limitaciones de licencia, no me soporta. El flujo de trabajo que uso es el general para clasificar, ordenar, catalogar, renombrar y poner palabras clave para búsquedas; lo hago todo con Capture One. Es ágil, rápido y fluido. Trabajo desde un Mac M4 y eso ya es un plus. Para un revelado más creativo, o para ficheros incompatibles con la versión de Capture One, uso **Darktable**. Ahora, con la versión **5.2.1**, va francamente muy bien; de hecho, tengo el flujo de trabajo y la licencia de Capture One desde hace años, pero, a fecha de hoy, para nuevos fotógrafos creativos recomendaría Darktable. Un software multiplataforma, potente y capaz de hacer todo lo que puedas hacer con programas como Capture One o Lightroom.
 
-Aunque uso mayoriatariamente Capture One con mis negativos RAW de Fujifil y para la clasificación de mis catálogos fotográficos, uso Darktable para la edición, revelado de mis otros RAWs (Olympus y Nikkon), y francamente he de decir que ha mejorado mucho.
-Darktable sigue sin competir directamente con gigantes como Capture One o Lightroom, es un revelador RAW gratuito y Open Source que puede ofrecer resultados comparables en la mayoría de los casos. Personalmente, utilizo Capture One para mis archivos RAW de Fujifilm, mientras que Darktable es mi opción preferida para las imágenes de mis cámaras Olympus y Nikon. Este combo me permite mantener un flujo de trabajo eficiente y flexible.  
+No trabajo con IA, por lo cual no echo en falta esa parte que ahora tan de moda está y que algunos fotógrafos están promocionando en otros productos. No. Yo prefiero la creatividad desde el revelador y, como mucho, la tableta gráfica. No es cuestión de ser purista, sino de preferencias y del concepto de la fotografía. Opino que la fotografía no es IA, y que la fotografía es mucho más: es haber estado en un momento real, haberlo congelado en el tiempo, haber sucedido lo que está reflejado en la imagen. Dicho de otra forma, y más poéticamente, es congelar la vida y la realidad en una imagen.
 
-Aunque utilizo principalmente Capture One para trabajar con mis archivos RAW de Fujifilm y para gestionar la clasificación de mis catálogos fotográficos, recurro a Darktable para la edición y revelado de mis otros archivos RAW, provenientes de mis anteriores cámaras Olympus y Nikon. Y debo decir que Darktable ha mejorado considerablemente en sus últimas versiones.
+Volviendo al tema del artículo, catalogando y editando imágenes uno acaba por saturarse y, a veces, colapsar cuando hablamos de miles de imágenes. En el flujo de trabajo opto por un solo catálogo, con múltiples directorios según tema principal, y todo ello en un DAS. No soy partidario de los NAS en la fotografía.
 
-Si bien Darktable no compite directamente con "gigantes" como Capture One o Lightroom, su naturaleza gratuita y Open Source lo convierte en una alternativa muy sólida, capaz de ofrecer resultados comparables y profesionales en la mayoría de los casos. Este enfoque híbrido que uso, combinando Capture One para Fujifilm y Darktable para los RAWs de mis anteriores cámaras, me permite mantener un flujo de trabajo eficiente, versátil y adaptado a mis necesidades.
-
-A continuación, te presento un resumen de las principales novedades de esta versión y cómo pueden mejorar tu experiencia con Darktable.  
+Una vez elaborados los directorios, de cada directorio creo un árbol de trabajo (subdirectorios), y para ello uso un programa de mapa mental, por ejemplo **Freeplan**, para organizarme bien. Por ejemplo, puedes crear un catálogo (llámalo como quieras) y, a partir de ahí, creas la primera estructura: familia, viajes, trabajos, estudio, books, etc. Y una vez desde esa estructura, lo fragmento en subdirectorios por años y, dentro de los años, por tema. Esto sería sobre la estructura del catálogo; es mi ejemplo y estoy seguro de que los habrá mejores.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-01-15-Darktable-5.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-01-Freeplane-pantalla.png" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-## Novedades y Mejoras de Darktable 5.0
+Ahora, sobre los ficheros (RAW, JPG, etc.), una vez que los sitúo en la carpeta asignada, los renombro en lotes de la siguiente forma: AÑO-MES-DÍA-TÍTULO-NUMERADOR. Capture One te permite configurar esto a la hora de renombrar, automatizando algunas funciones.
 
-### Estilos específicos para cámaras
-Darktable ahora incluye estilos automáticos al cargar archivos RAW, diseñados para emular el procesamiento básico que ofrecen programas comerciales. Estos estilos ajustan exposición, balance de color, contraste local y más, acercándose al aspecto de los JPEG generados por la cámara.  
+Ahora tan solo queda comprobar los metadatos EXIF, etc. Para ello uso **ExifTools** desde consola; lo tenéis para Mac, Linux y creo que para Windows. Aunque para algunos trabajar desde consola les puede parecer un poco lioso, es muy sencillo. Te aprendes varios comandos y puedes revisar, corregir, cambiar, añadir copyright, etc. Pero lo fundamental, y lo que te aconsejo, es que elimines los datos de GPS y geolocalización que tu cámara (o móvil) implementa, a no ser que lo tengas deshabilitado. Privacidad y seguridad. De todos los programas mencionados GNU, os pongo al final el enlace por si os interesa trabajar con ellos.
 
-Además, para usuarios más avanzados, estos estilos pueden aplicarse desde el módulo de exportación o directamente en la vista de **Mesa de Luz** y el **Cuarto Oscuro**, proporcionando un control adicional sobre el flujo de trabajo.  
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-01-Exiftool-pantalla.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
 
-### Máscaras de trazado mejoradas  
-Una de las actualizaciones más solicitadas ha llegado: las máscaras de trazado ahora incluyen nodos de control Bézier. Esto permite una manipulación mucho más precisa de las máscaras, facilitando ajustes localizados con un nivel de detalle superior.  
+El último paso que realizo es añadir las palabras clave para realizar búsquedas eficientes y rápidas, sobre todo cuando tu catálogo es enorme, de miles de fotografías. Cada revelador tiene su sistema de añadirlas; lo que no te recomiendo es añadirlas a los metadatos.
 
-### Reorganización de módulos y personalización mejorada
-Darktable 5.0 da un paso adelante en personalización:  
+Y no deseo dejar un apunte para los que ya somos mayores o tenemos negativos de película o diapositivas. Después de escanearlos y pasarlos a fichero digital —yo los escaneo con mi cámara en RAW— los edito, recorto y los exporto en JPG, dejando en su carpeta asignada dos subdirectorios: uno como negativos (RAW) y otro como positivos (JPG). Así siempre tendré a mano los originales escaneados y positivados con la edición y, por otro lado, los ficheros de salida para compartir si fuera necesario.
 
-- Ahora puedes reorganizar los módulos de procesamiento y utilitarios simplemente arrastrándolos y soltándolos, sin necesidad de usar combinaciones de teclas.  
-- Es posible añadir o quitar elementos del panel izquierdo con un clic derecho en un área vacía de la lista de módulos.  
-- Una nueva funcionalidad muestra descripciones detalladas de los módulos al pasar el cursor sobre ellos, eliminando la necesidad de consultar la documentación para comprender su propósito.  
+Una vez organizado todo, tan solo me queda trabajar en Capture One con mis RAW de Fuji (RAF) y utilizar Darktable para los demás ficheros RAW (Nikon:NEF y Olympus:ORF). Porque, si algo tiene Darktable, es que es un software que no altera el archivo original ni la estructura del catálogo (las carpetas).
 
-Por último, puedes intercambiar las posiciones de los paneles izquierdo y derecho en el Cuarto Oscuro, una opción que podría ser especialmente útil para fotógrafos de retratos.  
+Este es, a grandes rasgos, mi flujo de trabajo en la laboriosa tarea de editar y clasificar fotografías digitalmente. Espero que os dé una idea. Y, sobre todo, que lo mejoréis. Si tienes alguna duda o pregunta, no dudes en contactarme a través de **Instagram**: [@kuribarri](https://www.instagram.com/kuribarri).
 
-### Ecualizador de color más rápido
-El ecualizador de color ahora aprovecha la implementación OpenCL, lo que puede mejorar su rendimiento en equipos compatibles. Esta mejora beneficiará especialmente a quienes trabajan con ajustes de color avanzados en imágenes de alta resolución.  
 
-### Mejoras en la interfaz de usuario (IU)
-Darktable 5.0 trae varias actualizaciones visuales:  
+Enlaces interesantes:
 
-- Nuevo tema de alto contraste, disponible con o sin iconos, para quienes prefieran esta estética.  
-- Indicadores visuales como un signo de interrogación para archivos no compatibles y un icono de calavera para imágenes que han sido eliminadas o que están en discos desconectados.  
+**ExifTool** es un software libre que se usa para leer, escribir y manipular metadatos en archivos multimedia como imágenes, vídeos y audios. Es una herramienta de línea de comandos muy potente y versátil que puede trabajar con más de 23.000 tipos de etiquetas de metadatos diferentes y diversos formatos, entre ellos EXIF, IPTC, XMP.
+- [ExifTool](https://exiftool.org/) 
 
-### Diálogo de importación mejorado
-El cuadro de diálogo de importación ahora incluye botones de **+** y **-** que simplifican la adición o eliminación de sitios de origen personalizados. Esto hace que el flujo de trabajo sea más intuitivo para usuarios nuevos.  
+**Freeplane** es una aplicación de software gratuita que sirve para crear, editar y gestionar mapas mentales y diagramas conceptuales. Permite organizar visualmente ideas, conceptos e información de forma jerárquica, facilitando la estructuración y visualización de pensamientos y proyectos.
+- [Freeplane](https://docs.freeplane.org/)
 
-### Ajustes numéricos rápidos de exposición
-En esta versión, puedes hacer clic derecho en el histograma o en la forma de onda para realizar ajustes numéricos precisos de exposición. También es posible corregir niveles negros con esta misma funcionalidad, agilizando el proceso de ajuste.  
-
-### Tabla de búsqueda de color mejorada 
-La tabla de búsqueda de color (color lookup table), considerada por muchos como una de las herramientas más potentes de Darktable, ahora incluye un preajuste expandido de **color checker**. Esto permite realizar ajustes de color aún más específicos, ideal para quienes buscan resultados de máxima precisión.  
-
-### Vista previa en la exportación 
-En el módulo de exportación, ahora puedes ver una vista previa de cómo se verá la imagen con un estilo aplicado al pasar el cursor sobre él. Esto añade un nivel de comodidad y rapidez al decidir qué ajustes aplicar.  
-
-### Conclusión: Darktable 5.0, un salto cualitativo  
-Darktable 5.0 es una actualización interesante que combina nuevas herramientas, mejoras de rendimiento y una interfaz más accesible. En mi experiencia, el programa funciona de manera fluida en mi Mac, ofreciendo una sensación de control y confianza durante el procesamiento.  
-
-Si eres fotógrafo y buscas un programa de revelado RAW Open Source, esta versión de Darktable es una oportunidad ideal para explorar todo lo que el programa puede ofrecer. Es de agradecer a los desarrolladores de Darktable el trabajo y esfuerzo que realizan mejorando este increíble software. Si ya tienes una licencia, como en mi caso, de Capture One o Ligthroom y deseas probar nuevas herramientas, estoy seguro que no solo Darktable te sorprenderá, sino también de expandir tus horizontes y abrir nuevas posibilidades en tu flujo de trabajo fotográfico.
+**Darktable**, a fecha de este artículo **v.5.2.1**, es un programa gratuito y de código abierto especializado en el procesamiento y edición de fotografías en formato RAW, que se utiliza principalmente para revelar y mejorar imágenes digitales sin modificar el archivo original. Es la opción gratuíta GNU de Capture One o Lightroom, disponible en plataformas como Mac, Linux, o Windows.
+- [Darktable](https://www.darktable.org/)
