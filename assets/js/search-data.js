@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
+        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+      
+        title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
+      
+      description: "Os enseño mi flujo de trabajo cuando tengo que catalogar y editar imágenes sin acabar por saturarse o colapsar cuando son de miles de fotografías",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/reflexiones-compra/";
+        
+      },
+    },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
       
         title: "El laborioso trabajo de editar y clasificar fotografías",
       
