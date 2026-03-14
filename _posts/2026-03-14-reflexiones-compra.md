@@ -10,7 +10,7 @@ featured: true
 thumbnail: assets/img/2026/2026-03-reflexiones-compra.webp
 ---
 
-Saco este tema a debate porque me sigue llamando la atención el comportamiento humano ante la disposición de compra, sobre todo en lo relativo a la fotografía.  
+Saco este tema a debate porque me sigue llamando la atención **el comportamiento humano ante la disposición de compra**, sobre todo en lo relativo a la fotografía.  
 
 Me explico, cuando leo foros, artículos o influencers de fotografía, me llama la atención cuánta técnica conductista y mercadotecnia hay en todos esos mensajes y comentarios. **La fotografía es por naturaleza algo más sencillo de lo que nos quieren hacer ver**, tanto sobre sus cámaras como en sus objetivos. Se habla de megapíxeles como si les fuera la vida en ello, del ruido como si fuera una maldición, de la velocidad como si tuviéramos poco estrés en la vida.
 
