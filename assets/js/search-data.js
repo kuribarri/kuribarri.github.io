@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sobre/";
           },
-        },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
+        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+      
+        title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
+      
+      description: "¿Es tan necesario gastar miles de euros en equipamiento cuando realmente se puede gastar menos obteniendo lo mismo? Una reflexión para todo fotógrafo",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/reflexion-compra/";
+        
+      },
+    },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
       
         title: "El laborioso trabajo de editar y clasificar fotografías",
       
