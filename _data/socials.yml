@@ -49,3 +49,7 @@ custom_social: # can be any name here other than the ones already defined above
   logo: /assets/img/favico-u.png # can be png, svg, jpg
   title: Pedro Uribarri
   url: https://pedrouribarri.com/sobre/
+wikilock: # wikilock
+  logo: /assets/img/0000/pum-wloc.png # can be png, svg, jpg
+  title: Mendirakoi
+  url: https://es.wikiloc.com/wikiloc/user.do?id=4230607
