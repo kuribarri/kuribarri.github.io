@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Photography and Travel Blog
+subtitle: Fotografía · Perfumería Técnica · Naturaleza
 
 profile:
   align: right
@@ -17,14 +17,12 @@ social: true # includes social icons at the bottom of the page
 
 ### Bienvenido al blog personal de Pedro Uribarri
 
-La fotografía es mucho más que capturar un instante; es una forma de ver el mundo, de conectar con la naturaleza, con los paisajes que nos rodean y, sobre todo, con nosotros mismos. 
+La fotografía es mucho más que capturar un instante. Es una forma de observar, interpretar y conectar con el mundo que nos rodea. Mi profesión gira en torno a la perfumería, mi pasión me lleva a la naturaleza, especialmente a la montaña, y el arte que más me inspira y practico es la fotografía. Tres facetas de mi vida que, aunque puedan parecer independientes, comparten una misma esencia: la creatividad, la observación y la emoción.
 
-Este blog es un viaje personal a través de mi pasión por la fotografía, entrelazado con mis viajes en moto por montañas, valles, senderos solitarios y parajes que parecen haber sido esculpidos por el tiempo y la paciencia de la naturaleza.
+La perfumería es un arte profundamente ligado a la naturaleza. Como técnico perfumista, trabajo cada día con materias primas, acordes y notas olfativas para crear fragancias capaces de despertar recuerdos y emociones. Ese proceso creativo guarda muchas similitudes con la fotografía: en ambos casos todo comienza con una idea, una visión personal y el deseo de transmitir una sensación única.
 
-Aquí no solo encontrarás relatos de mis viajes y recursos prácticos para amantes de la fotografía: equipo que he probado, software de revelado y técnicas de diseño digital que he perfeccionado con el tiempo.
+La naturaleza, y en especial la montaña, es el puente que une esos dos mundos. Allí comprendo que la fotografía puede capturar aquello que los ojos ven, mientras que la perfumería tiene el poder de evocar lo que las imágenes no pueden mostrar: el aroma del bosque y el olor de la tierra mojada.
 
-Mi intención no es dictar reglas ni imponer verdades absolutas, sino compartir contigo lo que he aprendido empíricamente y de manera autodidacta en el camino de la vida.
+Aquí no solo encontrarás relatos de mis experiencias, sino también recursos prácticos para quienes disfrutan de la fotografía: equipo que he probado, flujos de trabajo de revelado y técnicas de diseño digital que he perfeccionado con el tiempo. También comparto mis conocimientos y reflexiones sobre perfumería técnica, fruto de mi experiencia profesional. En fotografía, en cambio, encontrarás el aprendizaje de alguien que ha recorrido un camino autodidacta, basado en la observación, la práctica y la experiencia. 
 
-Aquí no se trata solo de técnicas, sino también de un espacio para la reflexión. A través de mis ensayos, memorias y pensamientos nacidos en medio del silencio de las montañas o durante mis viajes con la Boneville. 
-
-Si te apasiona la fotografía, si disfrutas perderte en paisajes naturales o si simplemente buscas una perspectiva diferente sobre cómo capturar y vivir el mundo, este blog está hecho para ti. Así que ajusta tu mochila, prepara tu cámara y acompáñame en este viaje donde la luz, las montañas y las carreteras se convierten en nuestros guías.
+Si disfrutas de la fotografía, te fascina la naturaleza o sientes curiosidad por el universo del perfume, te invito a acompañarme en este viaje. Quizá, al final del camino, descubras que una imagen también puede despertar un aroma y que un perfume puede contener el recuerdo de un paisaje.
