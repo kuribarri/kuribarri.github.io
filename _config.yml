@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Pedro Uribarri - Photography and Travel Blog # the website title (if blank, full name will be used instead)
+title: Pedro Uribarri - Revelando Esencias · Bitácora de Fotografía y Perfumería Técnica # the website title (if blank, full name will be used instead)
 first_name: Pedro
 middle_name: Uribarri
 last_name: 
 contact_note: >
   Si deseas contactar conmigo, la mejor vía es un mensaje privado por Instagram @kuribarri 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Photography and Travel Blog.
+  Revelando Esencias · Bitácora de Fotografía y Perfumería Técnica.
 footer_text: >
   Hosted by GitHub Pages.
   
