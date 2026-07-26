@@ -96,6 +96,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/inspiroy-h950p/";
         
       },
+    },{id: "post-lo-que-el-perfume-la-naturaleza-y-la-fotografía-tienen-en-común",
+      
+        title: "Lo que el perfume, la naturaleza y la fotografía tienen en común",
+      
+      description: "Un día te despiertas y te preguntas cómo el perfume, la naturaleza y la fotografía, que pueden parecer tan diferentes, se conectan entre sí. Estos tres conceptos representan un trabajo, una pasión y, aunque pueda parecerte mentira, un arte.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/perfume-naturaleza-fotografia/";
+        
+      },
     },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
