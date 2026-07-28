@@ -107,6 +107,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/perfume-naturaleza-fotografia/";
         
       },
+    },{id: "post-fragancia-digital-2011-2024-trece-años-divulgando-la-cultura-del-perfume",
+      
+        title: "Fragancia Digital (2011-2024), trece años divulgando la cultura del perfume",
+      
+      description: "La historia de un blog que divulgó la cultura del perfume durante más de una década.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/fraganciadigital/";
+        
+      },
     },{id: "post-chaguaceda-cuando-la-naturaleza-reclamó-lo-suyo",
       
         title: "Chaguaceda, cuando la naturaleza reclamó lo suyo",
