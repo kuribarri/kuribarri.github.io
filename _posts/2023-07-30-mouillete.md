@@ -39,13 +39,11 @@ Aunque su uso parece sencillo, existen algunas recomendaciones que permiten apre
 
 - **Dedica tiempo a cada perfume.** Las primeras notas desaparecen rápidamente y dejan paso a las notas de corazón y, posteriormente, a las de fondo. Una valoración precipitada ofrece una percepción incompleta de la fragancia.
 
-- **Nunca pulverices un perfume cerca de otras *mouillettes*, estén perfumadas o no. Las partículas aromáticas pueden contaminar las demás muestras y alterar futuras evaluaciones.
+- **Nunca pulverices un perfume cerca de otras mouillettes**, estén perfumadas o no. Las partículas aromáticas pueden contaminar las demás muestras y alterar futuras evaluaciones.
 
 - **No agites la *mouillette* para acelerar la evaporación del alcohol.** Al hacerlo se pierden rápidamente muchas de las notas de salida. Lo más recomendable es mantenerla en posición horizontal o vertical y dejar que la fragancia evolucione de forma natural.
 
-## Mucho más que una simple tira de papel
-
-A pesar de su sencillez, la *mouillette* es una de las herramientas más importantes de la perfumería moderna. Desde los laboratorios donde nacen las nuevas fragancias hasta el momento en que un cliente descubre un perfume en una tienda, este pequeño soporte de papel desempeña un papel esencial para garantizar una evaluación fiel del aroma.
+A pesar de su sencillez, la *mouillette* es una de las herramientas más importantes de la perfumería moderna. Desde los laboratorios donde se crean las nuevas fragancias hasta el momento en que un cliente descubre un perfume en una tienda, esta pequeña tira de papel desempeña una función esencial para garantizar una correcta evaluación del aroma.
 
 ---
 
