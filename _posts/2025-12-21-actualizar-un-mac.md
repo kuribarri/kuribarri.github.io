@@ -22,6 +22,10 @@ Os cuento mi experiencia. En mi caso, tengo varios Mac, entre ellos dos **Mac Mi
 
 Después les apliqué el OpenCore Legacy Patcher (OCLP) y ahora funcionan de maravilla con versiones que oficialmente no podrían ejecutar: **Monterey** y **Ventura**. Todo el software que uso a diario, incluida la lectura de archivos RAW para fotografía, funciona a la perfección.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-12-actualizar-mac.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+</div>
+
 ## ¿Qué es OpenCore Legacy Patcher?
 
 OpenCore es un poderoso gestor de arranque utilizado para parchear datos en la memoria RAM, en lugar de modificar permanentemente el disco. Esto nos permite instalar nuevas versiones del sistema operativo en muchos Mac que Apple ha declarado como «no compatibles».
