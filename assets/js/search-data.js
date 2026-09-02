@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2026/reflexiones-compra/";
         
       },
+    },{id: "post-dale-una-segunda-vida-a-tu-mac-antiguo",
+      
+        title: "Dale una segunda vida a tu Mac antiguo",
+      
+      description: "Si posees un Mac de 2011 o anterior con procesador Intel y Apple te dice que ya no es compatible con las últimas versiones de macOS, afortunadamente, existe un parche llamado **OpenCore Legacy Patcher (OCLP)**, que te permite instalar otras versiones del sistema operativo.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/actualizar-un-mac/";
+        
+      },
     },{id: "post-el-laborioso-trabajo-de-editar-y-clasificar-fotografías",
       
         title: "El laborioso trabajo de editar y clasificar fotografías",
