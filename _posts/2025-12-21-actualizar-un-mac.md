@@ -10,9 +10,9 @@ featured: true
 thumbnail: assets/img/2025/2025-12-actualizar-mac.webp
 ---
 
-# Dale una segunda vida a tu Mac antiguo con OpenCore Legacy Patcher
+## Dale una segunda vida a tu Mac antiguo con OpenCore Legacy Patcher
 
-## ¿Tienes un Mac Intel de 2011 o anterior y no puedes actualizar el sistema operativo?
+### ¿Tienes un Mac Intel de 2011 o anterior y no puedes actualizar el sistema operativo?
 
 Si posees un Mac de 2011 o anterior con procesador Intel y Apple te dice que ya no es compatible con las últimas versiones de macOS, no estás solo. Apple nos tiene acostumbrados desde hace unos años a dejar equipos perfectamente funcionales en la obsolescencia, sin posibilidad oficial de actualizar a sistemas operativos más modernos.
 
@@ -26,13 +26,13 @@ Después les apliqué el OpenCore Legacy Patcher (OCLP) y ahora funcionan de mar
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2025/2025-12-actualizar-mac.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-## ¿Qué es OpenCore Legacy Patcher?
+### ¿Qué es OpenCore Legacy Patcher?
 
 OpenCore es un poderoso gestor de arranque utilizado para parchear datos en la memoria RAM, en lugar de modificar permanentemente el disco. Esto nos permite instalar nuevas versiones del sistema operativo en muchos Mac que Apple ha declarado como «no compatibles».
 
 Es importante aclarar que OCLP no es magia: te deja instalar el sistema, pero el rendimiento final dependerá de la capacidad de tu procesador, la memoria RAM y la rapidez de tu disco. Puede ir mal, regular, bien o muy bien.
 
-## Recomendaciones: ¿Qué versión de macOS instalar?
+### Recomendaciones: ¿Qué versión de macOS instalar?
 
 Existen varias versiones de OCLP para instalar desde **Monterey** hasta **Ventura**, **Sonoma** e incluso **Sequoia**.
 
@@ -45,11 +45,11 @@ Antes de hacer absolutamente nada, **haz una copia de seguridad completa** de tu
 
 **Importante:** Si vuelves a aplicar OCLP para cambiar de versión de macOS, perderás los datos de tu Mac. Cada vez que quieras probar una nueva versión del sistema operativo, tendrás que hacer una instalación limpia y aplicar la versión correspondiente de OCLP. ¡El backup es imprescindible!
 
-## El error que debes evitar: ¡Cuidado con las actualizaciones de OCLP!
+### El error que debes evitar: ¡Cuidado con las actualizaciones de OCLP!
 
 Ahora te doy un consejo fruto de la experiencia: **si todo te funciona bien y el sistema instalado en tu Mac es estable, NO actualices OCLP** cuando el programa te avise al encender el ordenador. No sería la primera vez que una actualización automática de OCLP me deja un equipo «descacharrado» y me obliga a empezar de cero. Si funciona, no lo toques.
 
-## Enlaces y documentación oficial
+### Enlaces y documentación oficial
 
 También te recomiendo buscar más información y leer la documentación oficial antes de lanzarte. En mi experiencia, ha sido muy positiva: me ha salvado los dos Mac Mini «obsoletos según Apple» de 2011 y 2012. Te deseo que te vaya bien, vitamina tu máquina y dale una segunda vida (o tercera).
 
