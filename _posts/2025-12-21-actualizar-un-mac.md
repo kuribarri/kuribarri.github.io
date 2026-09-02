@@ -10,11 +10,9 @@ featured: true
 thumbnail: assets/img/2025/2025-12-actualizar-mac.webp
 ---
 
-## Dale una segunda vida a tu Mac antiguo con OpenCore Legacy Patcher
-
 ### ¿Tienes un Mac Intel de 2011 o anterior y no puedes actualizar el sistema operativo?
 
-Si posees un Mac de 2011 o anterior con procesador Intel y Apple te dice que ya no es compatible con las últimas versiones de macOS, no estás solo. Apple nos tiene acostumbrados desde hace unos años a dejar equipos perfectamente funcionales en la obsolescencia, sin posibilidad oficial de actualizar a sistemas operativos más modernos.
+Dale una segunda vida a tu Mac antiguo con OpenCore Legacy Patcher. Si posees un Mac de 2011 o anterior con procesador Intel y Apple te dice que ya no es compatible con las últimas versiones de macOS, no estás solo. Apple nos tiene acostumbrados desde hace unos años a dejar equipos perfectamente funcionales en la obsolescencia, sin posibilidad oficial de actualizar a sistemas operativos más modernos.
 
 Llevo usando Mac desde los tiempos de Tiger, así que te puedes imaginar los años (y las canas) que me han pasado. Francamente, cuando cerraron las opciones de actualizar estos sistemas, eso me molestó mucho. Pero, afortunadamente, existe un parche llamado **OpenCore Legacy Patcher (OCLP)**, que te permite instalar otras versiones del sistema operativo, dependiendo, eso sí, de la capacidad del procesador y la memoria de tu Mac. No digo que no funcione: te lo deja instalar, pero el rendimiento puede variar.
 
