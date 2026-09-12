@@ -11,10 +11,11 @@ nav_order: 4
 
 ## ¿Tienes una buena idea para compartir?
 
-¿Algún comentario sobre algo que escribí o simplemente quieres saludar?  
+¿Tienes una buena idea para compartir? ¿Comentario sobre algo que escribí? ¡Házmelo saber aquí!
+¿Algún comentario sobre algo que escribí?  
 **¡Házmelo saber aquí!**
 
-Prefiero la comunicación directa y eficiente. Si buscas privacidad y rapidez, **Telegram** es mi canal preferido.
+# Si buscas privacidad y rapidez, **Telegram** es mi canal preferido.
 
 > 🛡️ **Nota de seguridad:** Mi cuenta está configurada para proteger los datos personales. Al contactarme, solo verás mi nombre de usuario público.
 
