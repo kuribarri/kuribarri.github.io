@@ -4,18 +4,17 @@ title: Contacto
 description: Conecta conmigo de forma segura y directa.
 permalink: /contacto/
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 ## Hablemos
 
-## ¿Tienes una buena idea para compartir?
-
-¿Tienes una buena idea para compartir? ¿Comentario sobre algo que escribí? ¡Házmelo saber aquí!
+¿Tienes una buena idea para compartir?  
 ¿Algún comentario sobre algo que escribí?  
+
 **¡Házmelo saber aquí!**
 
-# Si buscas privacidad y rapidez, **Telegram** es mi canal preferido.
+Si buscas privacidad y rapidez, **Telegram** es mi canal preferido.
 
 > 🛡️ **Nota de seguridad:** Mi cuenta está configurada para proteger los datos personales. Al contactarme, solo verás mi nombre de usuario público.
 
