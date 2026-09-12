@@ -4,7 +4,7 @@ title: Portafolio
 permalink: /projects/
 description: Cosas que a uno se le ocurren en luna llena.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [trabajos, libros, grupos musicales, proyectos]
 horizontal: false
 ---
