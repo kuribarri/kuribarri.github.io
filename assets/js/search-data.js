@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-contacto",
-          title: "Contacto",
-          description: "Conecta conmigo de forma segura y directa.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contacto/";
-          },
         },{id: "nav-sobre-mi",
           title: "Sobre mi",
           description: "Sobre el autor",
           section: "Navigation",
           handler: () => {
             window.location.href = "/sobre/";
+          },
+        },{id: "nav-contacto",
+          title: "Contacto",
+          description: "Conecta conmigo de forma segura y directa.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contacto/";
           },
         },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
       
