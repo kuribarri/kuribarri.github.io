@@ -23,7 +23,7 @@ Prefiero la comunicación directa y eficiente. Si buscas privacidad y rapidez, *
     background: var(--global-bg-color); 
     border: 1px solid var(--global-divider-color); 
     border-radius: 16px; 
-    padding: 3rem 2rem; 
+    padding: 3rem 2rem; /*para que no quede demasiado espacio vacío dentro al hacerla más pequeña */
     text-align: center; 
     margin: 3rem auto; /* Esto centra la caja */
     max-width: 500px;  /* Esto limita el ancho para que no sea gigante */
