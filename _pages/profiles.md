@@ -14,20 +14,26 @@ profile:
 
 ### Pedro Uribarri
 <sub>Perfumer Technician Chemical</sub>\
-Químico Perfumista en BARRI Perfumes\
+Técnico Perfumista en BARRI Perfumes\
 Autor de Fragancia Digital
 
-Soy químico y fotógrafo amateur, y he encontrado en mis aficiones una forma única de explorar el mundo. Recorro los caminos menos transitados, otras veces hago senderismo y trekking por la montaña y la naturaleza. Voy capturando con mis cámaras la belleza de los rincones más asombrosos y la esencia de la vida urbana.
+Soy técnico perfumista, profesional químico y fotógrafo autodidacta. Ambas facetas tienen un punto de encuentro en mi pasión por la naturaleza, la montaña y el mundo rural.
 
-Siempre he sentido una atracción por el diseño, retoque digital y la programación, habilidades que complementan perfectamente mi enfoque creativo en la fotografía. A pesar de mi formación como químico técnico perfumista, mi verdadera pasión es la naturaleza y el arte de capturar momentos.
+A través de ellas encontré una nueva forma de explorar y observar el mundo. Recorro los caminos menos transitados y, otras veces, me adentro en la montaña haciendo senderismo y trekking. Voy capturando con mis cámaras la belleza de los rincones más asombrosos y, en la ciudad, la esencia de la vida urbana.
 
-Descubrí la fotografía cuando tenía siete años con una Kodak Instamatic, con mi precaria economía comencé a practicar con una vieja Zenit con su fotómetro de selenio. Autodidacta y minimalista. La creación de un estilo propio empieza por generar propios errores y de ellos aprender, leer, observar y sobre todo fotografiar. Con la fotografía analógica, el revelado químico y además con una relación con la química que va más allá de su afición por la fotografía, aprendí a aprender y a seguir aprendiendo.
+Más de cuarenta años trabajando en el mundo del perfume y autor de *Donde habita la esencia*. Mi inquietud por seguir aprendiendo me ha llevado a formarme en ámbitos diversos, desde las técnicas de creatividad y la redacción en Internet hasta métodos para mejorar el aprendizaje, con estudios y cursos realizados en la Universidad de Cantabria, la Universidad de Navarra y UC San Diego, entre otros.
 
-Con los años, he desarrollado un estilo fotográfico polifacético e indisciplinado, abrazando diversos géneros y desafiando las convenciones establecidas. En mi bagaje fotográfico abarco desde todo lo relacionado con la naturaleza, hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y mi constante búsqueda de nuevas perspectivas y metas.  
+Siempre he sentido una atracción por el diseño, el retoque digital y la programación, habilidades que complementan perfectamente mi enfoque creativo en la fotografía.
 
-Altruista, fotografías del lobo ibérico para revistas sobre cuidado de esta especie en peligro de extinción. Colaboraciones con músicos, con ayuntamientos, exposiciones locales y populares.
+Descubrí la fotografía cuando tenía siete años, con una Kodak Instamatic. Con mi precaria economía, comencé a practicar con una vieja cámara Zenit y un fotómetro de selenio.
 
-En este blog, te invito a acompañarme en mis travesías y fotografías, creando un relato visual único de mis aventuras como montaraz y viajero incansable.
+Autodidacta y minimalista, estoy convencido de que la creación de un estilo propio empieza por cometer errores y aprender de ellos, leer, observar y, sobre todo, fotografiar. Con la fotografía analógica y el revelado químico, encontré una relación más con la química y aprendí a aprender y a seguir aprendiendo.
+
+Con los años, he desarrollado un estilo fotográfico polifacético e indisciplinado, tomando diversos géneros y desafiando las convenciones establecidas. En mi bagaje fotográfico abarco desde todo lo relacionado con la naturaleza hasta vibrantes escenas callejeras, reflejando un espíritu inquieto y mi constante búsqueda de nuevas perspectivas y metas. Nunca me he sentido cómodo encasillándome en un solo género; la diversidad es riqueza.
+
+Mi compromiso con la naturaleza me ha llevado a colaborar de forma voluntaria con fotografías del lobo ibérico para publicaciones dedicadas a la conservación de esta especie. Igualmente, he colaborado con músicos y ayuntamientos, así como participado en exposiciones locales y actos populares, aportando mi trabajo fotográfico de forma voluntaria.
+
+En este blog comparto contigo artículos y experiencias. Descubre curiosidades del mundo del perfume, sus técnicas, usos y estilos, travesías por rincones naturales y mis experiencias en el camino. También encontrarás mis opiniones y artículos sobre fotografía, desde el software de revelado hasta las técnicas fotográficas que he ido aprendiendo y que ahora comparto aquí contigo. Todo ello, con un relato visual único de mis aventuras como montaraz y mis experiencias como autodidacta.
 
 <br>
  
