@@ -7,9 +7,9 @@ first_name: Pedro
 middle_name: Uribarri
 last_name: 
 contact_note: >
-  Si deseas contactar conmigo, la mejor vía es un mensaje privado por Instagram @kuribarri 
+  Si deseas contactar conmigo, la mejor vía es un mensaje privado por Instagram @kuribarri o Telegram
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Bitácora de Fotografía y Perfumería Técnica.
+  Bitácora de Perfumería Técnica y Fotografía
 footer_text: >
   Hosted by GitHub Pages.
   
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Pedro Uribarri # blog_name will be displayed in your blog page
-blog_description: Bitácora de Fotografía y Perfumería Técnica
+blog_description: Bitácora de Perfumería Técnica y Fotografía
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
