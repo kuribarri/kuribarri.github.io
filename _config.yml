@@ -645,3 +645,12 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Añadir ususario Telegram
+# -----------------------------------------------------------------------------
+
+params:
+  contact:
+    telegram: "@mendirakoi"
+
