@@ -7,9 +7,8 @@ nav: true
 nav_order: 8
 ---
 
-## Hablemos
 
-¿Tienes una buena idea para compartir?  
+### ¿Tienes una buena idea para compartir?  
 ¿Algún comentario sobre algo que escribí?  
 
 **¡Házmelo saber aquí!**
