@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Bienvenido al blog personal de Pedro Uribarri
 
-La fotografía es mucho más que capturar un instante. Es una forma de observar, interpretar y conectar con el mundo que nos rodea. Mi profesión gira en torno a la perfumería, mi pasión me lleva a la naturaleza, especialmente a la montaña, y el arte que más me inspira y practico es la fotografía. Tres facetas de mi vida que, aunque puedan parecer independientes, comparten una misma esencia: la creatividad, la observación y la emoción.
+La perfumería y la fotografía son dos formas diferentes de observar, interpretar y conectar con el mundo que nos rodea. Mi profesión, gira en torno a la perfumería, mi pasión me lleva a la naturaleza, especialmente a la montaña, y el arte que más me inspira y practico es la fotografía. Dos facetas profesionales y creativas que, aunque puedan parecer independientes, comparten una misma esencia: la creatividad, la observación y la emoción.
 
 La perfumería es un arte profundamente ligado a la naturaleza. Como técnico perfumista, trabajo cada día con materias primas, acordes y notas olfativas para crear fragancias capaces de despertar recuerdos y emociones. Ese proceso creativo guarda muchas similitudes con la fotografía: en ambos casos todo comienza con una idea, una visión personal y el deseo de transmitir una sensación única.
 
