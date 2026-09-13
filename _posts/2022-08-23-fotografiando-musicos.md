@@ -4,8 +4,8 @@ title: Fotografiando eventos musicales con poca luz
 date: 2022-08-23 18:20:16
 description: Guía práctica para fotografiar conciertos y eventos musicales con poca luz: equipo, apertura, velocidad de obturación, ISO, balance de blancos, medición, enfoque y ráfaga.
 tags:  fotografia 
-categories: fotografia
-thumbnail: asets/img/000M/13-08-16 GrupoES 03460.webp
+categories: FOTOGRAFIA
+thumbnail: assets/img/000M/13-08-16 GrupoEs 03460.webp
 ---
 
 # Mis consejos para fotografiar eventos musicales con poca luz
@@ -14,8 +14,9 @@ Si ves mi portafolio, apreciarás que he trabajado con grupos musicales y artist
 
 Después de mi experiencia haciendo este tipo de trabajos, he creado este pequeño artículo/tutorial para evites algunos de los errores que cometí al principio. Al final, compartiré mi «receta», es decir, la configuración que utilizo cuando me invitan a un evento musical para hacer fotografías. Eso sí, no entiendas que sea una receta universal. Cada cámara, cada escenario y cada actuación son diferentes. Lo que te explico es mi forma personal de trabajar en estas áreas.
 
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="asets/img/000M/13-08-16 GrupoES 03460.webp" class="img-fluid rounded z-depth-1" %}
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-16 GrupoEs 03460.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+2013 - Grupo.es
 </div>
 
 asets/img/000M/13-08-16 GrupoES 03460.webp
