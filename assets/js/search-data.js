@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contacto/";
           },
-        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/2022-08-23-fotografiando-musicos/";
+        
+      },
+    },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
       
         title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
       
