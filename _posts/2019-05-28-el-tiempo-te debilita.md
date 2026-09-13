@@ -4,7 +4,7 @@ title: La Vida y el Tiempo
 date: 2019-05-01 23:36:10-100
 description: Meros pensamientos sobre la vida y el tiempo, acompañado de una foto enternecedora de una arrantzale jubilado viendo pasar un barco hacia el puerto.
 tags: ensayo
-categories: ensayo
+categories: Reflexiones
 typograms: true
 featured: false
 thumbnail: assets/img/2020/2020-3-28-te-debilitas.webp

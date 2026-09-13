@@ -4,7 +4,7 @@ title: Santa Cruz de Cuerragos. Desafío al tiempo
 date: 2021-07-10 23:36:10-100
 description: Santa Cruz de los Cuérragos es un pequeño pueblo enclavado entre Sanabria y Carballeda, en la Sierra de la Culebra (Zamora), y muy cerca de la frontera con Portugal.
 tags: rutas fotografia street-photo abandoned
-categories: lugares
+categories: Rutas
 typograms: true
 featured: false
 thumbnail: assets/img/2021/2021-07-10-sta-cruz-cuerragos-02.webp

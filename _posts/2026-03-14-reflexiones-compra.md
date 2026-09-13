@@ -4,7 +4,7 @@ title: Entre el “hater” premium y el “fanboy” chino, reflexiones antes d
 date: 2026-03-15 20:36:10-100
 description: ¿Es tan necesario gastar miles de euros en equipamiento cuando realmente se puede gastar menos obteniendo lo mismo? Una reflexión para todo fotógrafo, no solo amateurs de poca monta como un servidor o amateurs avanzados, sino también profesionales.
 tags: fotografia 
-categories:  fotografia
+categories:  Fotografía
 typograms: true
 featured: true
 thumbnail: assets/img/2026/2026-03-reflexiones-compra.webp
