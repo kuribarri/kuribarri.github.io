@@ -3,7 +3,7 @@ layout: post
 title: Affinity Photo 2. Una suit gráfica que uso y recomiendo.
 date: 2025-01-05 23:36:10-100
 description: Affinity Photo 2 es una potente alternativa a Adobe Photoshop que ofrece una amplia gama de funciones de edición de imágenes a un precio más accesible.
-tags: software fotografia
+tags: edición software
 categories: Software Fotografía
 typograms: true
 featured: false

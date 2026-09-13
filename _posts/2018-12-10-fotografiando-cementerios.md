@@ -3,7 +3,7 @@ layout: post
 title: Fotografiando Cementerios. Arte, silencio y pasión por la imagen
 date: 2018-12-10 23:36:10-100
 description: Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte
-tags:  lugares cementerios fotografía
+tags:  lugares
 categories: Fotografía Rutas
 thumbnail: assets/img/2019/2019-11-23-cementerio-derio-1.webp
 ---

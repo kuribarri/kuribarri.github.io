@@ -3,7 +3,7 @@ layout: post
 title: Fragancia Digital (2011-2024), trece años divulgando la cultura del perfume
 date: 2024-02-20 13:05:10-100
 description: La historia de un blog que divulgó la cultura del perfume durante más de una década. 
-tags: perfume naturaleza
+tags: historia industria
 categories: Perfume
 typograms: true
 thumbnail: assets/img//2024/2024-02-20-fragancia digital.webp

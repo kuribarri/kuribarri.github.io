@@ -4,7 +4,7 @@ title: Un día como hoy
 date: 2017-01-10 11:12:00-0400
 description: Ensayo y fotografía
 tags: ensayo
-categories: sample-posts
+categories: Reflexiones
 related_posts: false
 ---
 

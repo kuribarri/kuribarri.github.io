@@ -3,7 +3,7 @@ layout: post
 title: Lo que el perfume, la naturaleza y la fotografía tienen en común
 date: 2024-07-12 13:05:10-100
 description: Un día te despiertas y te preguntas cómo el perfume, la naturaleza y la fotografía, que pueden parecer tan diferentes, se conectan entre sí. Estos tres conceptos representan un trabajo, una pasión y, aunque pueda parecerte mentira, un arte.
-tags: perfume fotografia naturaleza
+tags: perfumistas naturaleza
 categories: Perfume Fotografía
 typograms: true
 thumbnail: assets/img//2024/2024-07-12-perfume-naturaleza-fotografia-2.webp

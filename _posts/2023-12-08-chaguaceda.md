@@ -3,7 +3,7 @@ layout: post
 title: Chaguaceda, cuando la naturaleza reclamó lo suyo
 date: 2023-12-08 23:36:10-100
 description: En el noroeste de la provincia de Zamora, en el término municipal de Robleda-Cervantes, se encuentra Chaguaceda, un pueblo abandonado que guarda los ecos de su historia entre ruinas y vegetación.
-tags: rutas fotografia street-photo abandoned
+tags: pueblos lugares naturaleza
 categories: Rutas
 typograms: true
 featured: false

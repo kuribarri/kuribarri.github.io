@@ -3,7 +3,7 @@ layout: post
 title: Ruta Corral de los Lobos - Prioro (León)
 date: 2021-08-04 23:36:10-100
 description: Esta ruta es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre. 
-tags: rutas fotografia naturaleza montaña
+tags: naturaleza montaña
 categories: Rutas
 typograms: true
 featured: false

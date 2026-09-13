@@ -3,7 +3,7 @@ layout: post
 title: Dale una segunda vida a tu Mac antiguo
 date: 2025-12-21 20:36:10-100
 description: Si posees un Mac de 2011 o anterior con procesador Intel y Apple te dice que ya no es compatible con las últimas versiones de macOS, afortunadamente, existe un parche llamado **OpenCore Legacy Patcher (OCLP)**, que te permite instalar otras versiones del sistema operativo.
-tags: software
+tags: Mac hardware
 categories: Software
 typograms: true
 featured: true
