@@ -2,7 +2,7 @@
 layout: post
 title: Fotografiando eventos musicales con poca luz
 date: 2022-08-23 18:20:16
-description: Guía práctica para fotografiar conciertos y eventos musicales con poca luz: equipo, apertura, velocidad de obturación, ISO, balance de blancos, medición, enfoque y ráfaga.
+description: Guía práctica para fotografiar conciertos y eventos musicales con poca luz. Equipo, apertura, velocidad de obturación, ISO, balance de blancos, medición, enfoque y ráfaga.
 tags:  fotografia 
 categories: FOTOGRAFIA
 thumbnail: assets/img/000M/13-08-16 GrupoEs 03460.webp
