@@ -8,7 +8,7 @@ categories: FOTOGRAFIA
 thumbnail: assets/img/000M/13-08-16 GrupoEs 03460.webp
 ---
 
-# Mis consejos para fotografiar eventos musicales con poca luz
+### Mis consejos para fotografiar eventos musicales con poca luz
 
 Si ves mi portafolio, apreciarás que he trabajado con grupos musicales y artistas reconocidos, compartiendo escenario con ellos en diferentes eventos. Mayoritariamente, con cantantes y grupos de rock. Eso significa que, en muchas ocasiones, el entorno es oscuro y existe mucho movimiento por parte de músicos y cantantes. A esto hay que añadir las luminarias, los focos, los efectos especiales, el humo, etc., elementos que complican mucho la toma de fotografías.
 
