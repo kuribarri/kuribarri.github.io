@@ -16,8 +16,10 @@ Después de mi experiencia haciendo este tipo de trabajos, he creado este peque�
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-16 GrupoEs 03460.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
-2013 - Grupo.es
+© Pedro Uribarri-2013
 </div>
+
+## Hablemos del equipo que llevo
 
 Normalmente llevo dos objetivos: un gran angular y un 23 mm, que en una cámara APS-C equivale aproximadamente a un 35 mm en formato de película. En mis tiempos, cuando utilizaba Nikon, también llevaba un 50 mm. Ahora, con esos dos objetivos me basta. Los espacios sobre el escenario no suelen ser demasiado amplios: hay cables, amplificadores, instrumentos, equipos y todo tipo de aparatos que dificultan el movimiento.
 
@@ -25,26 +27,36 @@ Dicho esto, recomiendo **imperativamente utilizar objetivos luminosos**. Tengo v
 
 Yo, personalmente, no utilizo flash. Así que, además, me ahorro tener que llevar todo el equipo de iluminación.
 
-¿RAW o JPG? Una vez que tienes claro el equipo que vas a llevar, antes de entrar en la técnica hay otra cuestión importante que debes plantearte: **¿en qué formato de imagen vas a trabajar?**
+## La gran polémica ¿RAW o JPG? 
+
+Una vez que tienes claro el equipo que vas a llevar, antes de entrar en la técnica hay otra cuestión importante que debes plantearte: **¿en qué formato de imagen vas a trabajar?**
 Muchos defensores del JPG te dirán que no necesitas RAW. Yo lo tengo claro, mi consejo: **dispara siempre en RAW**. Disparar en RAW es la mejor opción porque después podrás editar las fotografías con mucha más facilidad, manteniendo toda la información disponible y teniendo un control mucho mayor sobre la imagen. Por lo tanto, en un evento musical, para mí es un **sí o sí: RAW**.
 
-## La técnica
+## La técnica en el escenario
 
 Ahora vamos a la técnica. El ISO, velocidad de obturación y apertura son, obviamente, los tres ajustes principales. Pero, al mismo tiempo, esto no responde a todas las dudas. Hay muchos otros factores que intervienen. Vamos a verlo paso a paso.
+
+### 1. La apertura
 
 Comienzo con la apertura. La apertura no tiene demasiado misterio: necesitamos luz, así que debemos utilizar la máxima apertura posible en función de la iluminación y de los focos que haya sobre el escenario. Si no tengo mucha luz, siempre dejo mis objetivos completamente abiertos. Pero si las condiciones me lo permiten, cierro algunos pasos para ganar profundidad de campo. Lo ideal es buscar el punto *dulce* del objetivo.
 
 Una buena apertura para mi es f/2.8 y, si las condiciones de luz lo permiten usar f/4. Pero que no te dé miedo utilizar un f/1.4 cuando la situación lo requiera.
 
+### 2. La velocidad de obturación
+
 La apertura va a condicionar en cierta medida la velocidad de obturación. Para conciertos con mucho movimiento, no recomiendo bajar de **1/250**. Si se trata de actuaciones más estáticas, como corales, jazz, soul o folk, puedes bajar hasta **1/125**, siempre que seas capaz de estabilizar bien la cámara.
 
 Independientemente de la situación, yo casi siempre tengo la cámara configurada a **1/250**. Para mí, esa velocidad es una especie de garantía y seguridad a la hora de realizar la toma. Prefiero sacrificar algo de ISO antes que arriesgarme a obtener una fotografía movida.
+
+### 3. El ISO
 
 El tercer ajuste, y probablemente el más polémico, es el ISO. Aquí todo depende de tu cámara y de cómo sea capaz de gestionar el ruido. Y claro... También depende de cuánto miedo le tengas al posible *ruido* digital. Yo trabajo habitualmente con ISO 3200 o 6400 con mi Fuji X-T3. Después, utilizo Capture One o Darktable para editar las fotografías y, si es necesario, compensar el ruido durante el revelado. 
 
 Te sorprenderá comprobar que, con cámaras relativamente modernas, no tendrás tanto ruido como probablemente imaginas. El uso de ISOs bajos viene influenciado y arrastrado por los viejos temores al ruido de cámaras viejas. Además, existe una recomendación bastante extendida: es preferible subir el ISO en cámara antes que intentar aumentar demasiado la exposición durante la edición.
 
 Lo normal es que con **ISO 3200** tengas suficiente en locales donde exista un foco brillante o una luz frontal sobre la banda. Si tienes más luz, o ves que puedes permitirte reducir el ISO, puedes hacerlo con cuidado. La idea es evitar tocar otros parámetros que sí puedan afectar más al resultado final, especialmente la velocidad de obturación.
+
+## El balance de blancos
 
 Hablemos del balance de blancos ¡vaya dolor de cabeza! Luces, focos de colores, efectos, diferentes temperaturas de color... Cada cámara es un mundo y, después, los programas de revelado son otro.
 
