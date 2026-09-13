@@ -26,7 +26,7 @@ pagination:
   <div class="header-bar">
     <h2>Camera Peregrinatio</h2>
     <h3>{{ site.blog_description }}</h3>
-    <p>Explorando horizontes, capturando momentos únicos y compartiendo historias que inspiran, conectan y transforman nuestras perspectivas del viaje y la fotografía</p>
+    <p>Explorando horizontes, capturando momentos únicos y compartiendo historias que inspiran, conectan y transforman nuestras perspectivas</p>
   </div>
   {% endif %}
 
