@@ -4,7 +4,7 @@ title: Objetivo Zeiss Touit 12mm el "Patito feo"
 date: 2020-11-10 23:36:10-100
 description: El Zeiss Touit 12mm f/2.8  Uno de mis objetivos, un gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. 
 tags: objetivos fotografia
-categories: objetivos
+categories: fotografia
 typograms: true
 featured: false
 thumbnail: assets/img/2020/2020-11-10-Touit-12mm-1.webp

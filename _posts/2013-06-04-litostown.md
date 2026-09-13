@@ -3,7 +3,7 @@ layout: post
 title: Litostown
 date: 2013-6-04 21:01:00-100
 description: Litos and the four seasons
-tags: fotografia litos zamora video naturaleza
+tags: fotografia
 categories: videos
 ---
 

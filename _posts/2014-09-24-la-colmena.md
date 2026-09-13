@@ -3,7 +3,7 @@ layout: post
 title: La Colmena
 date: 2014-09-24 21:01:00
 description: La vida en La Colmena
-tags: naturaleza videos abejas
+tags: fotografia
 categories: videos
 ---
 

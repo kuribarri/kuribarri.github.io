@@ -3,7 +3,7 @@ layout: post
 title: Un día como hoy
 date: 2017-01-10 11:12:00-0400
 description: Ensayo y fotografía
-tags: ensayo pensamientos
+tags: ensayo
 categories: sample-posts
 related_posts: false
 ---

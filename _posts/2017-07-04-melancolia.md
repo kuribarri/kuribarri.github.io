@@ -3,7 +3,7 @@ layout: post
 title: Melancolía, sombra infame que se posa en el alma
 date: 2017-07-05 23:36:10-100
 description: Pensamientos & Fotografía. Melancolía, enfermedad que marchita en vida, que enreda la soledad en los hilos del alma.
-tags: ensayo pensamientos
+tags: ensayo
 categories: ensayo
 typograms: true
 thumbnail: assets/img/2017/2017-07-04-melancolia.webp

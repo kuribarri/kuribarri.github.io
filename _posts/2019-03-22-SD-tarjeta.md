@@ -4,7 +4,7 @@ title: Tarjetas de memoria SD, una pieza pequeña, pero importante
 date: 2019-03-22 23:36:10-100
 description: Siempre he procurado adquirir las mejores tarjetas de memoria las cámaras que he tenido. Actualmente uso el formato SD y sobre las que uso voy a comentar SanDisk y Lexar.
 tags: camaras fotografia hardware
-categories: camaras
+categories: fotografia
 typograms: true
 thumbnail: assets/img/2019/2019-SD-Cards-Conectores.webp
 ---

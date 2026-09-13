@@ -3,7 +3,7 @@ layout: post
 title: La Passacaglia della vita... 
 date: 2018-04-28 23:36:10-100
 description: También conocida como "Chi vuol esser lieto sia", es una obra atribuida a Stefano Landi (1587-1639), un compositor y cantante italiano del período barroco. Esta pieza probablemente fue compuesta a principios del siglo XVII
-tags:  ensayo musica 
+tags:  ensayo 
 categories: ensayo 
 thumbnail: assets/img/2017/2017-07-04-melancolia.webp
 ---

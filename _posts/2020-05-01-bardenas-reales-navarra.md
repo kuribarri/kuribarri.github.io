@@ -4,7 +4,7 @@ title: Las Bardenas Reales, más allá de las tipicas imágenes
 date: 2020-05-01 23:36:10-100
 description: Las Bardenas Reales, un paraje semidesértico de más de 40.000 hectáreas en Navarra, España, es una maravilla natural que ha inspirado a fotógrafos, cineastas y viajeros.
 tags: rutas fotografia naturaleza montaña
-categories: rutas
+categories: fotografia lugares
 typograms: true
 featured: false
 thumbnail: assets/img/2020/2020-5-01-bardenas-reales-1.webp
