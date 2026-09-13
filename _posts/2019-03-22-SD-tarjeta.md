@@ -3,7 +3,7 @@ layout: post
 title: Tarjetas de memoria SD, una pieza pequeña, pero importante
 date: 2019-03-22 23:36:10-100
 description: Siempre he procurado adquirir las mejores tarjetas de memoria las cámaras que he tenido. Actualmente uso el formato SD y sobre las que uso voy a comentar SanDisk y Lexar.
-tags: camaras fotografia hardware
+tags: hardware
 categories: Fotografía
 typograms: true
 thumbnail: assets/img/2019/2019-SD-Cards-Conectores.webp
@@ -33,7 +33,7 @@ En mi experiencia personal con cámaras Fujifilm, la diferencia es notable: mien
 
 | Bus Interface    | Card Type          | Marca Visual Bus   | Velocidad Bus          |
 |------------------|--------------------|--------------------|------------------------|
-| Velocidad estandar | SD, SDHC y SDXC    | -                  | 12.5 MB/s              |
+| Velocidad estandar | SD, SDHC y SDX   | -                  | 12.5 MB/s              |
 | Alta velocidad   | SD, SDHC y SDXC    | -                  | 25 MB/s                |
 | UHS-I            | SDHC y SDXC        | SDHC-I SDXC-I      | 50 MB/s - 104 MB/s     |
 | UHS-II           | SDHC y SDXC        | SDHC-II SDXC-II    | 156 MB/s - 312 MB/s    |
