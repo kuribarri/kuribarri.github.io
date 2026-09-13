@@ -1,0 +1,31 @@
+<div class="share-buttons" style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #eee;">
+  <h4 style="font-size: 0.9rem; margin-bottom: 0.5rem;">Compartir este artículo</h4>
+  <div style="display: flex; gap: 10px;">
+    <!-- Twitter / X -->
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" 
+       target="_blank" rel="noopener" title="Compartir en X" style="color: #333; text-decoration: none;">
+      <i class="fa-brands fa-x-twitter fa-lg"></i>
+    </a>
+    
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" 
+       target="_blank" rel="noopener" title="Compartir en Facebook" style="color: #333; text-decoration: none;">
+      <i class="fa-brands fa-facebook fa-lg"></i>
+    </a>
+    
+    <!-- LinkedIn -->
+    <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" 
+        target="_blank" 
+        rel="noopener" 
+        title="Compartir en Bluesky" 
+        style="color: #333; text-decoration: none;">
+        <i class="fa-brands fa-bluesky fa-lg"></i>
+    </a>
+    
+    <!-- WhatsApp -->
+    <a href="whatsapp://send?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" 
+       target="_blank" rel="noopener" title="Compartir en WhatsApp" style="color: #333; text-decoration: none;">
+      <i class="fa-brands fa-whatsapp fa-lg"></i>
+    </a>
+  </div>
+</div>
