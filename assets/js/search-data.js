@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contacto/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/2022-08-23-fotografiando-musicos/";
-        
-      },
-    },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
       
         title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
       
@@ -233,6 +222,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/tamron-sp-90mm-52BB/";
+        
+      },
+    },{id: "post-fotografiando-eventos-musicales-con-poca-luz",
+      
+        title: "Fotografiando eventos musicales con poca luz",
+      
+      description: "Guía práctica para fotografiar conciertos y eventos musicales con poca luz. Equipo, apertura, velocidad de obturación, ISO, balance de blancos, medición, enfoque y ráfaga.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/fotografiando-musicos/";
         
       },
     },{id: "post-cámara-en-mano-por-la-sierra-de-la-culebra",
