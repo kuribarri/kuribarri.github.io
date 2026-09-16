@@ -21,7 +21,7 @@ A lo largo de mi vida he recorrido con el equipo de fotografía diferentes monta
 Adentrarse en ella, bien por el norte, desde Litos o desde Ferreras de Abajo, o bien desde el sur, desde Aliste, supone trasladarse a otra dimensión. Una vez en ella sientes que has sido desplazado en el tiempo y el espacio. El reloj se detiene ante la magnitud de sus enormes bosques. La mayoría, de pino resinero. Pinos que plantaron nuestros mayores cuando eran jóvenes, o casi niños, como mi madre, que iba a embarrar las raíces allá por los años cincuenta. Aquellos pequeños pinos son ahora los gigantes que marcan alineados extensas zonas arbóreas en las que se esconden otras especies como encinas y robles. Cuando ves esto desde la cámara con cualquier focal, ya sea un gran angular o un teleobjetivo, te das cuenta que esos guardianes son una gran parte del pulmón de Zamora.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/2022/2022-06-35-camara-en-mano.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2022/2022-06-25-camara-en-mano.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 © Pedro Uribarri-2013
 </div>
 
