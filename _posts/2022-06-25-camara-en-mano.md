@@ -20,12 +20,17 @@ A lo largo de mi vida he recorrido con el equipo de fotografía diferentes monta
 
 Adentrarse en ella, bien por el norte, desde Litos o desde Ferreras de Abajo, o bien desde el sur, desde Aliste, supone trasladarse a otra dimensión. Una vez en ella sientes que has sido desplazado en el tiempo y el espacio. El reloj se detiene ante la magnitud de sus enormes bosques. La mayoría, de pino resinero. Pinos que plantaron nuestros mayores cuando eran jóvenes, o casi niños, como mi madre, que iba a embarrar las raíces allá por los años cincuenta. Aquellos pequeños pinos son ahora los gigantes que marcan alineados extensas zonas arbóreas en las que se esconden otras especies como encinas y robles. Cuando ves esto desde la cámara con cualquier focal, ya sea un gran angular o un teleobjetivo, te das cuenta que esos guardianes son una gran parte del pulmón de Zamora.
 
-<
-Sacas una foto de un pino desgastado por los ciervos
-cuando se frotan en el tronco. El árbol conserva la gran
-cicatriz rojiza año tras año. En este santuario natural los
-animales viven tranquilamente el curso de la vida
-<
+<div class="text-center">
+{% include figure.liquid loading="eager" width="50%" path="assets/img/2022/2022-06-35-camara-en-mano.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+© Pedro Uribarri-2013
+</div>
+
+
+> Sacas una foto de un pino desgastado por los ciervos
+> cuando se frotan en el tronco. El árbol conserva la gran
+> cicatriz rojiza año tras año. En este santuario natural los
+> animales viven tranquilamente el curso de la vida
+
 
 Según penetras en la Sierra, a pasos por entre sus peñas, notas que allí donde te envuelve el entorno el lugar es muy diferente a la meseta castigada por el sol que asoma solo unos kilómetros más al este, en esa Tierra de Campos compartida por Zamora, León, Palencia y Valladolid. Cuando sigo caminos en busca de sitios para fotografiar, contemplo los enormes cortafuegos junto a senderos creados por los animales o bien los espacios que hay entre los pinos. La magnificencia del paisaje y la paz que se respira te dejan encuadrar esas vistas hasta el punto que no solo fotografías el entorno, sino que disfrutas sin pensar en el tiempo, simplemente con contemplar la vida en esta reserva natural.
 
