@@ -125,6 +125,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/inspiroy-h950p/";
         
       },
+    },{id: "post-principios-fundamentales-del-perfume",
+      
+        title: "Principios fundamentales del perfume",
+      
+      description: "Cómo conocer qué fragancia armoniza con el pH de nuestra piel. Saber más la intensidad deseada, distinguir entre un Eau de Toilette, un Eau de Parfum o un Eau de Cologne. Un articulo para acertar con una fragancia-",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/principios-perfume/";
+        
+      },
     },{id: "post-lo-que-el-perfume-la-naturaleza-y-la-fotografía-tienen-en-común",
       
         title: "Lo que el perfume, la naturaleza y la fotografía tienen en común",
