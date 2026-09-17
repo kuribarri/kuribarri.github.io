@@ -78,7 +78,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/borrachera-olfativa.md/";
+          window.location.href = "/blog/2025/borrachera-olfativa/";
         
       },
     },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
