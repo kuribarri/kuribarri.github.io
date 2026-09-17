@@ -70,6 +70,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/laborioso-trabajo-de-clasificar-fotos/";
         
       },
+    },{id: "post-borrachera-olfativa",
+      
+        title: "Borrachera olfativa",
+      
+      description: "Entre los aspectos que más cuesta entender a mucha gente es lo que denomino «borrachera olfativa». Hoy comento lo que comúnmente llamamos «borrachera olfativa» (cuando saturas tu nariz probando perfumes o aromas) es fatiga olfativa o adaptación olfativa.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/borrachera-olfativa.md/";
+        
+      },
     },{id: "post-cómo-incluir-una-firma-o-marca-de-agua-en-darktable-5-0",
       
         title: "Cómo incluir una firma o marca de agua en Darktable 5.0",
