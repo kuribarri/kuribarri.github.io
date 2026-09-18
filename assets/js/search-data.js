@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contacto/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/2011-05-29-las-notas-olfativas/";
-        
-      },
-    },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
       
         title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
       
@@ -574,6 +563,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2013/litostown/";
+        
+      },
+    },{id: "post-principios-del-perfume-las-notas-olfativas",
+      
+        title: "Principios del Perfume, las notas olfativas",
+      
+      description: "Seguramente te suene o has oído hablar de las notas olfativas. Si tienes dudas a qué se refiere, este pequeño artículo te lo va a enseñar. Una introducción al mundo del perfume.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2011/las-notas-olfativas/";
         
       },
     },{id: "news-el-hayedo-de-otzarreta-un-rincón-mágico-en-bizkaia",
