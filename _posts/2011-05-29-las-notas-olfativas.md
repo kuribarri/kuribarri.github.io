@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Principios del Perfume: Las notas Olfativas
+title: Principios del Perfume, las notas olfativas
 date: 2011-05-29 13:05:10-100
-description: texto.
+description: Seguramente te suene o has oído hablar de las notas olfativas. Si tienes dudas a qué se refiere, este pequeño artículo te lo va a enseñar. Una introducción al mundo del perfume.
 tags: perfumista olfato
 categories: Perfume
 typograms: true
@@ -11,7 +11,7 @@ thumbnail: assets/img/2011/2011-05-29-notas-olfativas.webp
 
 
 
-¿Has oído hablar de las **notas** olfativas? ¿No sabes exactamente a qué nos referimos? Comenzamos esta introducción al mundo del perfume de una forma directa. Posteriormente entraremos en los tipos de fragancias y productos. Deseo que os guste y sirva para elegir, disfrutar y conocer mucho mejor los perfumes.
+¿Has oído hablar de las **notas** olfativas? ¿No sabes exactamente a qué nos referimos? Comenzamos esta introducción al mundo del perfume de una forma directa. 
 
 Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, como metáfora musical. El perfume tiene tres tipos de notas; de ellas se forma la armonía de la fragancia y de ellas dependerá que nos guste más o menos: una de salida (las altas), otra de corazón (las medias) y una de fondo (las de base). Pasaremos a definirlas para que, cuando analicemos una fragancia según se evapora, podamos apreciar y disfrutar de cada clase.
 
@@ -19,8 +19,6 @@ Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, c
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2011/2011-05-29-notas-olfativas.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
-
-## Clases de notas
 
 ## Clases de notas
 
