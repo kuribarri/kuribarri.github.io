@@ -628,6 +628,11 @@ ninja.data = [{
           description: "Otros artistas y grupos fotografiados entre los años 2013-2017",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-donde-habita-la-esencia-libro",
+          title: 'Donde habita la esencia (Libro)',
+          description: "El potencial del marketing sensorial aplicado a la aromatización. Este libro descubre el mundo del perfume y la aromatización de espacios desde una perspectiva que une ciencia, creatividad y conocimiento.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-mesa-de-luz-para-digitalizar-negativos-y-diapositivas",
           title: 'Mesa de luz para digitalizar negativos y diapositivas',
           description: "Mesa de luz para digitalizar negativos",
