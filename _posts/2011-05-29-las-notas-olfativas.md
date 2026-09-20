@@ -32,3 +32,4 @@ Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, c
 
 Hay que tener en cuenta que los olores de las notas más altas y medias se ven influidos por las bajas, más potentes. Asimismo, los aromas de las notas de fondo se verán influenciados por el tipo de fragancias utilizadas como notas medias. Los fabricantes de perfumes solemos publicar las notas de sus productos y, por lo general, se presentan como una pirámide olfativa, con los componentes descritos en términos imaginativos y abstractos. Es evidente que la fórmula real queda siempre en manos de cada perfumista.
 
+ **Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2011).*

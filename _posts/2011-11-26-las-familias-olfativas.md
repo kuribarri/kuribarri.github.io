@@ -74,5 +74,4 @@ Conocidos también como ambarados o ambrées (en clasificaciones contemporáneas
 - **Oriental Amaderado** — Acentuado con notas cálidas como resinas, cedro y el patchouli, sándalo, o mirra entre otros.
 - **Oriental Cuero/Tabaco** — Notas de tabaco rubio, o cuero envueltas en ámbar.
 
-© 2011 Pedro Uribarri (Fragancia digital) - Revisión 2025.
-
+**Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2011). Revisión 2025*

@@ -49,9 +49,7 @@ A pesar de su sencillez, la *mouillette* es una de las herramientas más importa
 
 **Autor:** Pedro Uribarri - *Perfumer Technician*
 
-*Publicado originalmente en **Fragancia Digital** el 26 de junio de 2023.*
-
-
+**Pedro Uribarri** - *Perfumer Technician*. *Publicado originalmente en **Fragancia digital** (2015).*
 
 
 

@@ -55,3 +55,5 @@ Nunca frotes la piel tras la aplicación para «expandir» la fragancia, pues «
 Un detalle que no quiero pasar por alto, y esto va tanto en perfumes como en ambientadores: nunca debes oler directamente del envase. La fuerza del alcohol etílico enmascara la fragancia y bloquea temporalmente tu sentido del olfato.
 
 Con estas recomendaciones, espero que aciertes con tu próxima fragancia.
+
+ **Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2017).*
