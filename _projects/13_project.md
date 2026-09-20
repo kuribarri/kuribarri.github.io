@@ -8,11 +8,14 @@ category: libros
 ---
 
 *Formato:* Impreso/Papel
-*Tipo de encuadernación:* Tapa blanda 
-*ISBN:* 978-84-09-91709-9
-*Número de páginas:* 240
-*Fecha de divulgación:* 23/07/2026
 
+*Tipo de encuadernación:* Tapa blanda 
+
+*ISBN:* 978-84-09-91709-9
+
+*Número de páginas:* 240
+
+*Fecha de divulgación:* 23/07/2026
 
 ### Sinopsis
 
