@@ -15,7 +15,7 @@ categories: Vídeos
 
 **Fecha de publicación:** 9 de septiembre de 2014
 
-**Autor:** Pedro Uribarri (fotógrafo amateur español)
+**Autor:** Pedro Uribarri
 
 
 El resultado de un reportaje que realicé gracias a Daniel Alonso propietario de las colmenas en la Sierra de la Culebra (Zamora). Protegido con el traje de apicultor, tuve que arreglarmelas para poder sacar las fotografías, una experiencia muy bonita.
