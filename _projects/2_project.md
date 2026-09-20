@@ -3,7 +3,7 @@ layout: page
 title: Por donde tú vas, yo vuelvo (Libro)
 description: Un proyecto personal sin terminar que está encaminado a convertirse en un libro. Un cuaderno de campo de montes, rutas de la zona más oriental de la Sierra de la Culebra
 img: assets/img/0000/unaideapum.webp
-importance: 4
+importance: 3
 category: libros
 ---
 

@@ -21,6 +21,10 @@ Este libro descubre el mundo del perfume y la aromatización de espacios desde u
 
 El aroma es poder. El olfato influye en nuestras emociones, percepciones y decisiones, y el marketing olfativo se ha convertido en una herramienta clave para crear experiencias memorables, enriquecer experiencias y reforzar la identidad de una marca.
 
+<div class="text-center">
+{% include figure.liquid loading="eager" path="assets/img/0000/2026-09-13-donde-habita-la-esencia.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+</div>
+
 Con explicaciones claras, consejos prácticos y ejemplos, esta obra está dirigida a emprendedores y profesionales del marketing, el branding, la comunicación, el perfume y la aromatización. También está pensada para quienes sienten pasión por el mundo de las fragancias y quieren comprender y aprovechar su poder.
 Descubre cómo convertir un aroma en una experiencia y hacer del olfato una herramienta para conectar, emocionar y diferenciar.
 
