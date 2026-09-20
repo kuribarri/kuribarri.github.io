@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Familias olfativas en el perfume
-date: 2024-07-12 13:05:10-100
+date: 2011-11-26 13:05:10-100
 description: Conoce las principales familias olfativas. En este artículo abordaré las seis más importantes, cada una con sus respectivas subfamilias.
 tags: perfumistas naturaleza
 categories: Perfume

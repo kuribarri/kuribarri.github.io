@@ -20,7 +20,7 @@ Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, c
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2011/2011-05-29-notas-olfativas.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-## Clases de notas
+### Clases de notas
 
 **Notas altas:** Es el primer impacto, el primer olor que percibimos en un perfume. Las altas son moléculas pequeñas que se evaporan rápidamente. Estas forman una primera idea sobre la fragancia. Son importantes porque es la que fundamenta, en primera instancia, si un perfume puede gustar o no. Por lo tanto, son fundamentales en la venta de un perfume. Se llaman también notas de cabeza o notas de salida.
 
@@ -28,7 +28,7 @@ Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, c
 
 **Notas base:** Es el aroma de fondo que aparece después de las notas medias. Las de fondo y las medias juntas constituyen el cuerpo principal de un perfume. Las de base aportan profundidad y solidez. Son las que muchas veces nos llaman la atención cuando percibimos la fragancia en una persona cuyo rastro ha quedado impregnado tras pasar cierto tiempo. Los compuestos de esta clase suelen ser agradables y profundos. Generalmente, no son percibidos hasta treinta minutos después de la aplicación. Llamadas, como he mencionado también, notas de fondo.
 
-## Recomendaciones
+### Recomendaciones
 
 Hay que tener en cuenta que los olores de las notas más altas y medias se ven influidos por las bajas, más potentes. Asimismo, los aromas de las notas de fondo se verán influenciados por el tipo de fragancias utilizadas como notas medias. Los fabricantes de perfumes solemos publicar las notas de sus productos y, por lo general, se presentan como una pirámide olfativa, con los componentes descritos en términos imaginativos y abstractos. Es evidente que la fórmula real queda siempre en manos de cada perfumista.
 
