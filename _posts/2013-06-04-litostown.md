@@ -9,7 +9,7 @@ categories: Vídeos
 
 En la sierra de la Culebra existe un pequeño pueblo de no más de 100 habitantes, que durante la época estival resurge como las flores en primavera. Cuando estuve en este verano del 2013 se me ocurrió hacer un vídeo resultado del cambio del entorno natural durante las cuatro estaciones. Para ello usé una Nikon D7000 con objetivos varios. 
 
-<div class="row mt-3">  
-      <iframe title="vimeo-player" src="https://player.vimeo.com/video/63458636?h=efb8540250" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-</div>
 
+<div class="video-responsive">
+  <iframe src="https://player.vimeo.com/video/63458636?h=efb8540250" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
