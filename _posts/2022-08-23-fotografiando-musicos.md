@@ -19,7 +19,7 @@ Después de mi experiencia haciendo este tipo de trabajos, he creado este peque�
 © Pedro Uribarri-2013
 </div>
 
-## Hablemos del equipo que llevo
+### Hablemos del equipo que llevo
 
 Normalmente llevo dos objetivos: un gran angular y un 23 mm, que en una cámara APS-C equivale aproximadamente a un 35 mm en formato de película. En mis tiempos, cuando utilizaba Nikon, también llevaba un 50 mm. Ahora, con esos dos objetivos me basta. Los espacios sobre el escenario no suelen ser demasiado amplios: hay cables, amplificadores, instrumentos, equipos y todo tipo de aparatos que dificultan el movimiento.
 
@@ -27,12 +27,12 @@ Dicho esto, recomiendo **imperativamente utilizar objetivos luminosos**. Tengo v
 
 Yo, personalmente, no utilizo flash. Así que, además, me ahorro tener que llevar todo el equipo de iluminación.
 
-## La gran polémica ¿RAW o JPG? 
+### La gran polémica ¿RAW o JPG? 
 
 Una vez que tienes claro el equipo que vas a llevar, antes de entrar en la técnica hay otra cuestión importante que debes plantearte: **¿en qué formato de imagen vas a trabajar?**
 Muchos defensores del JPG te dirán que no necesitas RAW. Yo lo tengo claro, mi consejo: **dispara siempre en RAW**. Disparar en RAW es la mejor opción porque después podrás editar las fotografías con mucha más facilidad, manteniendo toda la información disponible y teniendo un control mucho mayor sobre la imagen. Por lo tanto, en un evento musical, para mí es un **sí o sí: RAW**.
 
-## La técnica en el escenario
+### La técnica en el escenario
 
 Ahora vamos a la técnica. El ISO, velocidad de obturación y apertura son, obviamente, los tres ajustes principales. Pero, al mismo tiempo, esto no responde a todas las dudas. Hay muchos otros factores que intervienen. Vamos a verlo paso a paso.
 
@@ -56,7 +56,7 @@ Te sorprenderá comprobar que, con cámaras relativamente modernas, no tendrás 
 
 Lo normal es que con **ISO 3200** tengas suficiente en locales donde exista un foco brillante o una luz frontal sobre la banda. Si tienes más luz, o ves que puedes permitirte reducir el ISO, puedes hacerlo con cuidado. La idea es evitar tocar otros parámetros que sí puedan afectar más al resultado final, especialmente la velocidad de obturación.
 
-## El balance de blancos
+### El balance de blancos
 
 Hablemos del balance de blancos ¡vaya dolor de cabeza! Luces, focos de colores, efectos, diferentes temperaturas de color... Cada cámara es un mundo y, después, los programas de revelado son otro.
 

@@ -26,7 +26,7 @@ Además de los contenidos divulgativos, Fragancia Digital realizó un seguimient
 {% include figure.liquid loading="eager" width="50%" path="assets/img//2024/2024-02-20-fragancia digital.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-## El final de una etapa
+### El final de una etapa
 
 Como muchos proyectos nacidos en la primera gran época de los blogs, Fragancia Digital llegó a su final a comienzos de 2024. El descenso progresivo de lectores en este tipo de plataformas y el creciente protagonismo de las redes sociales modificaron profundamente la forma en la que los usuarios consumían información.
 La inmediatez del contenido breve terminó desplazando a los artículos especializados, provocando el cierre de numerosos blogs temáticos que habían desempeñado un importante papel divulgativo durante años.

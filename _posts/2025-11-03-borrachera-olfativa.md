@@ -9,7 +9,7 @@ typograms: true
 thumbnail: assets/img/2025/2025-11-3-borrachera-olfativa.webp
 ---
 
-## La fatiga olfativa
+### La fatiga olfativa
 
 Entre los aspectos que más cuesta entender a mucha gente es lo que denomino *«borrachera olfativa»*. El término correcto y científico para lo que comúnmente llamamos «borrachera olfativa» (cuando saturas tu nariz probando perfumes o aromas) es *fatiga olfativa* o *adaptación olfativa*. Pero como mayoritariamente se conoce coloquialmente como «borrachera olfativa», lo seguiré usando para que se entienda bien de qué hablamos.
 
@@ -21,7 +21,7 @@ Esto provoca en quien lo padece la sensación de que el perfume ya no es lo que 
 
 > Luego algunos vendedores o comerciales te afirman que oliendo granos de café se vuelve a apreciar la fragancia. No, no es cierto; es un mito. 
 
-## El mito del café. No para oler, sino para beber
+### El mito del café. No para oler, sino para beber
 
 Sobre el mito del café, carente de base científica, existe la idea de que oler granos de café «reinicia» o «despeja» el olfato cuando estás probando perfumes. Solamente es una especie de placebo y un juego comercial. Científicamente, *el café no tiene ninguna propiedad molecular que elimine los aromas de los receptores nasales*. Hay varios artículos de la Dra. Alexis Grosofsky en la Universidad Beloit College que demuestran que el café funciona exactamente igual que oler rodajas de limón o respirar aire fresco.
 

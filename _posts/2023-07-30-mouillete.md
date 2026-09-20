@@ -10,7 +10,7 @@ thumbnail: assets/img//2023/2023-07-30-mouillete2.webp
 ---
 
 
-# La *mouillette*
+## La *mouillette*
 
 Quien haya visitado una perfumería habrá recibido alguna vez una pequeña tira impregnada con una fragancia. 
 La *mouillette* o *Touche à sentir* (en francés) es una pequeña tira de papel específica con pH neutro para que no interfiera con las esencias, que se utiliza en la industria de la perfumería para desarrollar y probar aceites esenciales, perfumes, *eau de toilette* y otras composiciones perfumadas.
@@ -29,7 +29,7 @@ Al principio, para la elaboración de este papel se incorporaba algodón a las f
 {% include figure.liquid loading="eager" width="50%" path="assets/img//2023/2023-07-30-mouillete1.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-## Consejos para utilizar correctamente una *mouillette*
+### Consejos para utilizar correctamente una *mouillette*
 
 Aunque su uso parece sencillo, existen algunas recomendaciones que permiten apreciar mucho mejor una fragancia.
 

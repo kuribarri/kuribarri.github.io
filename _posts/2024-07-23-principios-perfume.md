@@ -17,7 +17,7 @@ La diferencia entre las fórmulas —*eau de toilette*, *eau de parfum* o *eau d
 {% include figure.liquid loading="eager" path="assets/img/2024/2024-07-23-principios-perfume.webp" class="img-fluid rounded z-depth-1" %}
 </div>
 
-## Las notas en el perfume: Salida, Corazón y Fondo
+### Las notas en el perfume: Salida, Corazón y Fondo
 
 **Notas de salida.** Son las más volátiles, constituyen la primera impresión del perfume y suelen generar confusión al comprar. Por ello, desaconsejo adquirir una fragancia inmediatamente después de probarla, ya sea en la piel o en una **moulette** (tira de papel absorbente). Esta nota no suele durar más de una hora, dependiendo de los componentes utilizados.
 
@@ -33,7 +33,7 @@ La diferencia entre las fórmulas —*eau de toilette*, *eau de parfum* o *eau d
 
 En el perfume predominan las notas de fondo, pues es lo que el perfumista desea transmitir. Al adquirir una fragancia, normalmente el perfumista informa de los componentes en cada nota, con ello sabemos a ciencia cierta qué aromas perdurarán más en la de fondo, pues es la que más perdurará y será la que con total seguridad se fijarán en nosotros.
 
-## El arte de perfumar
+### El arte de perfumar
 
 Para dominar el arte de perfumarse, es crucial atender a estos detalles para evitar intensidades o notas olfativas molestas. Apliquemos este preciado líquido en los puntos idóneos recomendados, según los profesionales, en la piel.
 

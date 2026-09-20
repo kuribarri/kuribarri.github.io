@@ -13,7 +13,7 @@ thumbnail: assets/img/2021/2021-11-06-otzarreta-0.jpg
 ### El Hayedo de Otzarreta: Un rincón mágico en Bizkaia
 El Hayedo de Otzarreta, ubicado en el Parque Natural de Gorbeia, es uno de los bosques más icónicos de Bizkaia. En este artículo no encontrarás una guía exhaustiva, sino recomendaciones prácticas para quienes deseen visitarlo, disfrutar de su encanto y capturar su esencia en fotografías.
 
-## Cómo llegar al Hayedo de Otzarreta
+### Cómo llegar al Hayedo de Otzarreta
 
 Desde Bilbao, el acceso se realiza a través de la carretera nacional N-240 en dirección a Vitoria. Al llegar al alto de Barazar, antes de la gasolinera, toma la pequeña carretera a la derecha, junto a un caserío de construcción moderna. Este camino se convierte gradualmente en vías hormigonadas o asfaltadas mientras te adentras en el Parque Natural de Gorbeia.
 

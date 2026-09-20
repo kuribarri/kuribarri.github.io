@@ -11,7 +11,7 @@ thumbnail: assets/img/2022/2022-06-25-camara-en-mano-01.webp
 ---
 
 
-Cámara en mano por la Sierra de la Culebra | El Norte de Castilla 
+### Cámara en mano por la Sierra de la Culebra | El Norte de Castilla 
 
 Durante el transcurso de los años no ha sido una, sino muchas, las veces  que me he adentrado en el corazón de la Sierra de la Culebra cámara en mano. Habitualmente por su parte más oriental. En ocasiones solo, en otras
 acompañado, para enseñar a otros el paraíso que aparece dentro de la sierra. No hablo de esa sierra que nos muestran en las noticias, ni la que se atisba desde la carretera o las vías del Ave. Hablo del corazón de la Sierra de la Culebra, ese corazón ahora calcinado.
