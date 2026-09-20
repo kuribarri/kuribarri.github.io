@@ -7,8 +7,6 @@ tags: videoedición
 categories: Vídeos
 ---
 
-### La Colmena
-
 *La Colmena+ - Video de Pedro Uribarri
 
 **Duración:** 1 minuto y 50 segundos
@@ -16,7 +14,6 @@ categories: Vídeos
 **Fecha de publicación:** 9 de septiembre de 2014
 
 **Autor:** Pedro Uribarri
-
 
 El resultado de un reportaje que realicé gracias a Daniel Alonso propietario de las colmenas en la Sierra de la Culebra (Zamora). Protegido con el traje de apicultor, tuve que arreglarmelas para poder sacar las fotografías, una experiencia muy bonita.
 El video presenta imágenes impactantes sobre el mundo de las abejas. Se trata de una serie de macrofotografías que muestran toda la vida dentro de una colmena.

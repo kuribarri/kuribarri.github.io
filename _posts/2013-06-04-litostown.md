@@ -7,8 +7,6 @@ tags: videoedición
 categories: Vídeos
 ---
 
-### LitosTown
-
 *Litostown* - Video de Pedro Uribarri
 
 **Duración:** 10 minutos y 1 segundo
