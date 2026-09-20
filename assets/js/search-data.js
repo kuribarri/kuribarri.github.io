@@ -147,6 +147,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/perfume-naturaleza-fotografia/";
         
       },
+    },{id: "post-familias-olfativas-en-el-perfume",
+      
+        title: "Familias olfativas en el perfume",
+      
+      description: "Conoce las principales familias olfativas. En este artículo abordaré las seis más importantes, cada una con sus respectivas subfamilias.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/las-familias-olfativas/";
+        
+      },
     },{id: "post-fragancia-digital-2011-2024-trece-años-divulgando-la-cultura-del-perfume",
       
         title: "Fragancia Digital (2011-2024), trece años divulgando la cultura del perfume",
