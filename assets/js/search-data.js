@@ -543,6 +543,17 @@ ninja.data = [{
           window.location.href = "/blog/2017/un-dia-como-hoy/";
         
       },
+    },{id: "post-marketing-olfativo",
+      
+        title: "Marketing Olfativo",
+      
+      description: "Breve introducción al marketing olfativo",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2014/marketing-olfativo/";
+        
+      },
     },{id: "post-la-colmena",
       
         title: "La Colmena",
