@@ -532,6 +532,17 @@ ninja.data = [{
           window.location.href = "/blog/2017/melancolia/";
         
       },
+    },{id: "post-fijadores-en-la-perfumería-el-ámbar-gris",
+      
+        title: "Fijadores en la perfumería, el Ámbar Gris",
+      
+      description: "Hablemos del Ámbar Gris, una secreción biliar producida por el cachalote. De forma cerosa, inflamable, tiene un color gris mate antiguamente se usaba como fijador en la alta perfumería, hoy es de un uso ocasional.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2017/fijadores-perfume-el-ambar-gris/";
+        
+      },
     },{id: "post-un-día-como-hoy",
       
         title: "Un día como hoy",
