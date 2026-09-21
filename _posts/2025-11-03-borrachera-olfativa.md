@@ -5,6 +5,7 @@ date: 2025-11-3 13:05:10-100
 description: Entre los aspectos que más cuesta entender a mucha gente es lo que denomino «borrachera olfativa». Hoy comento lo que comúnmente llamamos «borrachera olfativa» (cuando saturas tu nariz probando perfumes o aromas) es fatiga olfativa o adaptación olfativa.
 tags: perfume
 categories: Perfume
+featured: true
 typograms: true
 thumbnail: assets/img/2025/2025-11-3-borrachera-olfativa.webp
 ---
