@@ -6,7 +6,7 @@ description: Una ciudad para descubrir con una perspectiva diferente, cómo disf
 tags: europa street-photo ciudades
 categories: Rutas
 typograms: true
-featured: true
+featured: false
 thumbnail: assets/img/2023/2023-08-20-oporto-1.jpg
 ---
 
