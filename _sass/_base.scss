@@ -4,27 +4,26 @@
 
 // Typography
 
-
-
-
 p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+// h1, 
+// h2,
+// h3,
+// h4,
+// h5,
+// h6,
 em,
 div,
 li,
 span,
 strong {
   color: var(--global-text-color);
+    font-family: 'Inter', 'Source Serif 4', sans-serif;  // ← Añadir esta línea
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Playfair Display', serif;
-}
+h1, h2, h3, h4, h5, h6 {                        // ← Añadir esta línea
+    color: var(--global-text-color);
+  font-family: 'Playfair Display', serif;       // ← Añadir esta línea
+}                                               // ← Añadir esta línea
 
 hr {
   border-top: 1px solid var(--global-divider-color);
