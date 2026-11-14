@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contacto/";
           },
-        },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
+        },{id: "post-software-de-revelado-raw-dando-estopa",
+      
+        title: "Software de revelado RAW, dando estopa.",
+      
+      description: "Comparativa a grandes rasgos de reveladores RAW. Capture One (profesional y rápido), Darktable (potente, open source, curva alta) y RapidRaw (nuevo, open source, interfaz simple, futuro prometedor). Análisis de pros, contras y flujos de trabajo.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/dando-estopa-raw/";
+        
+      },
+    },{id: "post-entre-el-hater-premium-y-el-fanboy-chino-reflexiones-antes-de-sacar-la-cartera",
       
         title: "Entre el “hater” premium y el “fanboy” chino, reflexiones antes de sacar la...",
       
