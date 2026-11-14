@@ -4,7 +4,7 @@ title: Software de revelado RAW, dando estopa.
 date: 2026-09-30 20:36:10-100
 description: Comparativa a grandes rasgos de reveladores RAW. Capture One (profesional y rápido), Darktable (potente, open source, curva alta) y RapidRaw (nuevo, open source, interfaz simple, futuro prometedor). Análisis de pros, contras y flujos de trabajo.
 tags: software revelado edición 
-categories:  Software Fotografía
+categories: Software Fotografía
 typograms: true
 featured: true
 thumbnail: assets/img/2026/2026-09-30-dando-estopa-raw.webp
@@ -15,7 +15,7 @@ Voy a comentar a grandes rasgos los tres reveladores que tengo instalados en el 
 
 ### Capture One, un clásico
 
-Como dije anteriormente , uso Capture One por defecto, para un revelado profesional, rápido y con buenas opciones. Es una versión a la que le han pasado los años y carente de los grandes avances de hoy en día en procesamiento de imágenes asistido con AI en local. Capture One va muy bien con los RAWs de mis cámaras Fuji, tanto la X-T3 como la X100S, y es de licencia perpetua aunque limitada a esos .RAF. Con él me siento como un autómata, casi hago las cosas sin darme cuenta. Y como he comentado, adolece de "cositas" que me gustaría probar, demás de no poder usar mis .NEF de mis tiempos con Nikon, ni los .ORF de las Olympus. Es lo que hay. Otra opción es la de ir a uno moderno y pasar por caja con una suscripción al estilo de la marea de LR, no lo deseo y no lo haré.
+Como dije anteriormente, uso Capture One por defecto, para un revelado profesional, rápido y con buenas opciones. Es una versión a la que le han pasado los años y carente de los grandes avances de hoy en día en procesamiento de imágenes asistido con AI en local. Capture One va muy bien con los RAWs de mis cámaras Fuji, tanto la X-T3 como la X100S, y es de licencia perpetua aunque limitada a esos .RAF. Con él me siento como un autómata, casi hago las cosas sin darme cuenta. Y como he comentado, adolece de "cositas" que me gustaría probar, demás de no poder usar mis .NEF de mis tiempos con Nikon, ni los .ORF de las Olympus. Es lo que hay. Otra opción es la de ir a uno moderno y pasar por caja con una suscripción al estilo de la marea de LR, no lo deseo y no lo haré.
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2026/2026-09-30-dando-estopa-raw.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
