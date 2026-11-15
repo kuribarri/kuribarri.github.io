@@ -4,7 +4,7 @@
 
 // Typography
 
-p,
+/* p,
 // h1, 
 // h2,
 // h3,
@@ -24,6 +24,38 @@ h1, h2, h3, h4, h5, h6 {                        // ← Añadir esta línea
     color: var(--global-text-color);
   font-family: 'Playfair Display', serif;       // ← Añadir esta línea
 }                                               // ← Añadir esta línea
+*/
+
+// TIPOGRAFIA URIBARRI
+
+// Fuente del cuerpo del artículo
+p,
+div,
+li,
+span {
+  color: var(--global-text-color);
+  font-family: "Inter", "Source Serif 4", sans-serif;
+}
+
+// Cursivas y negritas respetan siempre la letra donde estén (párrafo o título) URIBARRI
+em,
+strong {
+  color: var(--global-text-color);
+  font-family: inherit;
+}
+
+// Fuente de los encabezados (título y subtítulos)
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--global-text-color);
+  font-family: "Playfair Display", serif;
+}
+
+// FIN TIPOGRAFIA URIBARRI
 
 hr {
   border-top: 1px solid var(--global-divider-color);
