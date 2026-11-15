@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-bibliografía",
+          title: "Bibliografía",
+          description: "Libros y artículos publicados por Pedro Uribarri.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bibliografia/";
+          },
         },{id: "nav-sobre-mi",
           title: "Sobre mi",
           description: "Sobre el autor",
