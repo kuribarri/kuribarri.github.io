@@ -34,7 +34,8 @@ div,
 li,
 span {
   color: var(--global-text-color);
-  font-family: "Inter", "Source Serif 4", sans-serif;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.7; // Da un poco más de aire entre líneas para descansar la vista
 }
 
 // Cursivas y negritas respetan siempre la letra donde estén (párrafo o título) URIBARRI
@@ -44,15 +45,11 @@ strong {
   font-family: inherit;
 }
 
-// Fuente de los encabezados (título y subtítulos)
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+// 3. Títulos y subtítulos: elegantes y con carácter editorial
+h1, h2, h3, h4, h5, h6 {
   color: var(--global-text-color);
-  font-family: "Playfair Display", serif;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700; // Asegura un buen contraste frente al texto normal
 }
 
 // FIN TIPOGRAFIA URIBARRI
