@@ -24,6 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+
 .video-responsive {
   position: relative;
   padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
@@ -32,30 +33,3 @@ $max-content-width: {{ site.max_width }};
   overflow: hidden;
 }
 
-/*! purgecss start ignore */
-body, p, div, li, span, a {
-  font-family: 'Inter', sans-serif !important;
-}
-
-h1, h2, h3, h4, h5, h6,
-.post-title, .post-header h1,
-.post-content h1, .post-content h2, .post-content h3, .post-content h4 {
-  font-family: 'Roboto Slab', serif !important;
-  font-style: normal !important;
-  font-weight: 700 !important;
-}
-
-em, i,
-.post-content h1 em, .post-content h2 em, .post-content h3 em {
-  font-family: inherit !important;
-  font-style: italic !important;
-}
-
-.material-icons {
-  font-family: 'Material Icons' !important;
-}
-
-.fa, .fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands {
-  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
-}
-/*! purgecss end ignore */
