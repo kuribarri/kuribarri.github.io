@@ -24,6 +24,8 @@ h1, h2, h3, h4, h5, h6 {                        // ← Añadir esta línea
 }                                               // ← Añadir esta línea
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Slab:wght@400;500;600&display=swap');
+
 // TIPOGRAFIA URIBARRI
 // Fuente del cuerpo del artículo
 p,
@@ -31,7 +33,7 @@ div,
 li,
 span {
   color: var(--global-text-color);
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif !important; 
   line-height: 1.7; // Da un poco más de aire entre líneas para descansar la vista
 }
 
@@ -50,7 +52,7 @@ h4,
 h5,
 h6 {
   color: var(--global-text-color);
-  font-family: "Roboto Slab", serif;
+  font-family: "Roboto Slab", serif !important;
   font-weight: 400; // Asegura un buen contraste frente al texto normal
 }
 
