@@ -1379,3 +1379,10 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+/* Corrección de iconos en cursiva para al-folio */
+.contact-icons i,
+.socials i,
+.social-icons i {
+  font-style: normal !important;
+}
