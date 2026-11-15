@@ -5,7 +5,7 @@ title: Sobre mi
 description: Sobre el autor
 nav: true
 pretty_table: false
-nav_order: 7
+nav_order: 4
 profile:
   align: right
   image: KUM01500.jpg

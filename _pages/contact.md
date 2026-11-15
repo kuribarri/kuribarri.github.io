@@ -4,7 +4,7 @@ title: Contacto
 description: Conecta conmigo de forma segura y directa.
 permalink: /contacto/
 nav: true
-nav_order: 8
+nav_order: 5
 ---
 
 
