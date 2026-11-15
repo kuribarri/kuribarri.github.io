@@ -31,7 +31,7 @@ div,
 li,
 span {
   color: var(--global-text-color);
-  font-family: "Inter", sans-serif !important; 
+  font-family: "Inter", sans-serif !important;
   line-height: 1.7; // Da un poco más de aire entre líneas para descansar la vista
 }
 
@@ -1380,7 +1380,16 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
 }
 
-/* Corrección de iconos en cursiva para al-folio */
+/* Forzar estilo normal en cualquier icono del sitio */
+i.fa,
+i.fab,
+i.fas,
+i.far,
+i.fal,
+i.fad,
+i.fa-solid,
+i.fa-regular,
+i.fa-brands,
 .contact-icons i,
 .socials i,
 .social-icons i {
