@@ -24,11 +24,20 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-
 .video-responsive {
   position: relative;
   padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
   padding-top: 30px;
   height: 0;
   overflow: hidden;
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+  font-family: "Roboto Slab", serif !important;
+  font-style: normal !important;
 }
