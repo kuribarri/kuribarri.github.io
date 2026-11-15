@@ -33,7 +33,7 @@ div,
 li,
 span {
   color: var(--global-text-color);
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   line-height: 1.7; // Da un poco más de aire entre líneas para descansar la vista
 }
 
@@ -45,9 +45,14 @@ strong {
 }
 
 // 3. Títulos y subtítulos: elegantes y con carácter editorial
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--global-text-color);
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: 700; // Asegura un buen contraste frente al texto normal
 }
 
