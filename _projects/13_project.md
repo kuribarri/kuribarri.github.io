@@ -33,3 +33,24 @@ Descubre cómo convertir un aroma en una experiencia y hacer del olfato una herr
 
 Pedro Uribarri es técnico perfumista y profesional en química, nacido en el seno de una familia profundamente vinculada al mundo del perfume. Su infancia transcurrió entre los aromas de una perfumería clásica del siglo pasado, donde descubrió desde muy joven los secretos de este arte.
 Con una trayectoria profesional que se remonta a los años ochenta y décadas de experiencia en la creación de fragancias y ambientadores, ha trabajado para reconocidas marcas y desarrollado su propia línea. Su conocimiento de la tradición perfumista de Francia e Italia lo ha consolidado como un experto en este campo.
+
+### Dónde obtenerlo gratis
+
+<div class="text-center my-4">
+  <a href="https://www.barriperfumes.es/barrishop/es/inicio/blue-essence-10ml-DHLE-libro.html" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/0000/2026-09-13-donde-habita-la-esencia.webp' | relative_url }}" 
+         alt="Donde habita la esencia - Blue Essence" 
+         class="rounded z-depth-0 img-fluid" 
+         style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" 
+         loading="eager">
+  </a>
+</div>
+<div class="text-center my-4">
+  <a href="https://www.barriperfumes.es/barrishop/es/inicio/blue-essence-10ml-DHLE-libro.html" 
+     class="btn btn-outline-primary btn-lg" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="font-weight: bold; padding: 12px 28px;">
+    HAZ CLICK AQUÍ
+  </a>
+</div>
