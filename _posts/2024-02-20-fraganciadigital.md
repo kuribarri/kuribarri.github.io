@@ -6,7 +6,7 @@ description: La historia de un blog que divulgó la cultura del perfume durante 
 tags: historia industria
 categories: Perfume
 typograms: true
-thumbnail: assets/img//2024/2024-02-20-fragancia digital.webp
+thumbnail: assets/img/2024/2024-02-20-fragancia digital.webp
 ---
 
 Durante trece años, **Fragancia Digital** fue uno de los espacios en español dedicados exclusivamente a la divulgación del mundo del perfume. Nacido en 2011 como una iniciativa de Barri Perfumes y escrito íntegramente por Pedro Uribarri, el blog se convirtió en un punto de referencia para aficionados, profesionales y curiosos que buscaban información rigurosa y accesible sobre las fragancias, la cosmética y el universo de los aromas.

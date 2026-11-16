@@ -6,7 +6,7 @@ description: La mouillette o Touche à sentir (en francés) es una pequeña tira
 tags: técnica historia
 categories: Perfume
 typograms: true
-thumbnail: assets/img//2023/2023-07-30-mouillete2.webp
+thumbnail: assets/img/2023/2023-07-30-mouillete2.webp
 ---
 
 ## La _mouillette_

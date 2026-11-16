@@ -6,7 +6,7 @@ description: El concepto del perfume es muy amplio por lo que abarca desde produ
 tags: técnica historia
 categories: Perfume
 typograms: true
-thumbnail: assets/img//2023/2023-07-30-mouillete2.webp
+thumbnail: assets/img/2011/2011-06-06-tipología-del-perfume.webp
 ---
 
 ### Tipos de Perfumes

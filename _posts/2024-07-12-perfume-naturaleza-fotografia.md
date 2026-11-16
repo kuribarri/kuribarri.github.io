@@ -6,7 +6,7 @@ description: Un día te despiertas y te preguntas cómo el perfume, la naturalez
 tags: perfumistas naturaleza
 categories: Perfume Fotografía
 typograms: true
-thumbnail: assets/img//2024/2024-07-12-perfume-naturaleza-fotografia-2.webp
+thumbnail: assets/img/2024/2024-07-12-perfume-naturaleza-fotografia-2.webp
 ---
 
 ### El perfume, la naturalez y la fotografía
