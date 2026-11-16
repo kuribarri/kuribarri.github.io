@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipología del perfume
-date: 2023-07-30 13:05:10-100
+date: 2011-06-06 13:05:10-100
 description: El concepto del perfume es muy amplio por lo que abarca desde productos para el cuerpo como perfumadores del ambiente. En este artículo explico un pequeño detalle sobre la composición principal de un perfume.
 tags: técnica historia
 categories: Perfume
