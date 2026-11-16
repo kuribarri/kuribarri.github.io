@@ -12,7 +12,7 @@ Memoria y motivos es una síntesis de algunas reflexiones que, alguna vez en la 
 El libro responde a preguntas universales desde una perspectiva agnóstica, ofreciendo reflexiones que amplían perspectivas. Aborda interrogantes actuales, libres de los clichés morales impuestos por siglos de tradición cristiana.
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/0000/3_p-memorias-motivos-portada-v2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
+{% include figure.liquid loading="eager" path="assets/img/0000/3_p-memorias-motivos-portada-v2.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}
 </div>
 
 Pedro Uribarri es químico de profesión. Con estudios en teología y autodidacta en filosofía y ensayo, se especializó en el estudio del protestantismo alemán y estadounidense. Su trayectoria intelectual abarca desde su participación en organizaciones ecuménicas y su labor como monitor juvenil, hasta una activa presencia como divulgador crítico en debates digitales en los años noventa.

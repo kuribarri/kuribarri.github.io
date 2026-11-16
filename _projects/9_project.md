@@ -16,15 +16,15 @@ category: grupos musicales
 Sesión de 10 fotografías
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03657.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03657.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}
 </div>
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03632.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03632.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}
 </div>
 
 <div class="text-center">
-{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03631.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
+{% include figure.liquid loading="eager" width="50%" path="assets/img/000M/13-08-17 Nuria Martinez 03631.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}
 </div>
 
 <br>
