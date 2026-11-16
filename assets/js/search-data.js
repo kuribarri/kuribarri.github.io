@@ -242,17 +242,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/mouillete/";
         
       },
-    },{id: "post-tipología-del-perfume",
-      
-        title: "Tipología del perfume",
-      
-      description: "El concepto del perfume es muy amplio por lo que abarca desde productos para el cuerpo como perfumadores del ambiente. En este artículo explico un pequeño detalle sobre la composición principal de un perfume.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tipolog%C3%ADa-del-perfume/";
-        
-      },
     },{id: "post-objetivo-cosinon-s-50mm-f-1-8",
       
         title: "Objetivo Cosinon-S 50mm f/1.8",
@@ -625,6 +614,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2011/las-familias-olfativas/";
+        
+      },
+    },{id: "post-tipología-del-perfume",
+      
+        title: "Tipología del perfume",
+      
+      description: "El concepto del perfume es muy amplio por lo que abarca desde productos para el cuerpo como perfumadores del ambiente. En este artículo explico un pequeño detalle sobre la composición principal de un perfume.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2011/tipolog%C3%ADa-del-perfume/";
         
       },
     },{id: "post-principios-del-perfume-las-notas-olfativas",
