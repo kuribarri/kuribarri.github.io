@@ -14,8 +14,8 @@ thumbnail: assets/img/2011/2011-06-06-tipologia-del-perfume.webp
 El concepto del perfume es muy amplio por lo que abarca desde productos para el cuerpo como perfumadores del ambiente. En este artículo nos concentraremos en los productos para el cuerpo, pero antes de comenzar explicaré un pequeño detalle sobre la composición principal de un perfume.
 
 <div class="text-center my-4">
-  <img src="{{ '/assets/img/2011/2011-06-06-tipologiia-del-perfume.webp' | relative_url }}" 
-       alt="Donde habita la esencia - Blue Essence" 
+  <img src="{{ '/assets/img/2011/2011-06-06-tipologia-del-perfume.webp' | relative_url }}" 
+       alt="Tipologia del perfume" 
        class="rounded z-depth-0 img-fluid" 
        style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" 
        loading="eager">
