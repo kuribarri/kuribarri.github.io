@@ -264,15 +264,12 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: [
-    "perfume",
-    "fotografia",
-    "lugares",
-    "libros",
-    "software",
-    "ensayo",
-  ] # these tags will be displayed on the front page of your blog
-display_categories: [
+display_tags:
+  ["perfume", "fotografia", "lugares", "libros", "software", "ensayo"]
+
+# these tags will be displayed on the front page of your blog
+display_categories:
+  [
     "Perfume",
     "Fotografía",
     "Rutas",
@@ -280,7 +277,9 @@ display_categories: [
     "Software",
     "Vídeos",
     "Reflexiones",
-  ] # these categories will be displayed on the front page of your blog
+  ]
+
+# these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
