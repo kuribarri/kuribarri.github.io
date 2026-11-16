@@ -38,7 +38,7 @@ Con una trayectoria profesional que se remonta a los años ochenta y décadas de
 
 <div class="text-center my-4">
   <a href="https://www.barriperfumes.es/barrishop/es/inicio/blue-essence-10ml-DHLE-libro.html" target="_blank" rel="noopener noreferrer">
-    <img src="{{ '/assets/img/0000/2026-09-13-donde-habita-la-esencia.webp' | relative_url }}" 
+    <img src="{{ '/assets/img/2060/2026-blue-essence-10ml-DHLE-libro.webp' | relative_url }}" 
          alt="Donde habita la esencia - Blue Essence" 
          class="rounded z-depth-0 img-fluid" 
          style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" 
