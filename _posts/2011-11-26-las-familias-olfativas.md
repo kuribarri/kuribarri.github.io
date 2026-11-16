@@ -6,7 +6,7 @@ description: Conoce las principales familias olfativas. En este artículo aborda
 tags: perfumistas naturaleza
 categories: Perfume
 typograms: true
-thumbnail: assets/img//2011/20211-11-26-familias-olfativas.webp
+thumbnail: assets/img/2011/20211-11-26-familias-olfativas.webp
 ---
 
 **Familias olfativas en el perfume.**
