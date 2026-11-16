@@ -624,7 +624,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2011/tipolog%C3%ADa-del-perfume/";
+          window.location.href = "/blog/2011/tipologia-del-perfume/";
         
       },
     },{id: "post-principios-del-perfume-las-notas-olfativas",
