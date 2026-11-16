@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Escudo del Ayuntamiento de Litos 
-description: El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario 
+title: Escudo del Ayuntamiento de Litos
+description: El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario
 img: assets/img/0000/2025-escudo-litos.webp
 importance: 3
 category: trabajos
@@ -22,11 +22,11 @@ Cada símbolo fue cuidadosamente seleccionado para reflejar el profundo vínculo
 - La Montaña Gris: Sierra de la Culebra y el Pilo
   La montaña gris representa la Sierra de la Culebra, una formación geográfica clave de la región. Destaca el Pilo, una roca emblemática que simboliza la unión y la identidad de los habitantes de Litos.
 - El Lobo sobre Fondo Rojo: Fuerza y Carácter
-En la parte superior derecha, un lobo sobre fondo rojo simboliza fortaleza, valentía y carácter indomable. Este animal, propio de la Sierra de la Culebra, y el rojo vibrante evocan la pasión y la energía que definen a Litos.
+  En la parte superior derecha, un lobo sobre fondo rojo simboliza fortaleza, valentía y carácter indomable. Este animal, propio de la Sierra de la Culebra, y el rojo vibrante evocan la pasión y la energía que definen a Litos.
 - Ondas Azules y Verdes con el Sol: Arroyo Castrón y Tierras de Cultivo
-En la base, líneas onduladas azules y verdes representan el arroyo Castrón y las fértiles tierras de Las Terricas. El arroyo resalta la conexión ecológica del pueblo, mientras el sol simboliza la luz y el calor de la región.
+  En la base, líneas onduladas azules y verdes representan el arroyo Castrón y las fértiles tierras de Las Terricas. El arroyo resalta la conexión ecológica del pueblo, mientras el sol simboliza la luz y el calor de la región.
 - La Encina y la Hoja de Roble: Naturaleza y Comunidad
-En la zona inferior izquierda, una encina refleja la abundancia de este árbol en los montes locales, esencial para los habitantes. La hoja de roble rinde homenaje al robledal de La Ribera, un lugar querido de reunión y esparcimiento.
+  En la zona inferior izquierda, una encina refleja la abundancia de este árbol en los montes locales, esencial para los habitantes. La hoja de roble rinde homenaje al robledal de La Ribera, un lugar querido de reunión y esparcimiento.
 
 ### Presentación del boceto al Ayuntamiento y certificación de Heráldica
 
@@ -39,7 +39,8 @@ Los cambios principales fueron:
 - Fusionar los elementos inferiores, reemplazando las franjas azules por dos líneas onduladas que representan el arroyo Castrón.
 - Añadir tres encinas en la parte superior y eliminar el sol y la hoja de roble.
 
-### Resumiendo: 
+### Resumiendo:
+
 El boceto del escudo que diseñé para el Ayuntamiento de Litos refleja fielmente la identidad del pueblo. A través de elementos como la montaña, el lobo, el arroyo Castrón y las encinas, se rinde homenaje a su cultura, tradiciones y espíritu comunitario. Aunque se realizaron ajustes heráldicos, la simbología propuesta en el boceto inicial se mantuvo intacta.
 
 Nacido de una colaboración altruista entre el alcalde y yo, este escudo se ha convertido en un símbolo de orgullo para los habitantes de Litos. Su certificación oficial en Heráldica lo consolidó como un emblema duradero que captura la conexión del pueblo con su entorno natural, su historia y su gente.

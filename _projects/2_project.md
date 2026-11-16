@@ -8,6 +8,7 @@ category: libros
 ---
 
 ### Por donde tú vas, yo vuelvo
+
 Montes, rutas, flora y fauna de la comarca de Litos
 
 Es un proyecto personal que aún no he terminado que está encaminado a convertirse en un libro. Comenzó como un cuaderno de campo en el que, desde hace años, anotaba las rutas que iba descubriendo con tan solo un mapa cartográfico militar de los años setenta. Más tarde, con la ayuda de los GPS de montaña, continué repasando esos caminos por los montes de la Sierra de la Culebra, mientras anotaba en mi pequeña agenda todo aquello que veía o consideraba de interés.

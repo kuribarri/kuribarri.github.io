@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Saray Muerciego 
+title: Saray Muerciego
 description: Agosto de 2013 - Sesión de 6 fotografías, en escenario
 img: assets/img/000M/14-08-08 Saray Muerciego 03141.webp
 importance: 7
 category: grupos musicales
 ---
 
-## Saray Muerciego 
+## Saray Muerciego
+
 ### Agosto de 2013
+
 ### Fotografías en escenario
+
 Sesión de 6 fotografías
 
 <div class="text-center">
@@ -17,6 +20,6 @@ Sesión de 6 fotografías
 </div>
 <br>
 
-|Nota:|
-| :----------- | 
-| Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa.|
+| Nota:                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- |
+| Fotografías © Pedro Uribarri 2013 - Presentadas en baja resolución como muestra representativa de la serie completa. |

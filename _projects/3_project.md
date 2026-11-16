@@ -17,6 +17,4 @@ El libro responde a preguntas universales desde una perspectiva agnóstica, ofre
 
 Pedro Uribarri es químico de profesión. Con estudios en teología y autodidacta en filosofía y ensayo, se especializó en el estudio del protestantismo alemán y estadounidense. Su trayectoria intelectual abarca desde su participación en organizaciones ecuménicas y su labor como monitor juvenil, hasta una activa presencia como divulgador crítico en debates digitales en los años noventa.
 
-
->¿Cómo es posible que un acto de fe como el creer a ciegas sea un don? ¿No es más bien un defecto, una debilidad, una cobardía disfrazada de don? *Pedro Uribarri*
-
+> ¿Cómo es posible que un acto de fe como el creer a ciegas sea un don? ¿No es más bien un defecto, una debilidad, una cobardía disfrazada de don? _Pedro Uribarri_

@@ -7,15 +7,15 @@ importance: 2
 category: libros
 ---
 
-*Formato:* Impreso/Papel
+_Formato:_ Impreso/Papel
 
-*Tipo de encuadernación:* Tapa blanda 
+_Tipo de encuadernación:_ Tapa blanda
 
-*ISBN:* 978-84-09-91709-9
+_ISBN:_ 978-84-09-91709-9
 
-*Número de páginas:* 240
+_Número de páginas:_ 240
 
-*Fecha de divulgación:* 23/07/2026
+_Fecha de divulgación:_ 23/07/2026
 
 ### Sinopsis
 
@@ -33,4 +33,3 @@ Descubre cómo convertir un aroma en una experiencia y hacer del olfato una herr
 
 Pedro Uribarri es técnico perfumista y profesional en química, nacido en el seno de una familia profundamente vinculada al mundo del perfume. Su infancia transcurrió entre los aromas de una perfumería clásica del siglo pasado, donde descubrió desde muy joven los secretos de este arte.
 Con una trayectoria profesional que se remonta a los años ochenta y décadas de experiencia en la creación de fragancias y ambientadores, ha trabajado para reconocidas marcas y desarrollado su propia línea. Su conocimiento de la tradición perfumista de Francia e Italia lo ha consolidado como un experto en este campo.
-

@@ -8,8 +8,11 @@ category: grupos musicales
 ---
 
 ## Pig Noise
+
 ### Agosto de 2015
+
 ### Fotografías en escenario
+
 Sesión de 10 fotografías
 
 <div class="text-center">
@@ -26,6 +29,6 @@ Sesión de 10 fotografías
 
 <br>
 
-|Nota:|
-| :----------- | 
-| Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa.|
+| Nota:                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- |
+| Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa. |

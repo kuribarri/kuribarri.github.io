@@ -10,18 +10,19 @@ related_posts: false
 
 Debo decir que es una ciudad que enamora, con encanto. Ya son varias veces que he visitado esta ciudad y la conozco bien. Siempre he llegado en coche a la frontera entrando por Chaves desde Verín (Ourense). Si te cuadra, es una ruta que recomiendo por sus paisajes únicos. Los pueblos cercanos, con ese aire añejo y una atmósfera donde el tiempo parece haberse detenido, recuerdan a la zona occidental de Zamora. Especial mención merecen las pequeñas localidades de Aliste, pueblos casi olvidados con apenas cinco o diez habitantes durante el año, que solo cobran vida en verano. Representan esa España vaciada que no deja de fascinar por su autenticidad.
 
-
 ### Oporto, una ciudad con mucha historia.
+
 Una de las cosas que más destaca de Oporto es su patrimonio arquitectónico: iglesias y edificios antiguos en cada esquina que reflejan siglos de historia. Este artículo, sin embargo, no pretende ser una guía turística convencional. Mi intención es ofrecerte una perspectiva diferente: cómo disfrutar de Oporto a través de la fotografía de calle, o street photography.
 
 Siempre me he movido en ese tipo de fotografía explorando las zonas más deprimidas de las ciudades, esos rincones olvidados que, aunque a veces sean más decadentes o incluso algo peligrosos, tienen una riqueza visual incomparable. Oporto, con su historia y su carácter, cuenta con estos lugares únicos, y he de decir que siendo una zona pequeña, da mucho de si
 
 ### Comenzando la ruta: desde la catedral hacia lo desconocido
-Para acceder a esta zona y no liarse en el intento, un buen punto de partida para explorar estas áreas es la catedral de Oporto.
-Desde su entrada principal, verás unas escaleras que descienden hacia un barrio antiguo. Este será tu portal hacia un laberinto de calles estrechas y casas que cuentan historias centenarias. Al adentrarte, notarás cómo la atmósfera se vuelve más humilde, pero también más auténtica. 
-Te recomiendo que callejees por esa zona, son calles estrechas y casas variopintas que tienen más de un siglo. 
 
->Como decimos en el laboratorio, a veces hay que dejar las batas y ponerse las botas. Así que toma tu cámara, viaja a Oporto, recorre andando la zona antigua y deja que Oporto te hable a través de sus calles y rincones.
+Para acceder a esta zona y no liarse en el intento, un buen punto de partida para explorar estas áreas es la catedral de Oporto.
+Desde su entrada principal, verás unas escaleras que descienden hacia un barrio antiguo. Este será tu portal hacia un laberinto de calles estrechas y casas que cuentan historias centenarias. Al adentrarte, notarás cómo la atmósfera se vuelve más humilde, pero también más auténtica.
+Te recomiendo que callejees por esa zona, son calles estrechas y casas variopintas que tienen más de un siglo.
+
+> Como decimos en el laboratorio, a veces hay que dejar las batas y ponerse las botas. Así que toma tu cámara, viaja a Oporto, recorre andando la zona antigua y deja que Oporto te hable a través de sus calles y rincones.
 
 Si continúas bajando, notarás que la zona se vuelve aún más humilde y empobrecida. Es una zona encantadora para la fotografía, pero te recomiendo prudencia. A pesar de que Oporto y su gente son maravillosos, estas áreas, como ocurre en cualquier zona desfavorecida de una ciudad, pueden presentar riesgos. Uno de los principales problemas podría ser un intento de robo de tu equipo fotográfico.
 
@@ -58,10 +59,9 @@ Cuando llegues al puente, no pierdas la oportunidad de fotografiarlo al atardece
 </div>
 
 ### Oporto, sin límites para la fotografía
+
 Resumo esto porque sino este artículo sería interminable. Este texto solo lo he centrado en una pequeña porción de Oporto, en esas zonas que, aunque más olvidadas, ofrecen las mejores oportunidades para capturar con fotos la esencia de la ciudad.
 
 Hay mucho que ver y mucho que recorrer de Oporto. Infinidad de guías te enseñarán mucho más que yo. Pero como decimos en el laboratorio, a veces hay que dejar las batas y ponerse las botas. Así que toma tu cámara, viaja a Oporto, recorre andando la zona antigua y deja que Oporto te hable a través de sus calles y rincones.
 
-
-[Plano de Oporto](https://www.masoporto.com/wp-content/uploads/2020/03/mapa-turistico-oporto.jpg
- "Haz click para descargar en pdf")
+[Plano de Oporto](https://www.masoporto.com/wp-content/uploads/2020/03/mapa-turistico-oporto.jpg "Haz click para descargar en pdf")

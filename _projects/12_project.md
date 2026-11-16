@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Varios Artistas 
+title: Varios Artistas
 description: Otros artistas y grupos fotografiados entre los años 2013-2017
 img: assets/img/000M/13-08-16 GrupoEs 03460.webp
 importance: 8
@@ -8,7 +8,9 @@ category: grupos musicales
 ---
 
 ## Varios Artistas
+
 ### Etapa del 2013 al 2017
+
 ### Fotografías en escenario
 
 <div class="text-center">
@@ -43,6 +45,6 @@ category: grupos musicales
 
 <br>
 
-|Nota:|
-| :----------- | 
-| Fotografías © Pedro Uribarri 2024 - Presentadas en baja resolución como muestra representativa de la serie completa.|
+| Nota:                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- |
+| Fotografías © Pedro Uribarri 2024 - Presentadas en baja resolución como muestra representativa de la serie completa. |

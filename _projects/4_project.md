@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exposición Fotográfica - Fotos antiguas 2015 
-description: Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015. 
+title: Exposición Fotográfica - Fotos antiguas 2015
+description: Una pausa para la nostalgia. Exposición de fotos antiguas realizada en el Ayuntamiento de Litos (Zamora), en 2015.
 img: assets/img/2015/15-08-16-exposicion-fotos-litos-0.webp
 importance: 4
 category: trabajos
@@ -27,7 +27,6 @@ O sus descendientes. Otros volvieron. Y para todos, este encuentro con la exposi
 
 La matanza, las labores del campo, las procesiones, los encuentros familiares... Todo aparece fielmente dibujado en las más de cien fotos que Pedro Uribarri ha recopilado gracias a la aportación de los vecinos de la localidad. Concretamente,
 112 imágenes que ha escaneado puerta a puerta, algo que agradece por la confianza que han demostrado los vecinos a la hora de ceder sus recuerdos para la exposición.
-
 
 Lo bonito, sin embargo, no es solo ver las fotos en blanco y negro o en colores desvaídos por el tiempo y elucubrar sobre quién es cada cual. Lo entrañable de la exposición es que cada imagen esconde una historia. Una de esas que hablan de tiempos diferentes. Uribarri, ese tipo de la cámara que aparece allá donde ocurra algo en las fiestas de Litos, las ha escuchado casi todas.
 

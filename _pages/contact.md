@@ -7,16 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+### ¿Tienes una buena idea para compartir?
 
-### ¿Tienes una buena idea para compartir?  
-¿Algún comentario sobre algo que escribí?  
+¿Algún comentario sobre algo que escribí?
 
 **¡Házmelo saber aquí!**
 
 Si buscas privacidad y rapidez, **Telegram** es mi canal preferido.
 
 > 🛡️ **Nota de seguridad:** Mi cuenta está configurada para proteger los datos personales. Al contactarme, solo verás mi nombre de usuario público.
-
 
 <div class="telegram-card" style="
     background: var(--global-bg-color); 

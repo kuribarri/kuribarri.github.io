@@ -25,7 +25,6 @@ Finalmente, decidí construir mi propio sistema desde cero.
     </div>
 </div>
 
-
 ## El Resultado
 
 El sistema que diseñé ofrece resultados sorprendentes. Fotografío los negativos en formato RAW desde la Fuji X-T3, los revelo con Capture One y realizo ajustes adicionales, como la temperatura de color, si es necesario. Este método es rápido y eficiente, aunque la limpieza de los negativos o diapositivas es esencial para obtener resultados óptimos.
@@ -44,8 +43,6 @@ Si te animas a replicar este proyecto, aquí te dejo la lista de materiales y al
 
 Construir este sistema me permitió ahorrar dinero y obtener resultados de alta calidad con una flexibilidad que no logré encontrar en los escáneres tradicionales. Si eres aficionado a la fotografía y tienes negativos que quieres digitalizar, este método casero podría ser una excelente opción para ti.
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2024/2024-12-08-copia-negativos-2.webp" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -60,4 +57,3 @@ Construir este sistema me permitió ahorrar dinero y obtener resultados de alta 
 - JCC Adaptador de digitalizacion de película, LED con 10 noveles de Brillo alimentador por USB.
 - Brazo de montaje de pared Neewer, con carga másxima de 4 Kg. Longitud ajustable de 38 cm a 60 cm. Equipado con tornillos adaptadores de 1/4 a 3/8. Base con cuatro agujeros.
 - Abrazadera Rápida Neewer de 1/4
-

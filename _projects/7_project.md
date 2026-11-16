@@ -8,8 +8,11 @@ category: grupos musicales
 ---
 
 ## Soraya Arnelas
+
 ### Agosto de 2015
+
 ### Fotografías en escenario
+
 Sesión de 12 fotografías
 
 <div class="text-center">
@@ -24,9 +27,8 @@ Sesión de 12 fotografías
 {% include figure.liquid loading="eager" width="50%" path="assets/img/000M/15-08-14 Soraya 03596.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-
 <br>
 
-|Nota:|
-| :----------- | 
-| Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa.|
+| Nota:                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- |
+| Fotografías © Pedro Uribarri 2015 - Presentadas en baja resolución como muestra representativa de la serie completa. |
