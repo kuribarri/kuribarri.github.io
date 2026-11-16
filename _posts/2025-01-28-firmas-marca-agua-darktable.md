@@ -32,7 +32,7 @@ Ahora viene el paso un poco más técnico: hacer que Darktable "vea" tu firma o 
 2. Accede a la carpeta oculta **.config**. Ten en cuenta que esta carpeta está oculta por defecto, por lo que puede ser necesario habilitar la opción de ver archivos ocultos en tu explorador de archivos. O localizarla con alguna aplicación de gestion de ficheros. Yo uso **Marta File Manager** una aplicación a la antigua usanza GNU: [Marta File Manag](erhttps://marta.sh/)
 3. Dentro de **.config**, busca la carpeta **darktable**.
 4. Dentro de **darktable**, localiza o crea la carpeta **watermarks**.
-   
+
    Si no encuentras la carpeta **watermarks**, créala manualmente. Así que la estructura de directorios debería quedar como:  
    **$User/.config/darktable/watermarks**.
 

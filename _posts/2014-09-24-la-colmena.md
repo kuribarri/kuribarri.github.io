@@ -7,7 +7,7 @@ tags: videoedición
 categories: Vídeos
 ---
 
-*La Colmena+ - Video de Pedro Uribarri
+**La Colmena** - Video de Pedro Uribarri
 
 **Duración:** 1 minuto y 50 segundos
 

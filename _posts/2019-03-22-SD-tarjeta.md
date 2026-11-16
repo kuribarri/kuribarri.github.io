@@ -31,27 +31,25 @@ En mi experiencia personal con cámaras Fujifilm, la diferencia es notable: mien
 
 ### Consideraciones sobre las velocidades de transferencia en las SD
 
-| Bus Interface    | Card Type          | Marca Visual Bus   | Velocidad Bus          |
-|------------------|--------------------|--------------------|------------------------|
-| Velocidad estandar | SD, SDHC y SDX   | -                  | 12.5 MB/s              |
-| Alta velocidad   | SD, SDHC y SDXC    | -                  | 25 MB/s                |
-| UHS-I            | SDHC y SDXC        | SDHC-I SDXC-I      | 50 MB/s - 104 MB/s     |
-| UHS-II           | SDHC y SDXC        | SDHC-II SDXC-II    | 156 MB/s - 312 MB/s    |
-| UHS-III          | SDHC y SDXC        | SDHC-III SDXC-III  | 312 MB/s - 624 MB/s    |
-
+| Bus Interface      | Card Type       | Marca Visual Bus  | Velocidad Bus       |
+| ------------------ | --------------- | ----------------- | ------------------- |
+| Velocidad estandar | SD, SDHC y SDX  | -                 | 12.5 MB/s           |
+| Alta velocidad     | SD, SDHC y SDXC | -                 | 25 MB/s             |
+| UHS-I              | SDHC y SDXC     | SDHC-I SDXC-I     | 50 MB/s - 104 MB/s  |
+| UHS-II             | SDHC y SDXC     | SDHC-II SDXC-II   | 156 MB/s - 312 MB/s |
+| UHS-III            | SDHC y SDXC     | SDHC-III SDXC-III | 312 MB/s - 624 MB/s |
 
 A estos datos están las indicaciones de velocidad mínimas que podemos ver en la etiqueta cuando compramos una tarjeta:
+
 - Velocidad estandar van indicadas en un semicírculo con un número en el centro: 2=2MB/s, 4=4MB/s, 6=6MB/s, 10=10MB/s
 - UHS-I van indicadas en un número dentro de una U: U1 (UHS Speed Class 1), U3 (UHS Speed Class 3)
 - UHS-II van indicadas en un número seguido de una V: V6=6MB/s, V10=10MB/s, V30=30MB/s, V60=60MB/s, V90=90MB/s
-
 
 ### Consideraciones sobre tarjetas SD para video
 
 Para la grabación de video, utilizo una tarjeta Lexar Professional de 64 GB . A priori, no necesito más capacidad, ya que, como mencioné antes, traslado los datos al SSD en cuanto tengo la oportunidad. En cuanto a la velocidad de transferencia, la elección de la clase de la tarjeta es crucial. Opto por una tarjeta con clasificación V60, ya que ofrece un equilibrio perfecto entre coste y rendimiento. Subir a una velocidad superior implica pagar más sin una necesidad real, y bajar de V60 puede perder calidad.
 
 Una tarjeta SD V60 es más que suficiente para grabar videos en 4K, ofreciendo un excelente rendimiento por un precio relativamente bajo.
-
 
 ### Mi recomendación y elección de tarjeta SD para fotografía
 
@@ -62,7 +60,7 @@ Estas son las tarjetas que uso habitualmente:
 - SanDisk Extreme PRO 280MB/s SDXC II V60 U3
 - Lexar PROFESSIONAL 280MB/s SDXC II V60 U3
 
-### Mi SSD como "refuerzo" externo para la fotografía y vídeo 
+### Mi SSD como "refuerzo" externo para la fotografía y vídeo
 
 Para realizar mis copias de seguridad en viajes de varios días, decidí crear un sistema con el que me sintiera seguro. Así que confeccioné un SSD externo de la siguiente manera:
 
@@ -84,25 +82,6 @@ Con esta combinación, consigo un SSD externo compacto y de alto rendimiento, id
 </div>
 </div>
 
-
 ### Las MicroSD: ¿qué opino?
 
 Aunque en otros dispositivos utilizo tarjetas microSD, personalmente no las recomiendo para las cámaras fotográficas. No están diseñadas específicamente para este tipo de uso y, generalmente, son más lentas. Además, al necesitar usar un adaptador para convertirlas a formato de ranura tipo SD, la transferencia de datos "puede" volverse aún más lenta, a fecha de este artículo, quizás cuando lo estés leyendo ya se puedan tener adaptadores con la transferencia real. Si la tarjeta microSD tuviera las mismas características que una tarjeta SD estándar, aún creo que el adaptador puede ser un punto débil. Cada conexión adicional aumenta el riesgo de error: el adaptador puede ensuciarse, el conector puede dañarse, y la fiabilidad general puede verse comprometida. Aunque el riesgo es pequeño, es un factor que puedes evitar optando por una tarjeta SD de buena calidad.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

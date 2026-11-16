@@ -14,7 +14,6 @@ Affinity Photo es una aplicación que adquirí y comencé a usar desde sus prime
 
 ### Affinity Photo 2, un nuevo pulso a Photoshop
 
-
 **Affinity Photo 2** es una potente alternativa a Adobe Photoshop que ofrece una amplia gama de funciones de edición de imágenes a un precio más accesible.
 Lanzada como una actualización significativa de la versión original, Affinity Photo 2 presenta nuevas características y mejoras que la convierten en una opción atractiva para fotógrafos, diseñadores y artistas digitales.
 
@@ -30,7 +29,7 @@ Affinity Photo ofrece una amplia gama de herramientas avanzadas para la edición
 - Revelado de archivos RAW con ajustes de tono y color.
 - Edición no destructiva con ajustes y efectos en tiempo real.
 - Funciones de retoque como pinceles de clonación, restauración y corrección[6].
-- Algoritmo de unión de panoramas**: Permite crear panoramas perfectos con alineación automática y correcciones de perspectiva.
+- Algoritmo de unión de panoramas\*\*: Permite crear panoramas perfectos con alineación automática y correcciones de perspectiva.
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2023/2023-04-01-affinity-photo2.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
@@ -57,11 +56,12 @@ Aunque Photoshop sigue siendo el estándar de la industria, Affinity Photo 2 se 
 
 Aunque Photoshop puede tener algunas herramientas más especializadas, Affinity Photo proporciona todas las funcionalidades esenciales para la edición de imágenes avanzada, siendo una alternativa potente y completa para profesionales creativos y fotógrafos.
 Affinity Photo 2 demuestra que es posible ofrecer un software de edición gráfica potente y profesional a un precio accesible.
-Si eres creativo, entonces la suit completa de Affinity, te sale mejor de precio(*): Por 179,99 EUR tienes Affinity Photo 2, Affinity Designer 2, y Affinity Publisher 2
+Si eres creativo, entonces la suit completa de Affinity, te sale mejor de precio(\*): Por 179,99 EUR tienes Affinity Photo 2, Affinity Designer 2, y Affinity Publisher 2
 
-(*) Precio actualizado a fecha de 19-01-2025
+(\*) Precio actualizado a fecha de 19-01-2025
 
 Enlaces interesantes:
+
 - [Wacom con Affinity Photo](https://estore.wacom.com/es-es/photo-editing-with-wacom-one-affinity-photo.html)
 - [Affinity](https://affinity.serif.com/es/photo/)
 - [dzoom: Affinity Photo.La Alternativa más Económica a Photoshop](https://www.dzoom.org.es/affinity-photo-alternativa-photoshop/)

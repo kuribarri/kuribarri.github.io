@@ -10,10 +10,9 @@ featured: false
 thumbnail: assets/img/2022/2022-06-25-camara-en-mano-01.webp
 ---
 
+### Cámara en mano por la Sierra de la Culebra | El Norte de Castilla
 
-### Cámara en mano por la Sierra de la Culebra | El Norte de Castilla 
-
-Durante el transcurso de los años no ha sido una, sino muchas, las veces  que me he adentrado en el corazón de la Sierra de la Culebra cámara en mano. Habitualmente por su parte más oriental. En ocasiones solo, en otras
+Durante el transcurso de los años no ha sido una, sino muchas, las veces que me he adentrado en el corazón de la Sierra de la Culebra cámara en mano. Habitualmente por su parte más oriental. En ocasiones solo, en otras
 acompañado, para enseñar a otros el paraíso que aparece dentro de la sierra. No hablo de esa sierra que nos muestran en las noticias, ni la que se atisba desde la carretera o las vías del Ave. Hablo del corazón de la Sierra de la Culebra, ese corazón ahora calcinado.
 
 A lo largo de mi vida he recorrido con el equipo de fotografía diferentes montañas por varios puntos del país, sobre todo por el norte, pero la naturaleza salvaje de la Sierra de la Culebra es única. Hay poca documentación cartográfica actualmente en comparación a otras zonas y eso le otorga, además, cierto misterio.
@@ -25,12 +24,10 @@ Adentrarse en ella, bien por el norte, desde Litos o desde Ferreras de Abajo, o 
 © Pedro Uribarri-2013
 </div>
 
-
 > Sacas una foto de un pino desgastado por los ciervos
 > cuando se frotan en el tronco. El árbol conserva la gran
 > cicatriz rojiza año tras año. En este santuario natural los
 > animales viven tranquilamente el curso de la vida
-
 
 Según penetras en la Sierra, a pasos por entre sus peñas, notas que allí donde te envuelve el entorno el lugar es muy diferente a la meseta castigada por el sol que asoma solo unos kilómetros más al este, en esa Tierra de Campos compartida por Zamora, León, Palencia y Valladolid. Cuando sigo caminos en busca de sitios para fotografiar, contemplo los enormes cortafuegos junto a senderos creados por los animales o bien los espacios que hay entre los pinos. La magnificencia del paisaje y la paz que se respira te dejan encuadrar esas vistas hasta el punto que no solo fotografías el entorno, sino que disfrutas sin pensar en el tiempo, simplemente con contemplar la vida en esta reserva natural.
 
@@ -52,10 +49,8 @@ En el interior, entre cortafuegos y caminos, subiendo las pequeñas cimas de las
 Una de mis mayores satisfacciones fue cuando llevé a un pequeño grupo de jóvenes de Litos por el interior de la Sierra. Ver sus caras de sorpresa y satisfacción cuando se toparon con esos parajes, con los grandes pinares y la niebla baja colándose entre los árboles cuando partimos al amanecer...
 Tuvimos de compañía una cierva que nos observaba con curiosidad. Mirando ahora mi cuaderno de campo recuerdo como si fuera hoy cuando hicimos aquellos treinta y cinco kilómetros por el corazón de la Sierra. Y estoy seguro que hoy en día, como adultos, lo recordarán.
 
->
-La Sierra no te defrauda, te da más de lo que tú le
-puedas dar, es más, siento que me llama
->
+> La Sierra no te defrauda, te da más de lo que tú le
+> puedas dar, es más, siento que me llama
 
 Entrando a la Sierra de la Culebra por la zona norte más alta está Ferreras de Arriba. Desde allí se puede comprobar que la vida de nuestros antepasados no fue fácil. Ya al mismo pie de la Sierra o dentro de ella se ven
 algunos castros rodeados de fantásticos bosques de castaños, muchos de ellos centenarios.
@@ -65,7 +60,7 @@ Siempre que me adentrado en la Sierra de la Culebra me he sorprendido. La Sierra
 Y eso me apena.
 
 Nota sobre el autor:
-Pedro Uribarri, perfumista, está afincado en Bilbao, 
+Pedro Uribarri, perfumista, está afincado en Bilbao,
 pero pasa largas temporadas en esta pedanía de
 Ferreras de Abajo situada en las estribaciones de la Sierra de la
 Culebra, que ha recorrido a pie y a caballo, siempre con la cámara de

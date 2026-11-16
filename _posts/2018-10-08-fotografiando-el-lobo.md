@@ -22,7 +22,7 @@ Hace ya varios años, pasaba horas y días enteros en los montes de la sierra, y
 
 Para los fotógrafos de naturaleza, uno de los aspectos más importantes es el equipo. Para capturar animales salvajes como el lobo, un teleobjetivo es esencial. En mi caso, he utilizado dos, uno con mi antigua Olympus y otro con mi Nikon. Ambos objetivos eran de una focal larga 300mm. Pero los míos no eran demasiado luminosos, lo que afectaba la calidad de las fotos, generando ruido y disminuyendo el detalle en situaciones de baja luz. Pues el lobo se mueve más en el alba y al atardecer.
 
-A lo largo de mis veinte años recorriendo los montes de la Sierra de la Culebra, he tenido varias oportunidades de encontrarme con lobos solitarios, aunque nunca he logrado verlos en manada. En mi experiencia, los lobos solitarios tienden a ser curiosos pero también extremadamente esquivos. A menudo, los he visto acercarse a la zona, pero rápidamente se han desvanecido entre los bosques y monte bajo. Durante todo este tiempo pocas veces he podido verlo con calma, unas porque él se quedaba observándome, otras porque observando los buitres, localizaba animales  que bien estaban moribundos, o habían muerto en la zona.
+A lo largo de mis veinte años recorriendo los montes de la Sierra de la Culebra, he tenido varias oportunidades de encontrarme con lobos solitarios, aunque nunca he logrado verlos en manada. En mi experiencia, los lobos solitarios tienden a ser curiosos pero también extremadamente esquivos. A menudo, los he visto acercarse a la zona, pero rápidamente se han desvanecido entre los bosques y monte bajo. Durante todo este tiempo pocas veces he podido verlo con calma, unas porque él se quedaba observándome, otras porque observando los buitres, localizaba animales que bien estaban moribundos, o habían muerto en la zona.
 
 > El lobo, siempre tan esquivo, sigue siendo un misterio fascinante que se niega a ser capturado por completo.
 
@@ -33,9 +33,3 @@ Durante todo este tiempo, he tenido pocas oportunidades de ver al lobo con calma
 </div>
 
 Las fotos que comparto hoy son el resultado de esos momentos vividos en la Sierra de la Culebra, aunque en otras ocasiones son "las fotos" las que quedan impresas en mi memoria. Como menciono, cuando nos encontrábamos en la soledad y el silencio de los bosques, nos quedábamos mutuamente quietos, observándonos, hasta que, en el instante en que intentaba sacar la cámara de la mochila, él salía corriendo a esconderse. Es una experiencia inolvidable.
-
-
-
-
-
-

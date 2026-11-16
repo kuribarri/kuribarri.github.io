@@ -2,14 +2,13 @@
 layout: post
 title: Flechas de Aliste. Un pueblo y su cantera
 date: 2023-12-08 23:36:10-100
-description: La cantera de Flechas de Aliste es una cantera de extracción de pizarra en la comarca de Aliste. 
+description: La cantera de Flechas de Aliste es una cantera de extracción de pizarra en la comarca de Aliste.
 tags: lugares pueblos street-photo
 categories: Rutas
 typograms: true
 featured: false
 thumbnail: assets/img/2022/2022-02-20-flechas-aliste-1.webp
 ---
-
 
 Érase una vez un pequeño pueblo perdido en la sierra de la Culebra, a pocos kilómetros de la frontera con Portugal. Aunque es un pueblo pequeño, alberga una gran cantera rodeada de un paisaje mágico, digno de un cuento. Hablo de Flechas de Aliste, un lugar que he tenido el placer de visitar en varias ocasiones.
 

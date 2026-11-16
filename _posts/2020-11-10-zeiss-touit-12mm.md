@@ -2,7 +2,7 @@
 layout: post
 title: Objetivo Zeiss Touit 12mm el "Patito feo"
 date: 2020-11-10 23:36:10-100
-description: El Zeiss Touit 12mm f/2.8  Uno de mis objetivos, un gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. 
+description: El Zeiss Touit 12mm f/2.8  Uno de mis objetivos, un gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E.
 tags: objetivos
 categories: Fotografía
 typograms: true
@@ -10,13 +10,12 @@ featured: false
 thumbnail: assets/img/2020/2020-11-10-Touit-12mm-1.webp
 ---
 
+### Zeiss Touit 12mm el "patito feo"
 
-### Zeiss Touit 12mm el "patito feo" 
+Para mi el objetivo Zeiss Touit 12mmm es el "patito feo" de mis objetivos, que se convierte en un bello cisne ¿Por qué lo digo? Porque estéticamente es feo, particularmente no me gusta.
+El Zeiss Touit 12mm f/2.8 es un objetivo gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. En mi caso, lo utilizo con mi cámara Fuji X-T3.
 
-Para mi el objetivo Zeiss Touit 12mmm es el "patito feo" de mis objetivos, que se convierte en un bello cisne ¿Por qué lo digo? Porque estéticamente es feo, particularmente no me gusta. 
-El Zeiss Touit 12mm f/2.8 es un objetivo gran angular diseñado específicamente para cámaras con sensor APS-C, como las series Fujifilm X y Sony E. En mi caso, lo utilizo con mi cámara Fuji X-T3. 
-
-Aunque la calidad de construcción del Zeiss Touit 12mm f/2.8 es sólida, con un cuerpo metálico robusto, estéticamente no es de mi agrado. Particularmente, el anillo de enfoque de goma atrae polvo con facilidad y carece de textura, lo que podría mejorar su ergonomía. Además, la ausencia de una escala de profundidad de campo es una omisión notable en un objetivo de esta categoría. 
+Aunque la calidad de construcción del Zeiss Touit 12mm f/2.8 es sólida, con un cuerpo metálico robusto, estéticamente no es de mi agrado. Particularmente, el anillo de enfoque de goma atrae polvo con facilidad y carece de textura, lo que podría mejorar su ergonomía. Además, la ausencia de una escala de profundidad de campo es una omisión notable en un objetivo de esta categoría.
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
@@ -33,7 +32,7 @@ Desde que compré este objetivo, siendo honesto, debo de decir que nunca me ha d
 
 Opticamente, el Zeiss Touit 12mm f/2.8 ofrece una calidad excepcional. La nitidez es sobresaliente desde el centro hasta las esquinas, incluso a máxima apertura de f/2.8. Al cerrar un poco el diafragma, la nitidez mejora aún más, proporcionando imágenes detalladas y con excelente reproducción de colores. Por ende, el objetivo que más utilizo en paisajes y espacios reducidos.
 
-La distorsión es mínima, lo cual es notable para un objetivo de 12mm, y el viñeteo es prácticamente inexistente, incluso en aperturas amplias. 
+La distorsión es mínima, lo cual es notable para un objetivo de 12mm, y el viñeteo es prácticamente inexistente, incluso en aperturas amplias.
 
 Aunque su precio de lanzamiento fue elevado, actualmente se pueden encontrar unidades de segunda mano a precios más accesibles, lo que mejora su relación calidad-precio. Yo lo compré hará varios años a un compañero fotógrafo y hasta la fecha, el objetivo va de cine, impecable.
 

@@ -9,7 +9,6 @@ typograms: true
 thumbnail: assets/img/2014/2014-10-02-marketing-olfativo.webp
 ---
 
-
 ### Marketing Olfativo
 
 El olfato es sin duda el sentido más agudo del ser humano, permite asociar estados-experiencias en la memoria y recordarlo más adelante. La memoria olfativa es de tal complejidad que permite rememorar momentos de la niñez, de la juventud, etc. Esto estimula las emociones ya que las percepciones olfativas vienen controladas por [el sistema límbico](https://es.wikipedia.org/wiki/Sistema_l%C3%ADmbico) del cerebro y posteriormente por el [hipotálamo](http://es.wikipedia.org/wiki/Hipot%C3%A1lamo) activando la memoria.
@@ -19,6 +18,7 @@ El olfato es sin duda el sentido más agudo del ser humano, permite asociar esta
 </div>
 
 ### El poder del Aroma en la Imagen Corporativa
+
 En el **Marketing Olfativo** usamos este poderoso sentido para hacer que nuestros clientes se encuentren en un ambiente confortable. Influye en su comportamiento suscitando emociones en un ambiente exento de estrés y generando en sus empleados un agradable estado de bienestar en su trabajo. Todo ello beneficia mutuamente ya que el cliente se queda más tiempo amenizando su visita, y por lo tanto repercutiendo en las ventas.
 
 > #### Está comprobado que una empresa con una fragancia vende más que una que no la tiene
@@ -30,4 +30,4 @@ Es el olor corporativo y debe dejar en el recuerdo de tus visitas o clientes esa
 
 > #### Se puede reconocer una marca a partir del sentido del olfato. Todo esto se consigue con el marketing olfativo.
 
- **Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2014).*
+**Pedro Uribarri**. _Publicado originalmente en **Fragancia digital** (2014)._

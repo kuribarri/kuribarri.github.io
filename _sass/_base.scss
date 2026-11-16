@@ -1344,7 +1344,13 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 // Usar Roboto Slab en los encabezados (#, ##, ###) y títulos de post
-h1, h2, h3, h4, h5, h6, .post-title {
-  font-family: 'Roboto Slab', serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-family: "Roboto Slab", serif;
   font-weight: 700;
 }

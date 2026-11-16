@@ -9,12 +9,9 @@ typograms: true
 thumbnail: assets/img/2011/2011-05-29-notas-olfativas.webp
 ---
 
-
-
-¿Has oído hablar de las **notas** olfativas? ¿No sabes exactamente a qué nos referimos? Comenzamos esta introducción al mundo del perfume de una forma directa. 
+¿Has oído hablar de las **notas** olfativas? ¿No sabes exactamente a qué nos referimos? Comenzamos esta introducción al mundo del perfume de una forma directa.
 
 Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, como metáfora musical. El perfume tiene tres tipos de notas; de ellas se forma la armonía de la fragancia y de ellas dependerá que nos guste más o menos: una de salida (las altas), otra de corazón (las medias) y una de fondo (las de base). Pasaremos a definirlas para que, cuando analicemos una fragancia según se evapora, podamos apreciar y disfrutar de cada clase.
-
 
 <div class="text-center">
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2011/2011-05-29-notas-olfativas.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
@@ -32,4 +29,4 @@ Para definir el ciclo de vida de una fragancia se ha tomado, en cierta manera, c
 
 Hay que tener en cuenta que los olores de las notas más altas y medias se ven influidos por las bajas, más potentes. Asimismo, los aromas de las notas de fondo se verán influenciados por el tipo de fragancias utilizadas como notas medias. Los fabricantes de perfumes solemos publicar las notas de sus productos y, por lo general, se presentan como una pirámide olfativa, con los componentes descritos en términos imaginativos y abstractos. Es evidente que la fórmula real queda siempre en manos de cada perfumista.
 
- **Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2011).*
+**Pedro Uribarri**. _Publicado originalmente en **Fragancia digital** (2011)._

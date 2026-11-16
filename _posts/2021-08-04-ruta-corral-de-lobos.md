@@ -2,7 +2,7 @@
 layout: post
 title: Ruta Corral de los Lobos - Prioro (León)
 date: 2021-08-04 23:36:10-100
-description: Esta ruta es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre. 
+description: Esta ruta es una de las más populares y accesibles en la zona de Prioro, situada dentro del Parque Regional Montaña de Riaño y Mampodre.
 tags: naturaleza montaña
 categories: Rutas
 typograms: true
@@ -36,6 +36,4 @@ El esfuerzo de llegar hasta el Corral de los Lobos se ve recompensado con unas v
 
 Desde el Corral de los Lobos, tienes dos opciones: una que sigue la ruta circular y otra que te lleva a Tejerina a través de la GR-1. Si optas por la primera, continuarás descendiendo por la planicie del río Repenedo, cruzando hermosas praderas y siguiendo la pista forestal a tu izquierda. La senda te llevará a una pista que, en descenso, te llevará de nuevo a cruzar el río, regresando finalmente al punto de inicio, directamente a Prioro.
 
-
 [^1] Un chorco es una estructura tradicional utilizada para cazar lobos, especialmente en la región de León. Este sistema consistía en una construcción circular de piedra en forma de embudo que permitía atrapar a los lobos durante las batidas colectivas. El uso de los chorcos está documentado desde al menos el siglo XVII.
-

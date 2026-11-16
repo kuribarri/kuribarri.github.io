@@ -3,7 +3,7 @@ layout: post
 title: Fotografiando Cementerios. Arte, silencio y pasión por la imagen
 date: 2018-12-10 23:36:10-100
 description: Entre los lugares que me gusta fotografias se encuentran los cementerios. Estos lugares, cargados de historia y serenidad, ofrecen un escenario único para capturar el arte
-tags:  lugares
+tags: lugares
 categories: Fotografía Rutas
 thumbnail: assets/img/2019/2019-11-23-cementerio-derio-1.webp
 ---
@@ -29,6 +29,7 @@ No soy profesional, pero recomiendo que, para lograr buenos resultados, personal
 Aunque el blanco y negro es mi favorito para este tipo de fotografía, disparar en color y luego desaturar en el postprocesado ofrece mayor flexibilidad creativa.
 
 ### Aspectos Prácticos
+
 Si visitas cementerios en zonas lluviosas, como el norte de España, no olvides llevar un impermeable, tanto para ti como para tu equipo. Los cementerios normalmente no tienen zonas protegidas contra las inclemencias del tiempo. También es crucial informarse sobre los horarios de apertura y cierre, ya que algunos cementerios cierran temprano y podrías enfrentarte a inconvenientes si quedas atrapado dentro.
 
 ## Tres Cementerios para descubrir y fotografiar (monumental, antiguo, y minimalista)
@@ -46,7 +47,7 @@ En mi experiencia, una tarde otoñal con llovizna ligera fue perfecta para captu
 Alguna de las fotografías más impactantes que he realizado ahí y que recomendaría, es en Panteón de Martín de Aldama realizada en 1918 el escultor Valentín Dueñas. El Panteón Maiz Nordhausen, en mármol blanco sobre una base de caliza y realizado por Higinio Basterra hacia 1925.El mausoleo de las Víctimas de la tragedia del Teatro Circo del Ensanche, da bastante juego si lo fotografías en partes y no en un todo, como recomiendan verlo.
 
 No obstante si lo tuyo no es ir solo hacia la aventura, aquí tienes más información:
-• Derio ofrece visitas guiadas con audioguía y mapa, así como servicios prácticos como Wi-Fi y aseos públicos. 
+• Derio ofrece visitas guiadas con audioguía y mapa, así como servicios prácticos como Wi-Fi y aseos públicos.
 [Información en su sitio oficial](https://bilbaozerbitzuak.bilbao.eus/cementerio-bilbao-folleto-visita/)
 
 ### Cementerio de Lapa, Oporto - Antiguo
@@ -69,23 +70,4 @@ Durante mi visita a Florida, visité San Agustín, y una de las cosas que me imp
 {% include figure.liquid loading="eager" width="50%" path="assets/img/2019/2019-11-23-cementerio-st-agustin.webp" class="rounded z-depth-0 w-30" style="display: block; margin: 0 auto;" zoomable=true %}   
 </div>
 
-
-
 Curiosamente, algunas lápidas fueron deliberadamente borradas, reflejando una creencia de la época de no perpetuar los recuerdos de quienes murieron fuera de la iglesia o la ley.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

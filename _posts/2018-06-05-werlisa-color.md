@@ -11,7 +11,7 @@ thumbnail: assets/img/2019/2019-10-05-werlisa-color-model-d.webp
 
 ### La Werlisa Color. La cámara que marcó una época en mi vida fotográfica
 
-La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica. Con la Werlisa Color, entré de lleno en el mundo de la fotografía manual, donde debía enfocar, ajustar el diafragma y seleccionar la velocidad de obturación. Este nivel de control transformó mi perspectiva: la fotografía dejó de ser solo un pasatiempo para convertirse en una forma de creaatividad. 
+La Werlisa Color fue mi segunda cámara, y su impacto en mi vida adolescente fue enorme. Tras iniciarme en la fotografía a los siete años con una Kodak Instamatic 25, esta nueva adquisición marcó un salto cualitativo en mi experiencia fotográfica. Con la Werlisa Color, entré de lleno en el mundo de la fotografía manual, donde debía enfocar, ajustar el diafragma y seleccionar la velocidad de obturación. Este nivel de control transformó mi perspectiva: la fotografía dejó de ser solo un pasatiempo para convertirse en una forma de creaatividad.
 
 <div class="text-center">
 {% include figure.liquid loading="eager" path="assets/img/2019/2019-10-05-werlisa-color-model-d.webp" class="rounded z-depth-0 w-50" style="display: block; margin: 0 auto;" %}   
@@ -24,13 +24,13 @@ Hablar de Werlisa es hablar de una parte de la historia fotográfica española. 
 El modelo que aún conservo, la Werlisa Color (serie D), fue lanzado en 1967, es uno de los modelos más emblemáticos de la marca. Su popularidad no fue casualidad: era una cámara robusta, sencilla y, al mismo tiempo, sorprendentemente versátil para su precio. Contaba con una óptica Laotar 45mm f:2.8, que, aunque básica, ofrecía resultados más que aceptables para iniciarse en la fotografía. Su obturador tenía velocidades de 1/30, 1/60 y 1/125 segundos, además de la opción de exposición prolongada (modo Bulb). El diafragma, tipo iris, permitía ajustes desde f/2.8 a f/16, proporcionando una flexibilidad suficiente para experimentar con diferentes condiciones de luz. Un dato curioso. Permitía hacer dobles exposiciones y disparar en modo bulb con un disparador de cable manual.
 
 Otro detalle era su enfoque manual, desde un metro hasta el infinito, que obligaba al usuario a entender la importancia de la distancia focal y la profundidad de campo. Estas características hacían de la Werlisa Color una herramienta perfecta para aprender los fundamentos elemtales de la fotografía.
-El visor venía con cristal azul y recuadro luminoso. Letras de fabricación en español. Disponía de indicador de clase y sensibilidad de película. La zapata para el flash estaba embutida en el cuerpo de la cámara, sin sobresalir. 
+El visor venía con cristal azul y recuadro luminoso. Letras de fabricación en español. Disponía de indicador de clase y sensibilidad de película. La zapata para el flash estaba embutida en el cuerpo de la cámara, sin sobresalir.
 
 ### Mis primeros pasos con la Werlisa Color
 
 Con la Werlisa en mis manos, exploré tanto la fotografía en blanco y negro, como en color. Aunque las películas de color de la época tenían limitaciones, la experiencia de capturar momentos con esta cámara era tentadora mientras te diera el dinero para pagar el carrete y revelado. Al revisar mis viejas fotografías, he notado que mis resultados eran notablemente mejores en blanco y negro en nitidez. Tal vez fuera por las características del negativo, o porque las copias en color de entonces no resistieron bien el paso del tiempo. Sea como fuere, la Werlisa me permitió descubrir que la fotografía era algo más que apretar un botón.
 
-### Especificaciones técnicas 
+### Especificaciones técnicas
 
 - Tipo: Cámara compacta
 - Objetivo: Laotar 45mm f:2.8 Anastigmático

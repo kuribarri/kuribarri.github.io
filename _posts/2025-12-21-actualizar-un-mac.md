@@ -51,5 +51,5 @@ Ahora te doy un consejo fruto de la experiencia: **si todo te funciona bien y el
 
 También te recomiendo buscar más información y leer la documentación oficial antes de lanzarte. En mi experiencia, ha sido muy positiva: me ha salvado los dos Mac Mini «obsoletos según Apple» de 2011 y 2012. Te deseo que te vaya bien, vitamina tu máquina y dale una segunda vida (o tercera).
 
-* **Página oficial y descargas:** [OpenCore Legacy Patcher (Dortania)](https://dortania.github.io/OpenCore-Legacy-Patcher/)
-* **Guía de inicio y versiones:** [¿Qué es OpenCore? | Empezar con OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/START.html#how-do-i-get-started)
+- **Página oficial y descargas:** [OpenCore Legacy Patcher (Dortania)](https://dortania.github.io/OpenCore-Legacy-Patcher/)
+- **Guía de inicio y versiones:** [¿Qué es OpenCore? | Empezar con OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/START.html#how-do-i-get-started)

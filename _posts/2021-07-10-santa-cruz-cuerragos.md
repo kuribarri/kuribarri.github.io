@@ -18,7 +18,7 @@ Declarado Bien de Interés Cultural en la categoría de Conjunto Etnológico des
 
 ### Puntos de interés para fotografiar
 
-El cementerio es curioso, es un lugar al que accedes nada más salir del pueblo por un camino estrecho rodeado de castaños. 
+El cementerio es curioso, es un lugar al que accedes nada más salir del pueblo por un camino estrecho rodeado de castaños.
 En el trayecto, se puede admirar un impresionante castaño centenario, ideal para fotografías (te recomiendo un gran angular). El cementerio en sí resulta fascinante: con tumbas antiguas en tierra y un ambiente que evoca un pasado detenido en el tiempo. Todas sus tumbas son antiguas y en tierra. Si te gustan estos sitios, ya solo por verlo merece la pena.
 
 <div class="text-center">
@@ -30,7 +30,7 @@ Puente de los Infiernos. Este puente atraviesa el río Manzanas y da acceso a la
 En el valle, a orillas del río Manzanas, se encuentra este molino invadido por la naturaleza. Su estado semioculto entre la vegetación le confiere un aire bucólico y nostálgico, perfecto para los amantes de los lugares abandonados. Aunque el acceso es algo complicado, te aconsejo que te acerques.
 
 ### Naturaleza y bosques
-    
+
 El pueblo está rodeado de una exuberante naturaleza con bosques de castaños, robles y una rica vegetación que incluye jaras, brezos, helechos y musgos. Es un destino perfecto para los aficionados a la fotografía, y especialmente en otoño te ofrece un espectáculo de colores con tonos ocres, amarillos y naranjas.
 
 <div class="text-center">
@@ -38,7 +38,7 @@ El pueblo está rodeado de una exuberante naturaleza con bosques de castaños, r
 </div>
 
 En los últimos años, Santa Cruz de los Cuérragos ha experimentado un resurgimiento gracias al turismo rural. Es una zona ideal para practicar senderismo y disfrutar de vistas panorámicas.
-   
+
 ### Curiosidades
 
 Santa Cruz de los Cuérragos tiene un pasado interesante. Antiguamente formaba parte de una ruta de contrabando con Guadramil (Portugal).
@@ -47,6 +47,7 @@ Su nombre, “Cuérrago”, significa “cauce”, en referencia a los numerosos
 Santa Cruz de los Cuérragos representa un ejemplo excepcional de conservación de la arquitectura popular y las tradiciones, ofreciendo a los visitantes una experiencia auténtica en un entorno natural incomparable.
 
 ### Recomendaciones
+
 - Equipo de senderismo básico. Abrigo en primavera, otoño e invierno.
 - Fotografía. En esta ocasión te recomendaría angulares y algún teleobjetivo, trípode para el interior de los bosques.
 

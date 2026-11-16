@@ -18,6 +18,7 @@ Para clasificar y estudiar un perfume, debemos ubicarlo dentro de lo que denomin
 </div>
 
 ### 1. Florales
+
 Esta familia agrupa a todos los perfumes cuyas notas principales tienen notas florales como principal. Dentro de este grupo amplio, se distinguen varias subcategorías según los acordes dominantes.
 
 - **Acuático Floral** — Combinación de flores con notas marinas frescas.
@@ -29,8 +30,8 @@ Esta familia agrupa a todos los perfumes cuyas notas principales tienen notas fl
 - **Floral Amaderado**: Flores acompañadas de maderas secas, musgo o almizcles limpios.
 - **Violeta Rosa** — Un acorde floral sobre rosa y violeta, reconocido en algunas clasificaciones como una categoría o subfamilia floral.
 
-
 ### 2. Hespérides (Cítricos)
+
 Se denomina "Hespérides" a la familia de los cítricos. Esta familia incluye perfumes basados en aceites esenciales de cítricos, como la bergamota, el limón, la naranja dulce, la mandarina, el pomelo y otros cítricos. El neroli (azahar) y el petit-grain están estrechamente vinculados a la familia cítrica en perfumería, aunque el neroli procede de las flores del naranjo amargo y, por tanto, tiene también un marcado carácter floral.
 
 - **Hespérides Aromático** — Cítricos combinados con hierbas aromáticas como tomillo, romero, salvia o estragón. Muy común en colonias clásicas masculinas.
@@ -38,6 +39,7 @@ Se denomina "Hespérides" a la familia de los cítricos. Esta familia incluye pe
 - **Hespérides Afrutado** — Variantes modernas que añaden frutas o frutos como grosella negra, frutos rojos u otras frutas no cítricas a la base cítrica.
 
 ### 3. Fougères (Aromáticos)
+
 La familia Fougère se caracteriza por un acorde aromático estructurado tradicionalmente alrededor de lavanda, cumarina y musgo de roble, acompañado habitualmente de bergamota, geranio, hierbas aromáticas y otros elementos. Se basan en un acorde de hierbas aromáticas como el romero, la salvia, el tomillo, etc. Es una familia muy ligada a las líneas de perfumes masculinos, aunque actualmente también existen numerosas composiciones unisex.
 
 - **Aromático Acuático** — Acompañado por notas marinas.
@@ -47,7 +49,8 @@ La familia Fougère se caracteriza por un acorde aromático estructurado tradici
 - **Aromático Especiado** — Acompañado con notas especiadas: pimienta, nuez moscada, clavo de olor, canela, mostaza.
 - **Aromático Amaderado** — Hierbas sobre bases de madera o resina (cedro, sándalo).
 
-### 4. Amaderados 
+### 4. Amaderados
+
 Formada por maderas nobles y resinosas como sándalo, vetiver, cedro, patchouli, guayaco o ciprés. Son bases tradicionales en perfumería masculina pero cada vez más presentes en líneas femeninas y unisex.
 
 - **Amaderado** — Predominio de vetiver, cedro y papiro. Sensación limpia y elegante.
@@ -57,6 +60,7 @@ Formada por maderas nobles y resinosas como sándalo, vetiver, cedro, patchouli,
 - **Amaderado Especiado** — Acompañado con notas especiadas: pimienta, cardamomo, clavo de olor, canela o nuez moscada.
 
 ### 5. Chipre
+
 La familia Chipre está basada en un acorde característico de bergamota, musgo de roble, ládano y patchouli, al que pueden añadirse notas florales, frutales, amaderadas o de cuero. Son fragancias persistentes, donde las notas predominantes tradicionalmente incluyen musgo de roble, ládano (cistus labdanum), patchouli y bergamota. Presenta habitualmente un carácter seco, profundo y complejo.
 
 - **Chipre Clásico** — Estructura tradicional descrita arriba.
@@ -66,6 +70,7 @@ La familia Chipre está basada en un acorde característico de bergamota, musgo 
 - **Chipre Cuero** — Incorporación de notas de cuero curtido, tabaco o betún.
 
 ### 6. Orientales (Ambrée)
+
 Conocidos también como ambarados o ambrées (en clasificaciones contemporáneas). Haciendo referencia a su nombre, es una familia rica en especias, maderas sensuales, vainilla, almizcles y resinas, en general composiciones cálidas y envolventes, con uso de materias preciosas como el ámbar, benjuí, tabaco, mirra, incienso, etc. El término “Oriental” es una denominación histórica todavía utilizada por muchas casas, pero algunas clasificaciones actuales prefieren “Ambrée” o Ambarada.
 
 - **Oriental Gourmand** — Enfoque en vainilla, cacao, caramelos y almendras. Dulce y reconfortante.
@@ -74,4 +79,4 @@ Conocidos también como ambarados o ambrées (en clasificaciones contemporáneas
 - **Oriental Amaderado** — Acentuado con notas cálidas como resinas, cedro y el patchouli, sándalo, o mirra entre otros.
 - **Oriental Cuero/Tabaco** — Notas de tabaco rubio, o cuero envueltas en ámbar.
 
-**Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2011). Revisión 2025*
+**Pedro Uribarri**. _Publicado originalmente en **Fragancia digital** (2011). Revisión 2025_

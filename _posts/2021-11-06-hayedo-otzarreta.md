@@ -4,13 +4,14 @@ title: El Hayedo de Otzarreta. Un rincón mágico en Bizkaia
 date: 2021-11-06 23:36:10-100
 description: Ubicado en el Parque Natural de Gorbeia, es uno de los bosques más icónicos de Bizkaia. Considerado uno de los bosques más bellos del mundo por National Geographic, Otzarreta destaca por sus hayas centenarias y su atmósfera mágica.
 tags: lugares naturaleza montaña
-categories: Rutas 
+categories: Rutas
 typograms: true
 featured: false
 thumbnail: assets/img/2021/2021-11-06-otzarreta-0.jpg
 ---
 
 ### El Hayedo de Otzarreta: Un rincón mágico en Bizkaia
+
 El Hayedo de Otzarreta, ubicado en el Parque Natural de Gorbeia, es uno de los bosques más icónicos de Bizkaia. En este artículo no encontrarás una guía exhaustiva, sino recomendaciones prácticas para quienes deseen visitarlo, disfrutar de su encanto y capturar su esencia en fotografías.
 
 ### Cómo llegar al Hayedo de Otzarreta
@@ -39,7 +40,7 @@ El encanto fotográfico y único de Otzarreta se ve potenciado por el arroyo Zub
 Como fotógrafo y montañero que lo visito con frecuencia, Ye voy a dar algunos consejos prácticos para aprovechar al máximo tu visita y no fracasar en el intento.
 
 - Elige bien la época y el momento: La mejor temporada para fotografiar Otzarreta es en otoño, con la humedad adecuada, cuando el suelo se cubre de hojas rojizas y el arroyo está en su esplendor. Sin embargo, evita los fines de semana, ya que el bosque se llena de visitantes las comarcas de Bizkaia. Si puedes, ve entre semana o un viernes temprano, justo al amanecer. La neblina del alba te regalará un ambiente mágico y único.
-Como anecdota diré que entre las varias veces que he ido, en una ocasión, me encontre con solo tres fotógrafos. Fue un ambiente magnífico y de colaboración único. 
+  Como anecdota diré que entre las varias veces que he ido, en una ocasión, me encontre con solo tres fotógrafos. Fue un ambiente magnífico y de colaboración único.
 - Calzado y ropa adecuada: Usa calzado de trekking o de montaña, ya que el terreno puede ser resbaladizo por la humedad y las raíces expuestas. Lleva abrigo en otoño e invierno, pues la humedad alcanza niveles altos, superando el 80%.
 
 <div class="text-center">
@@ -55,10 +56,10 @@ Como anecdota diré que entre las varias veces que he ido, en una ocasión, me e
 
 ### Leyendas de un bosque mágico
 
-Otzarreta no solo inspira a fotógrafos, sino también a escritores y cineastas. Este bosque ha alimentado leyendas como la del Basajaun, el mítico Señor de los Bosques. En una ocasión, mientras paseaba solo, encontré a dos extranjeros tomando medidas para grabar escenas de una película. Necesitaban una zona concreta que tuviera una cascada y pudieran meter focos y cámaras. Este rincón mágico estimula la imaginación y conecta con lo más profundo de la naturaleza. 
+Otzarreta no solo inspira a fotógrafos, sino también a escritores y cineastas. Este bosque ha alimentado leyendas como la del Basajaun, el mítico Señor de los Bosques. En una ocasión, mientras paseaba solo, encontré a dos extranjeros tomando medidas para grabar escenas de una película. Necesitaban una zona concreta que tuviera una cascada y pudieran meter focos y cámaras. Este rincón mágico estimula la imaginación y conecta con lo más profundo de la naturaleza.
 
 ### Si viajas por mi tierra, no olvides el hayedo de Otzarreta
 
-El Hayedo de Otzarreta es un tesoro natural que combina belleza, riqueza ecológica y un encanto difícil de describir. Si visitas  el País Vasco, no olvides incluirlo en tu itinerario. Ya sea para pasear, fotografiar o simplemente disfrutar del silencio y la paz, este lugar te ofrecerá una experiencia inolvidable.
+El Hayedo de Otzarreta es un tesoro natural que combina belleza, riqueza ecológica y un encanto difícil de describir. Si visitas el País Vasco, no olvides incluirlo en tu itinerario. Ya sea para pasear, fotografiar o simplemente disfrutar del silencio y la paz, este lugar te ofrecerá una experiencia inolvidable.
 
 Si tienes alguna duda o quieres más consejos, no dudes en enviarme un mensaje por Instagram: [@kuribarri](https://instagram.com/kuribarri). Estaré encantado de ayudarte en tu visita por esta zona.

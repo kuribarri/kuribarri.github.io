@@ -27,7 +27,7 @@ Dicho esto, recomiendo **imperativamente utilizar objetivos luminosos**. Tengo v
 
 Yo, personalmente, no utilizo flash. Así que, además, me ahorro tener que llevar todo el equipo de iluminación.
 
-### La gran polémica ¿RAW o JPG? 
+### La gran polémica ¿RAW o JPG?
 
 Una vez que tienes claro el equipo que vas a llevar, antes de entrar en la técnica hay otra cuestión importante que debes plantearte: **¿en qué formato de imagen vas a trabajar?**
 Muchos defensores del JPG te dirán que no necesitas RAW. Yo lo tengo claro, mi consejo: **dispara siempre en RAW**. Disparar en RAW es la mejor opción porque después podrás editar las fotografías con mucha más facilidad, manteniendo toda la información disponible y teniendo un control mucho mayor sobre la imagen. Por lo tanto, en un evento musical, para mí es un **sí o sí: RAW**.
@@ -38,7 +38,7 @@ Ahora vamos a la técnica. El ISO, velocidad de obturación y apertura son, obvi
 
 ### 1. La apertura
 
-Comienzo con la apertura. La apertura no tiene demasiado misterio: necesitamos luz, así que debemos utilizar la máxima apertura posible en función de la iluminación y de los focos que haya sobre el escenario. Si no tengo mucha luz, siempre dejo mis objetivos completamente abiertos. Pero si las condiciones me lo permiten, cierro algunos pasos para ganar profundidad de campo. Lo ideal es buscar el punto *dulce* del objetivo.
+Comienzo con la apertura. La apertura no tiene demasiado misterio: necesitamos luz, así que debemos utilizar la máxima apertura posible en función de la iluminación y de los focos que haya sobre el escenario. Si no tengo mucha luz, siempre dejo mis objetivos completamente abiertos. Pero si las condiciones me lo permiten, cierro algunos pasos para ganar profundidad de campo. Lo ideal es buscar el punto _dulce_ del objetivo.
 
 Una buena apertura para mi es f/2.8 y, si las condiciones de luz lo permiten usar f/4. Pero que no te dé miedo utilizar un f/1.4 cuando la situación lo requiera.
 
@@ -50,7 +50,7 @@ Independientemente de la situación, yo casi siempre tengo la cámara configurad
 
 ### 3. El ISO
 
-El tercer ajuste, y probablemente el más polémico, es el ISO. Aquí todo depende de tu cámara y de cómo sea capaz de gestionar el ruido. Y claro... También depende de cuánto miedo le tengas al posible *ruido* digital. Yo trabajo habitualmente con ISO 3200 o 6400 con mi Fuji X-T3. Después, utilizo Capture One o Darktable para editar las fotografías y, si es necesario, compensar el ruido durante el revelado. 
+El tercer ajuste, y probablemente el más polémico, es el ISO. Aquí todo depende de tu cámara y de cómo sea capaz de gestionar el ruido. Y claro... También depende de cuánto miedo le tengas al posible _ruido_ digital. Yo trabajo habitualmente con ISO 3200 o 6400 con mi Fuji X-T3. Después, utilizo Capture One o Darktable para editar las fotografías y, si es necesario, compensar el ruido durante el revelado.
 
 Te sorprenderá comprobar que, con cámaras relativamente modernas, no tendrás tanto ruido como probablemente imaginas. El uso de ISOs bajos viene influenciado y arrastrado por los viejos temores al ruido de cámaras viejas. Además, existe una recomendación bastante extendida: es preferible subir el ISO en cámara antes que intentar aumentar demasiado la exposición durante la edición.
 
@@ -72,7 +72,7 @@ A menudo veo que se recomienda utilizar, por ejemplo, **5260 K**, pero, como he 
 
 ## Luz y enfoque en conciertos
 
-Ahora que ya está claro el formato de fichero, la velocidad y la apertura, vayamos a los factores externos que nos afectará y mucho en este tipo de eventos: la luz y el enfoque en un escenario ¿Qué tipo de medición de la luz uso en mi cámara? 
+Ahora que ya está claro el formato de fichero, la velocidad y la apertura, vayamos a los factores externos que nos afectará y mucho en este tipo de eventos: la luz y el enfoque en un escenario ¿Qué tipo de medición de la luz uso en mi cámara?
 
 Si no quieres complicarte demasiado y buscas obtener buenos resultados, yo utilizo **medición puntual**.
 La medición puntual ayuda a determinar exactamente cuál es el valor de luz de la zona sobre la que estás trabajando: si es demasiado luminosa o demasiado oscura. El fondo no me importa demasiado.
@@ -91,16 +91,16 @@ Resumiendo, personalmente, la mayoría de las veces utilizo **el modo de disparo
 
 # Mi receta con la Fuji X-T3
 
-| Ajuste           		| Configuración                           |
-| --------------------- | --------------------------------------- |
-| **Modo**         		| Prioridad a la apertura                 |
-| **Apertura**     		| Normalmente f/2.8                       |
-| **Velocidad**    		| 1/250 s como punto de partida           |
-| **ISO interior** 		| 3200, máximo 6400                       |
-| **ISO mínimo**   		| A partir de 1600, según las condiciones |
-| **Enfoque**      		| AF a un punto                           |
-| **Medición**     		| Puntual                                 |
-| **Disparo**      		| Fotografía única                        |
-| **Ráfaga**         	| Cuando hay mucho movimiento             |
-| **Balance Blancos**	| Kelvin fijo, ajustado previamente       |
-| **Formato**      		| RAW                                     |
+| Ajuste              | Configuración                           |
+| ------------------- | --------------------------------------- |
+| **Modo**            | Prioridad a la apertura                 |
+| **Apertura**        | Normalmente f/2.8                       |
+| **Velocidad**       | 1/250 s como punto de partida           |
+| **ISO interior**    | 3200, máximo 6400                       |
+| **ISO mínimo**      | A partir de 1600, según las condiciones |
+| **Enfoque**         | AF a un punto                           |
+| **Medición**        | Puntual                                 |
+| **Disparo**         | Fotografía única                        |
+| **Ráfaga**          | Cuando hay mucho movimiento             |
+| **Balance Blancos** | Kelvin fijo, ajustado previamente       |
+| **Formato**         | RAW                                     |

@@ -10,8 +10,6 @@ featured: false
 thumbnail: assets/img/2023/2023-08-08-ruta-hervas.webp
 ---
 
-
-
 ### La Chorrera de Hervás y Las Charcas Verdes (Cáceres)
 
 Esta ruta es bien conocida, interesante para la fotografía de naturaleza y sobre todo el salto de agua que encontrarás al final. Aquí te explicaré cómo recorrerla correctamente sin perderte. Mi recomendación: hazla a pie desde el mismo Hervás, sin usar vehículo.
@@ -25,11 +23,13 @@ Recomiendo un gran angular, el tele te sobrará. También puedes llevar un 50mmm
 </div>
 
 ### La ruta
+
 Partiendo desde la Plaza del Convento, encontrarás un panel informativo y una señal de inicio con los colores blanco y amarillo (líneas paralelas: blanco arriba, amarillo abajo). Este es el indicador de la ruta PRCC-36 hacia La Chorrera. Lo verás durante todo el trayecto, aunque a veces está pintado en piedras, postes o señales verticales. Si ves una "X" en lugar de las líneas paralelas, significa que ese no es el camino correcto.
 
 La ruta es fácil para quienes acostumbran a caminar en montaña, pero de dificultad media para excursionistas o familias. Es imprescindible llevar calzado adecuado y bastones de trekking, especialmente si no estás preparado, ya que el terreno puede ser exigente.
 
 ### La Ruta a La Chorrera
+
 Comienza en la Plaza del Convento y dirígete hacia el Puente de Hierro. Desde aquí, sigue las marcas blancas y amarillas por una subida suave. A medida que avanzas, dejarás Hervás atrás y encontrarás huertas, castaños, higueras, robles y fresnos. En verano, es ideal salir temprano (sobre las 7 a.m.) para aprovechar la sombra.
 
 Ten cuidado con los vehículos al cruzar zonas de pavimento y hormigón, que luego se convierten en pista forestal. Sigue las indicaciones blanco/amarillo, dejando atrás un albergue con actividades al aire libre y, más adelante, el aparcamiento donde termina el acceso en coche.
@@ -43,6 +43,7 @@ Continúa por el camino más empinado. Al final de esta subida, escucharás el s
 Nota: La ruta no es circular, así que el regreso se hace por el mismo camino.
 
 ### Las Charcas Verdes
+
 De regreso, al terminar el zigzag, fíjate en un sendero menos transitado a la derecha. Este te llevará a Las Charcas Verdes, tres pozas formadas por el río Ambroz. Es un lugar perfecto para un baño refrescante tras la caminata, rodeado de naturaleza y vegetación exuberante.
 
 ### Detalles de la Ruta

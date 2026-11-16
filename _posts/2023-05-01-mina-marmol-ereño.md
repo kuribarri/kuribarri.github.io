@@ -2,7 +2,7 @@
 layout: post
 title: Kanteragorria de Ereño. Fotografíando en rojo
 date: 2023-12-08 23:36:10-100
-description: La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae. 
+description: La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae.
 tags: euskadi lugares naturaleza
 categories: Rutas
 typograms: true
@@ -10,10 +10,9 @@ featured: false
 thumbnail: assets/img/2023/23-03-30-ereno-kantegorria-00801.webp
 ---
 
-
 ## Kanteragorria de Ereño. Fotografíando en rojo
 
-En esta ocasión voy a hablar de la cantera de mármol rojo de Ereño.  Esta cantera está situada en Urdaibai, una zona que conozco muy bien, por mis orígenes. La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en el corazón de Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae a fotógrafos y curiosos por igual. 
+En esta ocasión voy a hablar de la cantera de mármol rojo de Ereño. Esta cantera está situada en Urdaibai, una zona que conozco muy bien, por mis orígenes. La cantera de mármol rojo de Ereño, es uno de los enclaves más fascinantes de Bizkaia. Situada en el corazón de Urdaibai, esta mina combina historia, geología y un magnetismo visual que atrae a fotógrafos y curiosos por igual.
 
 Su explotación comenzó en la época romana, alrededor del siglo I d.C., y su peculiar pigmentación rojo intenso, resultado de la impregnación de óxidos de hierro, la hace única. El mármol rojo (calizas rojas urgonianas) extraído aquí, es conocido como “Rojo Ereño” o “Rojo Bilbao”, y adornan innumerables edificios históricos.
 
@@ -32,7 +31,7 @@ Declarada Patrimonio Histórico de Bizkaia y de Interés Geológico del País Va
 
 ### Un Paisaje Único para la Fotografía
 
-A fecha de la publicación de este artículo, la cantera está abandonada y no tiene restricciones de acceso, lo que te permite  y explorar el área libremente, pudiendo sacar todo tipo de fotografías. En las ocasiones que he ido, he notado que este lugar ofrece dos grandes visiones para los amantes de la fotografía: capturar paisajes que destacan la majestuosidad de la cantera o explorar la belleza melancólica de sus espacios abandonados.
+A fecha de la publicación de este artículo, la cantera está abandonada y no tiene restricciones de acceso, lo que te permite y explorar el área libremente, pudiendo sacar todo tipo de fotografías. En las ocasiones que he ido, he notado que este lugar ofrece dos grandes visiones para los amantes de la fotografía: capturar paisajes que destacan la majestuosidad de la cantera o explorar la belleza melancólica de sus espacios abandonados.
 
 Desde que cesó su explotación en la década de 1980, la cantera quedó olvidada, lo que ha permitido a la naturaleza reclamar el terreno. Este abandono ha transformado la zona en un lugar ideal para la fotografía. Puedes encontrar dos enfoques principales: paisajes amplios que destacan la majestuosidad y los contrastes de la cantera, o escenas del interior de las edificaciones abandonadas, que que capturan sus detalles.
 
@@ -53,18 +52,14 @@ Según la normativa vigente en Bizkaia, la Cantera de Ereño está clasificada c
 </div>
 
 ### Coordenadas geográficas:
+
 - Latitud: 43º 21’ 35,60 ‘’ N
 - Longitud: 2º 38’ 44,34’’ W
 
 Te recomiendo ir a la Cantera de Ereño (Ereño Kanteragorria), estoy seguro que el rojo intenso de su mármol quedará impregnado en los píxeles de tu cámara, creando fotografías únicas y difíciles de encontrar en otros lugares.
 
-
-
-
 Información como lugar de Interés Geológico:
-[Documento en Pdf](https://www.euskadi.eus/web01-a2inguru/eu/contenidos/informacion/lig/es_def/adjuntos/015.pdf
- "Haz click para descargar en pdf")
+[Documento en Pdf](https://www.euskadi.eus/web01-a2inguru/eu/contenidos/informacion/lig/es_def/adjuntos/015.pdf "Haz click para descargar en pdf")
 
 Información geológica del archivo de la a Universidad Politécnica de Madrid:
-[Documento en Pdf](https://oa.upm.es/10267/4/PARTE-4.pdf
- "Haz click para descargar en pdf")
+[Documento en Pdf](https://oa.upm.es/10267/4/PARTE-4.pdf "Haz click para descargar en pdf")

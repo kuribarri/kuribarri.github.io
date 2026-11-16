@@ -9,9 +9,9 @@ typograms: true
 thumbnail: assets/img/2024/2024-07-23-principios-perfume.webp
 ---
 
-El perfume es una **composición** de aromas naturales que nos da personalidad o refleja la identidad que deseamos **proyectar**. Todo ello se concentra en un recipiente de cristal, como si de una «fórmula mágica» se tratara. Hay que tener presente y conocer qué fragancia armoniza con el pH de nuestra piel. Una mala interacción entre el pH cutáneo y la fragancia puede **arruinar** la imagen olfativa. Además, debemos tener en cuenta la intensidad deseada: no es lo mismo un **Eau de Toilette** (*EdT*) que un **Eau de Parfum** (*EdP*) o, más sutil aún, un **Eau de Cologne** (*EdC*). Para elegir mejor, recomiendo leer el artículo que publiqué sobre la **pirámide olfativa**; es clave para distinguir las notas de salida, las de corazón (medias) y las de fondo. ¿Qué te interesa más: unas notas de salida vibrantes, un perfume envolvente y duradero, etc.?
+El perfume es una **composición** de aromas naturales que nos da personalidad o refleja la identidad que deseamos **proyectar**. Todo ello se concentra en un recipiente de cristal, como si de una «fórmula mágica» se tratara. Hay que tener presente y conocer qué fragancia armoniza con el pH de nuestra piel. Una mala interacción entre el pH cutáneo y la fragancia puede **arruinar** la imagen olfativa. Además, debemos tener en cuenta la intensidad deseada: no es lo mismo un **Eau de Toilette** (_EdT_) que un **Eau de Parfum** (_EdP_) o, más sutil aún, un **Eau de Cologne** (_EdC_). Para elegir mejor, recomiendo leer el artículo que publiqué sobre la **pirámide olfativa**; es clave para distinguir las notas de salida, las de corazón (medias) y las de fondo. ¿Qué te interesa más: unas notas de salida vibrantes, un perfume envolvente y duradero, etc.?
 
-La diferencia entre las fórmulas —*eau de toilette*, *eau de parfum* o *eau de cologne*— radica en la concentración de alcohol etílico, la base principal que actúa como disolvente de las esencias. Esto influye tanto en la reacción cutánea como en los tejidos (ropa, etc.). Una vez aclarados estos conceptos, componer tu aroma es similar a crear música: utilizaremos lo aprendido sobre las notas para encontrar nuestra mejor «partitura» en sintonía con nuestra piel y personalidad. Seguro que acertarás. Vayamos pues a un repaso sobre las notas y su funcionamiento.
+La diferencia entre las fórmulas —_eau de toilette_, _eau de parfum_ o _eau de cologne_— radica en la concentración de alcohol etílico, la base principal que actúa como disolvente de las esencias. Esto influye tanto en la reacción cutánea como en los tejidos (ropa, etc.). Una vez aclarados estos conceptos, componer tu aroma es similar a crear música: utilizaremos lo aprendido sobre las notas para encontrar nuestra mejor «partitura» en sintonía con nuestra piel y personalidad. Seguro que acertarás. Vayamos pues a un repaso sobre las notas y su funcionamiento.
 
 <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/2024/2024-07-23-principios-perfume.webp" class="img-fluid rounded z-depth-1" %}
@@ -39,16 +39,15 @@ Para dominar el arte de perfumarse, es crucial atender a estos detalles para evi
 
 **Los puntos calientes.** ¿Qué son? Son aquellas zonas donde hay mayor irrigación sanguínea. La interacción con el perfume es más intensa allí, lo que prolonga su duración.
 
-> *Perfumarse es como componer una música, usaremos lo que hemos aprendido sobre las notas del perfume para buscar nuestra mejor “partitura” junto a nuestra piel, nuestra personalidad*.
+> _Perfumarse es como componer una música, usaremos lo que hemos aprendido sobre las notas del perfume para buscar nuestra mejor “partitura” junto a nuestra piel, nuestra personalidad_.
 
-
-Las zonas, *puntos calientes*, más adecuadas son los pliegues del cuello, las muñecas y detrás de las orejas. Aunque esto sea conocido, existen otros puntos estratégicos: áreas cálidas y ligeramente húmedas como la nuca, el escote, las ingles, la zona lumbar, el ombligo, los pliegues de los codos o las rodillas.
+Las zonas, _puntos calientes_, más adecuadas son los pliegues del cuello, las muñecas y detrás de las orejas. Aunque esto sea conocido, existen otros puntos estratégicos: áreas cálidas y ligeramente húmedas como la nuca, el escote, las ingles, la zona lumbar, el ombligo, los pliegues de los codos o las rodillas.
 
 Aunque haya quien no le gusta, puedes perfumarte el cabello, independientemente de su longitud. También en la ropa, si deseas dejar huella de tu personalidad. Yo lo hago: no hay chaqueta o corbata que no lleve mi fragancia. No obstante, la aplicación textil requiere técnica: vaporiza siempre por el interior de la prenda. Pañuelos, fulares y otros complementos son excelentes soportes; mi bufanda es fiel testigo de ello.
 
 Hasta aquí la técnica. Ahora depende de ti identificar qué esencias reflejan mejor tu identidad: florales, cítricas, amaderadas, etc.
 
-Acude a la tienda y solicita probar la fragancia seleccionada en una moulette neutra para apreciar sus notas reales. Después, vaporízala en tu piel. Espera el tiempo necesario para observar su interacción en tu piel. Si el resultado te agrada, elige la concentración adecuada según el uso previsto: *eau de toilette*, *eau de parfum* o *eau de cologne*, si lo huebiere.
+Acude a la tienda y solicita probar la fragancia seleccionada en una moulette neutra para apreciar sus notas reales. Después, vaporízala en tu piel. Espera el tiempo necesario para observar su interacción en tu piel. Si el resultado te agrada, elige la concentración adecuada según el uso previsto: _eau de toilette_, _eau de parfum_ o _eau de cologne_, si lo huebiere.
 
 Nunca frotes la piel tras la aplicación para «expandir» la fragancia, pues «alteras» sin darte cuenta las moléculas olfativas. Es una costumbre anticuada que debe descartarse. Al frotar, «quemas» literalmente las notas, rompiendo la armonía y alterando la composición. Tampoco debes de oler más de cuatro perfumes seguidos si no estás acostumbrado, pues saturarás tu olfato y no podrás distinguir ni separar los matices aromáticos, ni compararlos con los olidos anteriormente.
 
@@ -56,4 +55,4 @@ Un detalle que no quiero pasar por alto, y esto va tanto en perfumes como en amb
 
 Con estas recomendaciones, espero que aciertes con tu próxima fragancia.
 
- **Pedro Uribarri**. *Publicado originalmente en **Fragancia digital** (2017).*
+**Pedro Uribarri**. _Publicado originalmente en **Fragancia digital** (2017)._
